@@ -1,0 +1,135 @@
+[2021-05-12 09:51:22,903] {taskinstance.py:877} INFO - Dependencies all met for <TaskInstance: email_test.send_email 2021-05-11T00:00:00+00:00 [queued]>
+[2021-05-12 09:51:22,910] {taskinstance.py:877} INFO - Dependencies all met for <TaskInstance: email_test.send_email 2021-05-11T00:00:00+00:00 [queued]>
+[2021-05-12 09:51:22,910] {taskinstance.py:1068} INFO - 
+--------------------------------------------------------------------------------
+[2021-05-12 09:51:22,910] {taskinstance.py:1069} INFO - Starting attempt 7 of 13
+[2021-05-12 09:51:22,910] {taskinstance.py:1070} INFO - 
+--------------------------------------------------------------------------------
+[2021-05-12 09:51:23,028] {taskinstance.py:1089} INFO - Executing <Task(EmailOperator): send_email> on 2021-05-11T00:00:00+00:00
+[2021-05-12 09:51:23,032] {standard_task_runner.py:52} INFO - Started process 2150166 to run task
+[2021-05-12 09:51:23,040] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'email_test', 'send_email', '2021-05-11T00:00:00+00:00', '--job-id', '37', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/email_test.py', '--cfg-path', '/tmp/tmpuwbmmjd9', '--error-file', '/tmp/tmpfdhtj67e']
+[2021-05-12 09:51:23,040] {standard_task_runner.py:77} INFO - Job 37: Subtask send_email
+[2021-05-12 09:51:23,178] {logging_mixin.py:104} INFO - Running <TaskInstance: email_test.send_email 2021-05-11T00:00:00+00:00 [running]> on host sdn-k8s-b2-3-3.maas
+[2021-05-12 09:51:23,204] {taskinstance.py:1281} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=davidwu5858@gmail.com
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=email_test
+AIRFLOW_CTX_TASK_ID=send_email
+AIRFLOW_CTX_EXECUTION_DATE=2021-05-11T00:00:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2021-05-11T00:00:00+00:00
+[2021-05-12 09:51:23,206] {email.py:184} INFO - Email alerting: attempt 1
+[2021-05-12 09:51:23,207] {taskinstance.py:1482} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/ubuntu/venv/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1138, in _run_raw_task
+    self._prepare_and_execute_task_with_callbacks(context, task)
+  File "/home/ubuntu/venv/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1311, in _prepare_and_execute_task_with_callbacks
+    result = self._execute_task(context, task_copy)
+  File "/home/ubuntu/venv/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1341, in _execute_task
+    result = task_copy.execute(context=context)
+  File "/home/ubuntu/venv/lib/python3.8/site-packages/airflow/operators/email.py", line 79, in execute
+    send_email(
+  File "/home/ubuntu/venv/lib/python3.8/site-packages/airflow/utils/email.py", line 52, in send_email
+    return backend(
+  File "/home/ubuntu/venv/lib/python3.8/site-packages/airflow/utils/email.py", line 97, in send_email_smtp
+    send_mime_email(e_from=smtp_mail_from, e_to=recipients, mime_msg=msg, dryrun=dryrun)
+  File "/home/ubuntu/venv/lib/python3.8/site-packages/airflow/utils/email.py", line 186, in send_mime_email
+    conn = _get_smtp_connection(smtp_host, smtp_port, smtp_timeout, smtp_ssl)
+  File "/home/ubuntu/venv/lib/python3.8/site-packages/airflow/utils/email.py", line 220, in _get_smtp_connection
+    else smtplib.SMTP(host=host, port=port, timeout=timeout)
+  File "/usr/lib/python3.8/smtplib.py", line 253, in __init__
+    (code, msg) = self.connect(host, port)
+  File "/usr/lib/python3.8/smtplib.py", line 339, in connect
+    self.sock = self._get_socket(host, port, self.timeout)
+  File "/usr/lib/python3.8/smtplib.py", line 308, in _get_socket
+    return socket.create_connection((host, port), timeout,
+  File "/usr/lib/python3.8/socket.py", line 808, in create_connection
+    raise err
+  File "/usr/lib/python3.8/socket.py", line 796, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+[2021-05-12 09:51:23,210] {taskinstance.py:1525} INFO - Marking task as UP_FOR_RETRY. dag_id=email_test, task_id=send_email, execution_date=20210511T000000, start_date=20210512T095122, end_date=20210512T095123
+[2021-05-12 09:51:23,222] {email.py:184} INFO - Email alerting: attempt 1
+[2021-05-12 09:51:23,223] {email.py:184} INFO - Email alerting: attempt 1
+[2021-05-12 09:51:23,223] {taskinstance.py:1538} ERROR - Failed to send email to: ['davidwu5858@gmail.com']
+[2021-05-12 09:51:23,223] {taskinstance.py:1539} ERROR - [Errno 111] Connection refused
+Traceback (most recent call last):
+  File "/home/ubuntu/venv/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1138, in _run_raw_task
+    self._prepare_and_execute_task_with_callbacks(context, task)
+  File "/home/ubuntu/venv/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1311, in _prepare_and_execute_task_with_callbacks
+    result = self._execute_task(context, task_copy)
+  File "/home/ubuntu/venv/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1341, in _execute_task
+    result = task_copy.execute(context=context)
+  File "/home/ubuntu/venv/lib/python3.8/site-packages/airflow/operators/email.py", line 79, in execute
+    send_email(
+  File "/home/ubuntu/venv/lib/python3.8/site-packages/airflow/utils/email.py", line 52, in send_email
+    return backend(
+  File "/home/ubuntu/venv/lib/python3.8/site-packages/airflow/utils/email.py", line 97, in send_email_smtp
+    send_mime_email(e_from=smtp_mail_from, e_to=recipients, mime_msg=msg, dryrun=dryrun)
+  File "/home/ubuntu/venv/lib/python3.8/site-packages/airflow/utils/email.py", line 186, in send_mime_email
+    conn = _get_smtp_connection(smtp_host, smtp_port, smtp_timeout, smtp_ssl)
+  File "/home/ubuntu/venv/lib/python3.8/site-packages/airflow/utils/email.py", line 220, in _get_smtp_connection
+    else smtplib.SMTP(host=host, port=port, timeout=timeout)
+  File "/usr/lib/python3.8/smtplib.py", line 253, in __init__
+    (code, msg) = self.connect(host, port)
+  File "/usr/lib/python3.8/smtplib.py", line 339, in connect
+    self.sock = self._get_socket(host, port, self.timeout)
+  File "/usr/lib/python3.8/smtplib.py", line 308, in _get_socket
+    return socket.create_connection((host, port), timeout,
+  File "/usr/lib/python3.8/socket.py", line 808, in create_connection
+    raise err
+  File "/usr/lib/python3.8/socket.py", line 796, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/venv/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1881, in email_alert
+    send_email(self.task.email, subject, html_content)
+  File "/home/ubuntu/venv/lib/python3.8/site-packages/airflow/utils/email.py", line 52, in send_email
+    return backend(
+  File "/home/ubuntu/venv/lib/python3.8/site-packages/airflow/utils/email.py", line 97, in send_email_smtp
+    send_mime_email(e_from=smtp_mail_from, e_to=recipients, mime_msg=msg, dryrun=dryrun)
+  File "/home/ubuntu/venv/lib/python3.8/site-packages/airflow/utils/email.py", line 186, in send_mime_email
+    conn = _get_smtp_connection(smtp_host, smtp_port, smtp_timeout, smtp_ssl)
+  File "/home/ubuntu/venv/lib/python3.8/site-packages/airflow/utils/email.py", line 220, in _get_smtp_connection
+    else smtplib.SMTP(host=host, port=port, timeout=timeout)
+  File "/usr/lib/python3.8/smtplib.py", line 253, in __init__
+    (code, msg) = self.connect(host, port)
+  File "/usr/lib/python3.8/smtplib.py", line 339, in connect
+    self.sock = self._get_socket(host, port, self.timeout)
+  File "/usr/lib/python3.8/smtplib.py", line 308, in _get_socket
+    return socket.create_connection((host, port), timeout,
+  File "/usr/lib/python3.8/socket.py", line 808, in create_connection
+    raise err
+  File "/usr/lib/python3.8/socket.py", line 796, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ubuntu/venv/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1536, in handle_failure
+    self.email_alert(error)
+  File "/home/ubuntu/venv/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1883, in email_alert
+    send_email(self.task.email, subject, html_content_err)
+  File "/home/ubuntu/venv/lib/python3.8/site-packages/airflow/utils/email.py", line 52, in send_email
+    return backend(
+  File "/home/ubuntu/venv/lib/python3.8/site-packages/airflow/utils/email.py", line 97, in send_email_smtp
+    send_mime_email(e_from=smtp_mail_from, e_to=recipients, mime_msg=msg, dryrun=dryrun)
+  File "/home/ubuntu/venv/lib/python3.8/site-packages/airflow/utils/email.py", line 186, in send_mime_email
+    conn = _get_smtp_connection(smtp_host, smtp_port, smtp_timeout, smtp_ssl)
+  File "/home/ubuntu/venv/lib/python3.8/site-packages/airflow/utils/email.py", line 220, in _get_smtp_connection
+    else smtplib.SMTP(host=host, port=port, timeout=timeout)
+  File "/usr/lib/python3.8/smtplib.py", line 253, in __init__
+    (code, msg) = self.connect(host, port)
+  File "/usr/lib/python3.8/smtplib.py", line 339, in connect
+    self.sock = self._get_socket(host, port, self.timeout)
+  File "/usr/lib/python3.8/smtplib.py", line 308, in _get_socket
+    return socket.create_connection((host, port), timeout,
+  File "/usr/lib/python3.8/socket.py", line 808, in create_connection
+    raise err
+  File "/usr/lib/python3.8/socket.py", line 796, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+[2021-05-12 09:51:23,412] {local_task_job.py:146} INFO - Task exited with return code 1

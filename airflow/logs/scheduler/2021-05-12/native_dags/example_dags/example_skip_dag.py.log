@@ -1,0 +1,777 @@
+[2021-05-12 06:28:16,564] {scheduler_job.py:182} INFO - Started process (PID=2008404) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:28:16,566] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 06:28:16,567] {logging_mixin.py:104} INFO - [2021-05-12 06:28:16,566] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:28:16,579] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:28:16,604] {logging_mixin.py:104} INFO - [2021-05-12 06:28:16,604] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:28:16,626] {logging_mixin.py:104} INFO - [2021-05-12 06:28:16,626] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:28:16,766] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.205 seconds
+[2021-05-12 06:28:57,768] {scheduler_job.py:182} INFO - Started process (PID=2008939) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:28:57,769] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 06:28:57,770] {logging_mixin.py:104} INFO - [2021-05-12 06:28:57,770] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:28:57,780] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:28:57,796] {logging_mixin.py:104} INFO - [2021-05-12 06:28:57,796] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:28:57,807] {logging_mixin.py:104} INFO - [2021-05-12 06:28:57,807] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:28:57,907] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.142 seconds
+[2021-05-12 06:29:28,104] {scheduler_job.py:182} INFO - Started process (PID=2009248) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:29:28,105] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 06:29:28,106] {logging_mixin.py:104} INFO - [2021-05-12 06:29:28,106] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:29:28,119] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:29:28,133] {logging_mixin.py:104} INFO - [2021-05-12 06:29:28,133] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:29:28,144] {logging_mixin.py:104} INFO - [2021-05-12 06:29:28,144] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:29:28,256] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.156 seconds
+[2021-05-12 06:29:59,890] {scheduler_job.py:182} INFO - Started process (PID=2009675) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:29:59,892] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 06:29:59,892] {logging_mixin.py:104} INFO - [2021-05-12 06:29:59,892] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:29:59,905] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:29:59,919] {logging_mixin.py:104} INFO - [2021-05-12 06:29:59,919] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:29:59,930] {logging_mixin.py:104} INFO - [2021-05-12 06:29:59,930] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:30:00,131] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.244 seconds
+[2021-05-12 06:30:30,271] {scheduler_job.py:182} INFO - Started process (PID=2009992) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:30:30,273] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 06:30:30,273] {logging_mixin.py:104} INFO - [2021-05-12 06:30:30,273] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:30:30,287] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:30:30,301] {logging_mixin.py:104} INFO - [2021-05-12 06:30:30,301] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:30:30,312] {logging_mixin.py:104} INFO - [2021-05-12 06:30:30,312] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:30:30,406] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.138 seconds
+[2021-05-12 06:31:01,898] {scheduler_job.py:182} INFO - Started process (PID=2010302) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:31:01,900] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 06:31:01,900] {logging_mixin.py:104} INFO - [2021-05-12 06:31:01,900] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:31:01,915] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:31:01,929] {logging_mixin.py:104} INFO - [2021-05-12 06:31:01,928] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:31:01,939] {logging_mixin.py:104} INFO - [2021-05-12 06:31:01,939] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:31:02,030] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.135 seconds
+[2021-05-12 06:31:32,553] {scheduler_job.py:182} INFO - Started process (PID=2010593) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:31:32,554] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 06:31:32,555] {logging_mixin.py:104} INFO - [2021-05-12 06:31:32,555] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:31:32,568] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:31:32,582] {logging_mixin.py:104} INFO - [2021-05-12 06:31:32,582] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:31:32,593] {logging_mixin.py:104} INFO - [2021-05-12 06:31:32,593] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:31:32,688] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.138 seconds
+[2021-05-12 06:32:03,526] {scheduler_job.py:182} INFO - Started process (PID=2010879) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:32:03,528] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 06:32:03,532] {logging_mixin.py:104} INFO - [2021-05-12 06:32:03,531] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:32:03,541] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:32:03,555] {logging_mixin.py:104} INFO - [2021-05-12 06:32:03,555] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:32:03,567] {logging_mixin.py:104} INFO - [2021-05-12 06:32:03,567] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:32:03,662] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.140 seconds
+[2021-05-12 06:32:34,255] {scheduler_job.py:182} INFO - Started process (PID=2011172) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:32:34,257] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 06:32:34,257] {logging_mixin.py:104} INFO - [2021-05-12 06:32:34,257] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:32:34,268] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:32:34,282] {logging_mixin.py:104} INFO - [2021-05-12 06:32:34,282] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:32:34,293] {logging_mixin.py:104} INFO - [2021-05-12 06:32:34,293] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:32:34,395] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.143 seconds
+[2021-05-12 06:33:04,659] {scheduler_job.py:182} INFO - Started process (PID=2011595) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:33:04,661] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 06:33:04,661] {logging_mixin.py:104} INFO - [2021-05-12 06:33:04,661] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:33:04,671] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:33:04,686] {logging_mixin.py:104} INFO - [2021-05-12 06:33:04,685] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:33:04,697] {logging_mixin.py:104} INFO - [2021-05-12 06:33:04,697] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:33:04,820] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.164 seconds
+[2021-05-12 06:33:35,754] {scheduler_job.py:182} INFO - Started process (PID=2011915) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:33:35,756] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 06:33:35,757] {logging_mixin.py:104} INFO - [2021-05-12 06:33:35,757] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:33:35,768] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:33:35,782] {logging_mixin.py:104} INFO - [2021-05-12 06:33:35,782] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:33:35,793] {logging_mixin.py:104} INFO - [2021-05-12 06:33:35,793] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:33:35,903] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.152 seconds
+[2021-05-12 06:34:07,247] {scheduler_job.py:182} INFO - Started process (PID=2012258) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:34:07,248] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 06:34:07,249] {logging_mixin.py:104} INFO - [2021-05-12 06:34:07,249] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:34:07,260] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:34:07,274] {logging_mixin.py:104} INFO - [2021-05-12 06:34:07,274] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:34:07,285] {logging_mixin.py:104} INFO - [2021-05-12 06:34:07,285] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:34:07,386] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.142 seconds
+[2021-05-12 06:34:38,387] {scheduler_job.py:182} INFO - Started process (PID=2012703) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:34:38,388] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 06:34:38,389] {logging_mixin.py:104} INFO - [2021-05-12 06:34:38,389] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:34:38,399] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:34:38,413] {logging_mixin.py:104} INFO - [2021-05-12 06:34:38,413] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:34:38,426] {logging_mixin.py:104} INFO - [2021-05-12 06:34:38,425] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:34:38,579] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.196 seconds
+[2021-05-12 06:35:09,133] {scheduler_job.py:182} INFO - Started process (PID=2013022) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:35:09,134] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 06:35:09,135] {logging_mixin.py:104} INFO - [2021-05-12 06:35:09,135] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:35:09,144] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:35:09,160] {logging_mixin.py:104} INFO - [2021-05-12 06:35:09,160] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:35:09,171] {logging_mixin.py:104} INFO - [2021-05-12 06:35:09,171] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:35:09,303] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.174 seconds
+[2021-05-12 06:35:40,097] {scheduler_job.py:182} INFO - Started process (PID=2013447) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:35:40,099] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 06:35:40,099] {logging_mixin.py:104} INFO - [2021-05-12 06:35:40,099] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:35:40,109] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:35:40,123] {logging_mixin.py:104} INFO - [2021-05-12 06:35:40,123] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:35:40,135] {logging_mixin.py:104} INFO - [2021-05-12 06:35:40,134] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:35:40,296] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.202 seconds
+[2021-05-12 06:36:10,779] {scheduler_job.py:182} INFO - Started process (PID=2013767) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:36:10,780] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 06:36:10,781] {logging_mixin.py:104} INFO - [2021-05-12 06:36:10,781] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:36:10,792] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:36:10,806] {logging_mixin.py:104} INFO - [2021-05-12 06:36:10,806] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:36:10,817] {logging_mixin.py:104} INFO - [2021-05-12 06:36:10,817] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:36:10,917] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.141 seconds
+[2021-05-12 06:36:41,433] {scheduler_job.py:182} INFO - Started process (PID=2014057) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:36:41,434] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 06:36:41,435] {logging_mixin.py:104} INFO - [2021-05-12 06:36:41,434] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:36:41,446] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:36:41,460] {logging_mixin.py:104} INFO - [2021-05-12 06:36:41,460] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:36:41,471] {logging_mixin.py:104} INFO - [2021-05-12 06:36:41,471] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:36:41,567] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.138 seconds
+[2021-05-12 06:37:12,658] {scheduler_job.py:182} INFO - Started process (PID=2014355) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:37:12,660] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 06:37:12,660] {logging_mixin.py:104} INFO - [2021-05-12 06:37:12,660] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:37:12,670] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:37:12,685] {logging_mixin.py:104} INFO - [2021-05-12 06:37:12,685] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:37:12,696] {logging_mixin.py:104} INFO - [2021-05-12 06:37:12,696] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:37:12,867] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.212 seconds
+[2021-05-12 06:37:43,297] {scheduler_job.py:182} INFO - Started process (PID=2014645) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:37:43,298] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 06:37:43,299] {logging_mixin.py:104} INFO - [2021-05-12 06:37:43,299] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:37:43,310] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:37:43,325] {logging_mixin.py:104} INFO - [2021-05-12 06:37:43,325] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:37:43,336] {logging_mixin.py:104} INFO - [2021-05-12 06:37:43,336] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:37:43,468] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.174 seconds
+[2021-05-12 06:38:15,359] {scheduler_job.py:182} INFO - Started process (PID=2014934) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:38:15,360] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 06:38:15,360] {logging_mixin.py:104} INFO - [2021-05-12 06:38:15,360] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:38:15,370] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:38:15,385] {logging_mixin.py:104} INFO - [2021-05-12 06:38:15,385] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:38:15,396] {logging_mixin.py:104} INFO - [2021-05-12 06:38:15,395] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:38:15,651] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.295 seconds
+[2021-05-12 06:38:46,142] {scheduler_job.py:182} INFO - Started process (PID=2015368) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:38:46,144] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 06:38:46,144] {logging_mixin.py:104} INFO - [2021-05-12 06:38:46,144] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:38:46,155] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:38:46,170] {logging_mixin.py:104} INFO - [2021-05-12 06:38:46,170] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:38:46,181] {logging_mixin.py:104} INFO - [2021-05-12 06:38:46,181] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:38:46,307] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.168 seconds
+[2021-05-12 06:39:17,213] {scheduler_job.py:182} INFO - Started process (PID=2015695) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:39:17,214] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 06:39:17,215] {logging_mixin.py:104} INFO - [2021-05-12 06:39:17,214] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:39:17,225] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:39:17,240] {logging_mixin.py:104} INFO - [2021-05-12 06:39:17,240] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:39:17,251] {logging_mixin.py:104} INFO - [2021-05-12 06:39:17,251] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:39:17,348] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.139 seconds
+[2021-05-12 06:39:47,811] {scheduler_job.py:182} INFO - Started process (PID=2015978) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:39:47,814] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 06:39:47,814] {logging_mixin.py:104} INFO - [2021-05-12 06:39:47,814] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:39:47,825] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:39:47,839] {logging_mixin.py:104} INFO - [2021-05-12 06:39:47,839] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:39:47,850] {logging_mixin.py:104} INFO - [2021-05-12 06:39:47,850] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:39:47,947] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.140 seconds
+[2021-05-12 06:40:22,001] {scheduler_job.py:182} INFO - Started process (PID=2016493) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:40:22,003] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 06:40:22,003] {logging_mixin.py:104} INFO - [2021-05-12 06:40:22,003] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:40:22,014] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:40:22,029] {logging_mixin.py:104} INFO - [2021-05-12 06:40:22,028] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:40:22,039] {logging_mixin.py:104} INFO - [2021-05-12 06:40:22,039] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:40:22,130] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.133 seconds
+[2021-05-12 06:40:52,749] {scheduler_job.py:182} INFO - Started process (PID=2016821) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:40:52,751] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 06:40:52,752] {logging_mixin.py:104} INFO - [2021-05-12 06:40:52,751] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:40:52,762] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:40:52,777] {logging_mixin.py:104} INFO - [2021-05-12 06:40:52,776] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:40:52,788] {logging_mixin.py:104} INFO - [2021-05-12 06:40:52,787] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:40:52,930] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.184 seconds
+[2021-05-12 06:41:24,233] {scheduler_job.py:182} INFO - Started process (PID=2017257) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:41:24,235] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 06:41:24,235] {logging_mixin.py:104} INFO - [2021-05-12 06:41:24,235] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:41:24,246] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:41:24,261] {logging_mixin.py:104} INFO - [2021-05-12 06:41:24,260] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:41:24,272] {logging_mixin.py:104} INFO - [2021-05-12 06:41:24,271] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:41:24,362] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.132 seconds
+[2021-05-12 06:41:54,719] {scheduler_job.py:182} INFO - Started process (PID=2017565) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:41:54,721] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 06:41:54,721] {logging_mixin.py:104} INFO - [2021-05-12 06:41:54,721] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:41:54,732] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:41:54,747] {logging_mixin.py:104} INFO - [2021-05-12 06:41:54,747] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:41:54,758] {logging_mixin.py:104} INFO - [2021-05-12 06:41:54,758] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:41:54,864] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.148 seconds
+[2021-05-12 06:42:26,562] {scheduler_job.py:182} INFO - Started process (PID=2017861) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:42:26,563] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 06:42:26,564] {logging_mixin.py:104} INFO - [2021-05-12 06:42:26,564] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:42:26,574] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:42:26,589] {logging_mixin.py:104} INFO - [2021-05-12 06:42:26,589] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:42:26,600] {logging_mixin.py:104} INFO - [2021-05-12 06:42:26,600] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:42:26,755] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.197 seconds
+[2021-05-12 06:42:56,921] {scheduler_job.py:182} INFO - Started process (PID=2018151) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:42:56,923] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 06:42:56,924] {logging_mixin.py:104} INFO - [2021-05-12 06:42:56,924] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:42:56,934] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:42:56,949] {logging_mixin.py:104} INFO - [2021-05-12 06:42:56,949] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:42:56,960] {logging_mixin.py:104} INFO - [2021-05-12 06:42:56,960] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:42:57,061] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.144 seconds
+[2021-05-12 06:43:28,687] {scheduler_job.py:182} INFO - Started process (PID=2018444) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:43:28,688] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 06:43:28,689] {logging_mixin.py:104} INFO - [2021-05-12 06:43:28,689] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:43:28,699] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:43:28,714] {logging_mixin.py:104} INFO - [2021-05-12 06:43:28,714] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:43:28,725] {logging_mixin.py:104} INFO - [2021-05-12 06:43:28,724] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:43:28,921] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.238 seconds
+[2021-05-12 06:44:00,335] {scheduler_job.py:182} INFO - Started process (PID=2018863) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:44:00,337] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 06:44:00,337] {logging_mixin.py:104} INFO - [2021-05-12 06:44:00,337] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:44:00,352] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:44:00,369] {logging_mixin.py:104} INFO - [2021-05-12 06:44:00,369] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:44:00,383] {logging_mixin.py:104} INFO - [2021-05-12 06:44:00,383] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:44:00,510] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.179 seconds
+[2021-05-12 06:44:31,328] {scheduler_job.py:182} INFO - Started process (PID=2019189) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:44:31,330] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 06:44:31,330] {logging_mixin.py:104} INFO - [2021-05-12 06:44:31,330] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:44:31,341] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:44:31,356] {logging_mixin.py:104} INFO - [2021-05-12 06:44:31,356] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:44:31,367] {logging_mixin.py:104} INFO - [2021-05-12 06:44:31,367] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:44:31,530] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.205 seconds
+[2021-05-12 06:45:02,037] {scheduler_job.py:182} INFO - Started process (PID=2019484) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:45:02,039] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 06:45:02,040] {logging_mixin.py:104} INFO - [2021-05-12 06:45:02,040] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:45:02,050] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:45:02,064] {logging_mixin.py:104} INFO - [2021-05-12 06:45:02,064] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:45:02,075] {logging_mixin.py:104} INFO - [2021-05-12 06:45:02,075] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:45:02,193] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.159 seconds
+[2021-05-12 06:45:32,629] {scheduler_job.py:182} INFO - Started process (PID=2019817) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:45:32,630] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 06:45:32,631] {logging_mixin.py:104} INFO - [2021-05-12 06:45:32,631] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:45:32,644] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:45:32,661] {logging_mixin.py:104} INFO - [2021-05-12 06:45:32,661] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:45:32,675] {logging_mixin.py:104} INFO - [2021-05-12 06:45:32,675] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:45:32,801] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.175 seconds
+[2021-05-12 06:46:03,288] {scheduler_job.py:182} INFO - Started process (PID=2020300) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:46:03,289] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 06:46:03,290] {logging_mixin.py:104} INFO - [2021-05-12 06:46:03,290] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:46:03,300] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:46:03,315] {logging_mixin.py:104} INFO - [2021-05-12 06:46:03,315] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:46:03,327] {logging_mixin.py:104} INFO - [2021-05-12 06:46:03,327] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:46:03,485] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.200 seconds
+[2021-05-12 06:46:35,339] {scheduler_job.py:182} INFO - Started process (PID=2020632) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:46:35,341] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 06:46:35,341] {logging_mixin.py:104} INFO - [2021-05-12 06:46:35,341] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:46:35,352] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:46:35,366] {logging_mixin.py:104} INFO - [2021-05-12 06:46:35,366] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:46:35,377] {logging_mixin.py:104} INFO - [2021-05-12 06:46:35,377] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:46:35,475] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.140 seconds
+[2021-05-12 06:47:06,281] {scheduler_job.py:182} INFO - Started process (PID=2021056) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:47:06,282] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 06:47:06,283] {logging_mixin.py:104} INFO - [2021-05-12 06:47:06,283] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:47:06,294] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:47:06,309] {logging_mixin.py:104} INFO - [2021-05-12 06:47:06,309] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:47:06,320] {logging_mixin.py:104} INFO - [2021-05-12 06:47:06,320] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:47:06,424] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.147 seconds
+[2021-05-12 06:47:37,011] {scheduler_job.py:182} INFO - Started process (PID=2021379) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:47:37,012] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 06:47:37,013] {logging_mixin.py:104} INFO - [2021-05-12 06:47:37,012] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:47:37,023] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:47:37,038] {logging_mixin.py:104} INFO - [2021-05-12 06:47:37,038] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:47:37,049] {logging_mixin.py:104} INFO - [2021-05-12 06:47:37,049] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:47:37,159] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.152 seconds
+[2021-05-12 06:48:07,793] {scheduler_job.py:182} INFO - Started process (PID=2021677) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:48:07,795] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 06:48:07,796] {logging_mixin.py:104} INFO - [2021-05-12 06:48:07,796] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:48:07,806] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:48:07,821] {logging_mixin.py:104} INFO - [2021-05-12 06:48:07,821] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:48:07,832] {logging_mixin.py:104} INFO - [2021-05-12 06:48:07,831] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:48:07,923] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.134 seconds
+[2021-05-12 06:48:38,378] {scheduler_job.py:182} INFO - Started process (PID=2021970) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:48:38,380] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 06:48:38,380] {logging_mixin.py:104} INFO - [2021-05-12 06:48:38,380] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:48:38,391] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:48:38,406] {logging_mixin.py:104} INFO - [2021-05-12 06:48:38,406] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:48:38,417] {logging_mixin.py:104} INFO - [2021-05-12 06:48:38,417] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:48:38,540] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.165 seconds
+[2021-05-12 06:49:09,862] {scheduler_job.py:182} INFO - Started process (PID=2022263) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:49:09,863] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 06:49:09,864] {logging_mixin.py:104} INFO - [2021-05-12 06:49:09,863] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:49:09,874] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:49:09,889] {logging_mixin.py:104} INFO - [2021-05-12 06:49:09,888] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:49:09,900] {logging_mixin.py:104} INFO - [2021-05-12 06:49:09,900] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:49:10,025] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.167 seconds
+[2021-05-12 06:49:40,567] {scheduler_job.py:182} INFO - Started process (PID=2022688) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:49:40,568] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 06:49:40,569] {logging_mixin.py:104} INFO - [2021-05-12 06:49:40,569] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:49:40,579] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:49:40,594] {logging_mixin.py:104} INFO - [2021-05-12 06:49:40,594] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:49:40,605] {logging_mixin.py:104} INFO - [2021-05-12 06:49:40,605] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:49:40,697] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.134 seconds
+[2021-05-12 06:50:11,069] {scheduler_job.py:182} INFO - Started process (PID=2023020) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:50:11,070] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 06:50:11,071] {logging_mixin.py:104} INFO - [2021-05-12 06:50:11,071] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:50:11,081] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:50:11,096] {logging_mixin.py:104} INFO - [2021-05-12 06:50:11,096] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:50:11,110] {logging_mixin.py:104} INFO - [2021-05-12 06:50:11,110] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:50:11,224] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.158 seconds
+[2021-05-12 06:50:41,805] {scheduler_job.py:182} INFO - Started process (PID=2023315) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:50:41,806] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 06:50:41,807] {logging_mixin.py:104} INFO - [2021-05-12 06:50:41,807] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:50:41,817] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:50:41,832] {logging_mixin.py:104} INFO - [2021-05-12 06:50:41,832] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:50:41,843] {logging_mixin.py:104} INFO - [2021-05-12 06:50:41,843] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:50:41,938] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.136 seconds
+[2021-05-12 06:51:12,036] {scheduler_job.py:182} INFO - Started process (PID=2023605) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:51:12,038] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 06:51:12,039] {logging_mixin.py:104} INFO - [2021-05-12 06:51:12,039] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:51:12,048] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:51:12,063] {logging_mixin.py:104} INFO - [2021-05-12 06:51:12,063] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:51:12,074] {logging_mixin.py:104} INFO - [2021-05-12 06:51:12,074] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:51:12,171] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.139 seconds
+[2021-05-12 06:51:43,079] {scheduler_job.py:182} INFO - Started process (PID=2024056) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:51:43,080] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 06:51:43,081] {logging_mixin.py:104} INFO - [2021-05-12 06:51:43,081] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:51:43,091] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:51:43,106] {logging_mixin.py:104} INFO - [2021-05-12 06:51:43,105] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:51:43,117] {logging_mixin.py:104} INFO - [2021-05-12 06:51:43,117] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:51:43,220] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.145 seconds
+[2021-05-12 06:52:13,812] {scheduler_job.py:182} INFO - Started process (PID=2024377) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:52:13,814] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 06:52:13,815] {logging_mixin.py:104} INFO - [2021-05-12 06:52:13,815] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:52:13,826] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:52:13,841] {logging_mixin.py:104} INFO - [2021-05-12 06:52:13,841] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:52:13,852] {logging_mixin.py:104} INFO - [2021-05-12 06:52:13,851] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:52:13,970] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.161 seconds
+[2021-05-12 06:52:44,759] {scheduler_job.py:182} INFO - Started process (PID=2024794) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:52:44,760] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 06:52:44,761] {logging_mixin.py:104} INFO - [2021-05-12 06:52:44,761] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:52:44,771] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 06:52:44,786] {logging_mixin.py:104} INFO - [2021-05-12 06:52:44,786] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:52:44,797] {logging_mixin.py:104} INFO - [2021-05-12 06:52:44,797] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:52:44,894] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.139 seconds
+[2021-05-12 07:13:00,128] {scheduler_job.py:182} INFO - Started process (PID=2048509) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:13:00,129] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 07:13:00,130] {logging_mixin.py:104} INFO - [2021-05-12 07:13:00,130] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:13:00,140] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:13:00,160] {logging_mixin.py:104} INFO - [2021-05-12 07:13:00,160] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:13:00,173] {logging_mixin.py:104} INFO - [2021-05-12 07:13:00,173] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:13:00,344] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.218 seconds
+[2021-05-12 07:13:32,700] {scheduler_job.py:182} INFO - Started process (PID=2048937) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:13:32,702] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 07:13:32,702] {logging_mixin.py:104} INFO - [2021-05-12 07:13:32,702] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:13:32,716] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:13:32,730] {logging_mixin.py:104} INFO - [2021-05-12 07:13:32,730] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:13:32,741] {logging_mixin.py:104} INFO - [2021-05-12 07:13:32,741] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:13:32,836] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.139 seconds
+[2021-05-12 07:14:03,233] {scheduler_job.py:182} INFO - Started process (PID=2049237) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:14:03,235] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 07:14:03,235] {logging_mixin.py:104} INFO - [2021-05-12 07:14:03,235] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:14:03,247] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:14:03,261] {logging_mixin.py:104} INFO - [2021-05-12 07:14:03,261] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:14:03,272] {logging_mixin.py:104} INFO - [2021-05-12 07:14:03,272] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:14:03,409] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.179 seconds
+[2021-05-12 07:14:34,195] {scheduler_job.py:182} INFO - Started process (PID=2049534) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:14:34,197] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 07:14:34,197] {logging_mixin.py:104} INFO - [2021-05-12 07:14:34,197] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:14:34,211] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:14:34,232] {logging_mixin.py:104} INFO - [2021-05-12 07:14:34,231] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:14:34,250] {logging_mixin.py:104} INFO - [2021-05-12 07:14:34,250] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:14:34,493] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.300 seconds
+[2021-05-12 07:15:06,132] {scheduler_job.py:182} INFO - Started process (PID=2049990) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:15:06,134] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 07:15:06,134] {logging_mixin.py:104} INFO - [2021-05-12 07:15:06,134] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:15:06,147] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:15:06,161] {logging_mixin.py:104} INFO - [2021-05-12 07:15:06,161] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:15:06,173] {logging_mixin.py:104} INFO - [2021-05-12 07:15:06,173] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:15:06,370] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.241 seconds
+[2021-05-12 07:15:36,913] {scheduler_job.py:182} INFO - Started process (PID=2050301) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:15:36,914] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 07:15:36,915] {logging_mixin.py:104} INFO - [2021-05-12 07:15:36,915] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:15:36,927] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:15:36,941] {logging_mixin.py:104} INFO - [2021-05-12 07:15:36,941] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:15:36,952] {logging_mixin.py:104} INFO - [2021-05-12 07:15:36,952] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:15:37,050] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.141 seconds
+[2021-05-12 07:16:07,513] {scheduler_job.py:182} INFO - Started process (PID=2050739) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:16:07,515] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 07:16:07,516] {logging_mixin.py:104} INFO - [2021-05-12 07:16:07,515] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:16:07,529] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:16:07,543] {logging_mixin.py:104} INFO - [2021-05-12 07:16:07,543] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:16:07,554] {logging_mixin.py:104} INFO - [2021-05-12 07:16:07,554] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:16:07,666] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.156 seconds
+[2021-05-12 07:16:39,406] {scheduler_job.py:182} INFO - Started process (PID=2051082) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:16:39,411] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 07:16:39,411] {logging_mixin.py:104} INFO - [2021-05-12 07:16:39,411] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:16:39,420] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:16:39,434] {logging_mixin.py:104} INFO - [2021-05-12 07:16:39,434] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:16:39,445] {logging_mixin.py:104} INFO - [2021-05-12 07:16:39,445] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:16:39,541] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.140 seconds
+[2021-05-12 07:17:11,450] {scheduler_job.py:182} INFO - Started process (PID=2051418) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:17:11,451] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 07:17:11,452] {logging_mixin.py:104} INFO - [2021-05-12 07:17:11,452] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:17:11,462] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:17:11,477] {logging_mixin.py:104} INFO - [2021-05-12 07:17:11,476] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:17:11,488] {logging_mixin.py:104} INFO - [2021-05-12 07:17:11,487] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:17:11,632] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.185 seconds
+[2021-05-12 07:17:42,122] {scheduler_job.py:182} INFO - Started process (PID=2051704) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:17:42,123] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 07:17:42,124] {logging_mixin.py:104} INFO - [2021-05-12 07:17:42,123] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:17:42,134] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:17:42,149] {logging_mixin.py:104} INFO - [2021-05-12 07:17:42,149] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:17:42,162] {logging_mixin.py:104} INFO - [2021-05-12 07:17:42,162] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:17:42,323] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.205 seconds
+[2021-05-12 07:18:14,067] {scheduler_job.py:182} INFO - Started process (PID=2052138) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:18:14,068] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 07:18:14,069] {logging_mixin.py:104} INFO - [2021-05-12 07:18:14,069] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:18:14,079] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:18:14,094] {logging_mixin.py:104} INFO - [2021-05-12 07:18:14,094] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:18:14,105] {logging_mixin.py:104} INFO - [2021-05-12 07:18:14,105] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:18:14,222] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.159 seconds
+[2021-05-12 07:18:44,564] {scheduler_job.py:182} INFO - Started process (PID=2052453) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:18:44,568] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 07:18:44,570] {logging_mixin.py:104} INFO - [2021-05-12 07:18:44,570] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:18:44,579] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:18:44,594] {logging_mixin.py:104} INFO - [2021-05-12 07:18:44,594] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:18:44,605] {logging_mixin.py:104} INFO - [2021-05-12 07:18:44,605] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:18:44,767] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.207 seconds
+[2021-05-12 07:19:16,386] {scheduler_job.py:182} INFO - Started process (PID=2052759) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:19:16,387] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 07:19:16,388] {logging_mixin.py:104} INFO - [2021-05-12 07:19:16,388] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:19:16,398] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:19:16,413] {logging_mixin.py:104} INFO - [2021-05-12 07:19:16,413] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:19:16,424] {logging_mixin.py:104} INFO - [2021-05-12 07:19:16,424] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:19:16,513] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.131 seconds
+[2021-05-12 07:19:48,320] {scheduler_job.py:182} INFO - Started process (PID=2053054) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:19:48,321] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 07:19:48,322] {logging_mixin.py:104} INFO - [2021-05-12 07:19:48,322] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:19:48,332] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:19:48,347] {logging_mixin.py:104} INFO - [2021-05-12 07:19:48,346] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:19:48,358] {logging_mixin.py:104} INFO - [2021-05-12 07:19:48,357] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:19:48,473] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.157 seconds
+[2021-05-12 07:20:21,458] {scheduler_job.py:182} INFO - Started process (PID=2053562) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:20:21,460] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 07:20:21,460] {logging_mixin.py:104} INFO - [2021-05-12 07:20:21,460] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:20:21,472] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:20:21,486] {logging_mixin.py:104} INFO - [2021-05-12 07:20:21,486] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:20:21,497] {logging_mixin.py:104} INFO - [2021-05-12 07:20:21,497] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:20:21,622] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.167 seconds
+[2021-05-12 07:20:52,297] {scheduler_job.py:182} INFO - Started process (PID=2053887) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:20:52,299] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 07:20:52,299] {logging_mixin.py:104} INFO - [2021-05-12 07:20:52,299] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:20:52,310] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:20:52,328] {logging_mixin.py:104} INFO - [2021-05-12 07:20:52,328] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:20:52,339] {logging_mixin.py:104} INFO - [2021-05-12 07:20:52,339] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:20:52,503] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.209 seconds
+[2021-05-12 07:21:59,348] {scheduler_job.py:182} INFO - Started process (PID=2054621) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:21:59,351] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 07:21:59,352] {logging_mixin.py:104} INFO - [2021-05-12 07:21:59,352] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:21:59,382] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:21:59,437] {logging_mixin.py:104} INFO - [2021-05-12 07:21:59,437] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:21:59,449] {logging_mixin.py:104} INFO - [2021-05-12 07:21:59,449] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:21:59,791] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.448 seconds
+[2021-05-12 07:22:31,050] {scheduler_job.py:182} INFO - Started process (PID=2054981) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:22:31,052] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 07:22:31,053] {logging_mixin.py:104} INFO - [2021-05-12 07:22:31,053] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:22:31,062] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:22:31,079] {logging_mixin.py:104} INFO - [2021-05-12 07:22:31,079] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:22:31,089] {logging_mixin.py:104} INFO - [2021-05-12 07:22:31,089] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:22:31,346] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.299 seconds
+[2021-05-12 07:50:25,092] {scheduler_job.py:182} INFO - Started process (PID=2073017) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:50:25,093] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 07:50:25,094] {logging_mixin.py:104} INFO - [2021-05-12 07:50:25,094] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:50:25,105] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:50:25,123] {logging_mixin.py:104} INFO - [2021-05-12 07:50:25,123] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:50:25,136] {logging_mixin.py:104} INFO - [2021-05-12 07:50:25,136] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:50:25,450] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.362 seconds
+[2021-05-12 07:50:45,314] {scheduler_job.py:182} INFO - Started process (PID=2073233) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:50:45,315] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 07:50:45,316] {logging_mixin.py:104} INFO - [2021-05-12 07:50:45,316] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:50:45,327] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:50:45,473] {logging_mixin.py:104} INFO - [2021-05-12 07:50:45,473] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:50:45,486] {logging_mixin.py:104} INFO - [2021-05-12 07:50:45,486] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:50:45,577] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.270 seconds
+[2021-05-12 07:50:59,057] {scheduler_job.py:182} INFO - Started process (PID=2073386) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:50:59,059] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 07:50:59,059] {logging_mixin.py:104} INFO - [2021-05-12 07:50:59,059] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:50:59,069] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:50:59,083] {logging_mixin.py:104} INFO - [2021-05-12 07:50:59,083] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:50:59,094] {logging_mixin.py:104} INFO - [2021-05-12 07:50:59,094] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:50:59,285] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.232 seconds
+[2021-05-12 07:51:15,815] {scheduler_job.py:182} INFO - Started process (PID=2073550) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:51:15,817] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 07:51:15,817] {logging_mixin.py:104} INFO - [2021-05-12 07:51:15,817] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:51:15,827] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:51:16,020] {logging_mixin.py:104} INFO - [2021-05-12 07:51:16,020] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:51:16,032] {logging_mixin.py:104} INFO - [2021-05-12 07:51:16,032] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:51:16,164] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.352 seconds
+[2021-05-12 07:51:31,095] {scheduler_job.py:182} INFO - Started process (PID=2073706) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:51:31,096] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 07:51:31,097] {logging_mixin.py:104} INFO - [2021-05-12 07:51:31,097] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:51:31,107] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:51:31,140] {logging_mixin.py:104} INFO - [2021-05-12 07:51:31,140] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:51:31,152] {logging_mixin.py:104} INFO - [2021-05-12 07:51:31,152] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:51:31,251] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.159 seconds
+[2021-05-12 07:51:48,447] {scheduler_job.py:182} INFO - Started process (PID=2073899) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:51:48,448] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 07:51:48,448] {logging_mixin.py:104} INFO - [2021-05-12 07:51:48,448] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:51:48,458] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:51:48,493] {logging_mixin.py:104} INFO - [2021-05-12 07:51:48,493] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:51:48,504] {logging_mixin.py:104} INFO - [2021-05-12 07:51:48,504] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:51:48,602] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.158 seconds
+[2021-05-12 07:52:04,705] {scheduler_job.py:182} INFO - Started process (PID=2074186) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:52:04,707] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 07:52:04,707] {logging_mixin.py:104} INFO - [2021-05-12 07:52:04,707] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:52:04,718] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:52:04,733] {logging_mixin.py:104} INFO - [2021-05-12 07:52:04,733] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:52:04,744] {logging_mixin.py:104} INFO - [2021-05-12 07:52:04,743] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:52:04,851] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.149 seconds
+[2021-05-12 07:52:19,949] {scheduler_job.py:182} INFO - Started process (PID=2074377) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:52:19,950] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 07:52:19,954] {logging_mixin.py:104} INFO - [2021-05-12 07:52:19,954] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:52:19,965] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:52:19,980] {logging_mixin.py:104} INFO - [2021-05-12 07:52:19,979] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:52:19,990] {logging_mixin.py:104} INFO - [2021-05-12 07:52:19,990] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:52:20,159] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.214 seconds
+[2021-05-12 07:52:37,795] {scheduler_job.py:182} INFO - Started process (PID=2074599) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:52:37,796] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 07:52:37,796] {logging_mixin.py:104} INFO - [2021-05-12 07:52:37,796] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:52:37,806] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:52:37,900] {logging_mixin.py:104} INFO - [2021-05-12 07:52:37,900] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:52:37,911] {logging_mixin.py:104} INFO - [2021-05-12 07:52:37,911] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:52:38,088] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.296 seconds
+[2021-05-12 07:52:51,727] {scheduler_job.py:182} INFO - Started process (PID=2074716) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:52:51,728] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 07:52:51,729] {logging_mixin.py:104} INFO - [2021-05-12 07:52:51,729] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:52:51,740] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:52:51,984] {logging_mixin.py:104} INFO - [2021-05-12 07:52:51,984] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:52:51,996] {logging_mixin.py:104} INFO - [2021-05-12 07:52:51,995] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:52:52,100] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.377 seconds
+[2021-05-12 07:53:13,078] {scheduler_job.py:182} INFO - Started process (PID=2074939) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:53:13,080] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 07:53:13,080] {logging_mixin.py:104} INFO - [2021-05-12 07:53:13,080] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:53:13,092] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:53:13,106] {logging_mixin.py:104} INFO - [2021-05-12 07:53:13,106] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:53:13,117] {logging_mixin.py:104} INFO - [2021-05-12 07:53:13,117] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:53:13,208] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.133 seconds
+[2021-05-12 07:53:23,458] {scheduler_job.py:182} INFO - Started process (PID=2075044) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:53:23,460] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 07:53:23,461] {logging_mixin.py:104} INFO - [2021-05-12 07:53:23,460] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:53:23,471] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:53:23,485] {logging_mixin.py:104} INFO - [2021-05-12 07:53:23,485] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:53:23,496] {logging_mixin.py:104} INFO - [2021-05-12 07:53:23,496] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:53:23,627] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.172 seconds
+[2021-05-12 07:53:44,547] {scheduler_job.py:182} INFO - Started process (PID=2075257) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:53:44,548] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 07:53:44,548] {logging_mixin.py:104} INFO - [2021-05-12 07:53:44,548] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:53:44,559] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:53:44,573] {logging_mixin.py:104} INFO - [2021-05-12 07:53:44,573] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:53:44,584] {logging_mixin.py:104} INFO - [2021-05-12 07:53:44,584] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:53:44,683] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.139 seconds
+[2021-05-12 07:53:57,197] {scheduler_job.py:182} INFO - Started process (PID=2075395) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:53:57,198] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 07:53:57,199] {logging_mixin.py:104} INFO - [2021-05-12 07:53:57,199] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:53:57,212] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:53:57,229] {logging_mixin.py:104} INFO - [2021-05-12 07:53:57,229] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:53:57,242] {logging_mixin.py:104} INFO - [2021-05-12 07:53:57,242] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:53:57,424] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.232 seconds
+[2021-05-12 07:54:16,390] {scheduler_job.py:182} INFO - Started process (PID=2075581) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:54:16,391] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 07:54:16,392] {logging_mixin.py:104} INFO - [2021-05-12 07:54:16,392] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:54:16,402] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:54:16,415] {logging_mixin.py:104} INFO - [2021-05-12 07:54:16,415] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:54:16,426] {logging_mixin.py:104} INFO - [2021-05-12 07:54:16,426] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:54:16,524] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.136 seconds
+[2021-05-12 07:54:28,160] {scheduler_job.py:182} INFO - Started process (PID=2075861) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:54:28,163] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 07:54:28,163] {logging_mixin.py:104} INFO - [2021-05-12 07:54:28,163] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:54:28,173] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:54:28,189] {logging_mixin.py:104} INFO - [2021-05-12 07:54:28,189] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:54:28,201] {logging_mixin.py:104} INFO - [2021-05-12 07:54:28,201] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:54:28,299] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.142 seconds
+[2021-05-12 07:54:47,338] {scheduler_job.py:182} INFO - Started process (PID=2076069) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:54:47,339] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 07:54:47,339] {logging_mixin.py:104} INFO - [2021-05-12 07:54:47,339] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:54:47,350] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:54:47,365] {logging_mixin.py:104} INFO - [2021-05-12 07:54:47,364] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:54:47,376] {logging_mixin.py:104} INFO - [2021-05-12 07:54:47,375] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:54:47,551] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.217 seconds
+[2021-05-12 07:54:59,985] {scheduler_job.py:182} INFO - Started process (PID=2076229) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:54:59,986] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 07:54:59,987] {logging_mixin.py:104} INFO - [2021-05-12 07:54:59,987] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:54:59,998] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:55:00,013] {logging_mixin.py:104} INFO - [2021-05-12 07:55:00,013] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:55:00,024] {logging_mixin.py:104} INFO - [2021-05-12 07:55:00,024] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:55:00,123] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.142 seconds
+[2021-05-12 07:55:19,468] {scheduler_job.py:182} INFO - Started process (PID=2076448) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:55:19,469] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 07:55:19,470] {logging_mixin.py:104} INFO - [2021-05-12 07:55:19,470] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:55:19,480] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:55:19,494] {logging_mixin.py:104} INFO - [2021-05-12 07:55:19,494] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:55:19,506] {logging_mixin.py:104} INFO - [2021-05-12 07:55:19,505] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:55:19,623] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.158 seconds
+[2021-05-12 07:55:30,911] {scheduler_job.py:182} INFO - Started process (PID=2076561) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:55:30,913] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 07:55:30,913] {logging_mixin.py:104} INFO - [2021-05-12 07:55:30,913] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:55:30,923] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:55:30,937] {logging_mixin.py:104} INFO - [2021-05-12 07:55:30,937] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:55:30,948] {logging_mixin.py:104} INFO - [2021-05-12 07:55:30,948] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:55:31,206] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.298 seconds
+[2021-05-12 07:55:51,080] {scheduler_job.py:182} INFO - Started process (PID=2076903) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:55:51,081] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 07:55:51,081] {logging_mixin.py:104} INFO - [2021-05-12 07:55:51,081] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:55:51,092] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:55:51,106] {logging_mixin.py:104} INFO - [2021-05-12 07:55:51,106] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:55:51,117] {logging_mixin.py:104} INFO - [2021-05-12 07:55:51,117] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:55:51,206] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.129 seconds
+[2021-05-12 07:56:04,466] {scheduler_job.py:182} INFO - Started process (PID=2077056) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:56:04,467] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 07:56:04,468] {logging_mixin.py:104} INFO - [2021-05-12 07:56:04,468] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:56:04,481] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:56:04,675] {logging_mixin.py:104} INFO - [2021-05-12 07:56:04,675] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:56:04,686] {logging_mixin.py:104} INFO - [2021-05-12 07:56:04,686] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:56:04,919] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.456 seconds
+[2021-05-12 07:56:24,028] {scheduler_job.py:182} INFO - Started process (PID=2077271) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:56:24,031] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 07:56:24,031] {logging_mixin.py:104} INFO - [2021-05-12 07:56:24,031] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:56:24,041] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:56:24,056] {logging_mixin.py:104} INFO - [2021-05-12 07:56:24,056] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:56:24,067] {logging_mixin.py:104} INFO - [2021-05-12 07:56:24,067] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:56:24,197] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.172 seconds
+[2021-05-12 07:56:35,694] {scheduler_job.py:182} INFO - Started process (PID=2077385) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:56:35,696] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 07:56:35,697] {logging_mixin.py:104} INFO - [2021-05-12 07:56:35,697] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:56:35,707] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:56:35,722] {logging_mixin.py:104} INFO - [2021-05-12 07:56:35,721] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:56:35,732] {logging_mixin.py:104} INFO - [2021-05-12 07:56:35,732] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:56:35,830] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.140 seconds
+[2021-05-12 07:56:56,369] {scheduler_job.py:182} INFO - Started process (PID=2077594) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:56:56,370] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 07:56:56,371] {logging_mixin.py:104} INFO - [2021-05-12 07:56:56,371] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:56:56,380] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:56:56,395] {logging_mixin.py:104} INFO - [2021-05-12 07:56:56,395] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:56:56,407] {logging_mixin.py:104} INFO - [2021-05-12 07:56:56,407] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:56:56,498] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.133 seconds
+[2021-05-12 07:57:07,874] {scheduler_job.py:182} INFO - Started process (PID=2077715) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:57:07,876] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 07:57:07,876] {logging_mixin.py:104} INFO - [2021-05-12 07:57:07,876] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:57:07,886] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:57:08,083] {logging_mixin.py:104} INFO - [2021-05-12 07:57:08,083] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:57:08,096] {logging_mixin.py:104} INFO - [2021-05-12 07:57:08,096] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:57:08,205] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.334 seconds
+[2021-05-12 07:57:27,374] {scheduler_job.py:182} INFO - Started process (PID=2077922) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:57:27,375] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 07:57:27,376] {logging_mixin.py:104} INFO - [2021-05-12 07:57:27,376] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:57:27,386] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:57:27,457] {logging_mixin.py:104} INFO - [2021-05-12 07:57:27,457] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:57:27,470] {logging_mixin.py:104} INFO - [2021-05-12 07:57:27,470] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:57:27,629] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.258 seconds
+[2021-05-12 07:57:40,856] {scheduler_job.py:182} INFO - Started process (PID=2078222) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:57:40,857] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 07:57:40,858] {logging_mixin.py:104} INFO - [2021-05-12 07:57:40,858] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:57:40,868] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:57:40,884] {logging_mixin.py:104} INFO - [2021-05-12 07:57:40,884] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:57:40,896] {logging_mixin.py:104} INFO - [2021-05-12 07:57:40,896] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:57:40,996] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.143 seconds
+[2021-05-12 07:58:00,746] {scheduler_job.py:182} INFO - Started process (PID=2078424) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:58:00,747] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 07:58:00,748] {logging_mixin.py:104} INFO - [2021-05-12 07:58:00,748] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:58:00,759] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:58:00,774] {logging_mixin.py:104} INFO - [2021-05-12 07:58:00,774] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:58:00,786] {logging_mixin.py:104} INFO - [2021-05-12 07:58:00,786] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:58:00,889] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.146 seconds
+[2021-05-12 07:58:12,448] {scheduler_job.py:182} INFO - Started process (PID=2078580) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:58:12,454] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 07:58:12,454] {logging_mixin.py:104} INFO - [2021-05-12 07:58:12,454] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:58:12,464] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:58:12,479] {logging_mixin.py:104} INFO - [2021-05-12 07:58:12,479] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:58:12,491] {logging_mixin.py:104} INFO - [2021-05-12 07:58:12,491] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:58:12,612] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.167 seconds
+[2021-05-12 07:58:31,761] {scheduler_job.py:182} INFO - Started process (PID=2078779) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:58:31,763] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 07:58:31,763] {logging_mixin.py:104} INFO - [2021-05-12 07:58:31,763] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:58:31,773] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:58:31,788] {logging_mixin.py:104} INFO - [2021-05-12 07:58:31,788] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:58:31,800] {logging_mixin.py:104} INFO - [2021-05-12 07:58:31,800] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:58:31,928] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.170 seconds
+[2021-05-12 07:58:43,698] {scheduler_job.py:182} INFO - Started process (PID=2078896) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:58:43,699] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 07:58:43,700] {logging_mixin.py:104} INFO - [2021-05-12 07:58:43,700] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:58:43,710] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:58:43,725] {logging_mixin.py:104} INFO - [2021-05-12 07:58:43,725] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:58:43,737] {logging_mixin.py:104} INFO - [2021-05-12 07:58:43,737] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:58:43,995] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.300 seconds
+[2021-05-12 07:59:03,009] {scheduler_job.py:182} INFO - Started process (PID=2079108) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:59:03,010] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 07:59:03,011] {logging_mixin.py:104} INFO - [2021-05-12 07:59:03,011] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:59:03,021] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:59:03,035] {logging_mixin.py:104} INFO - [2021-05-12 07:59:03,035] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:59:03,048] {logging_mixin.py:104} INFO - [2021-05-12 07:59:03,048] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:59:03,144] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.139 seconds
+[2021-05-12 07:59:15,737] {scheduler_job.py:182} INFO - Started process (PID=2079227) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:59:15,738] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 07:59:15,739] {logging_mixin.py:104} INFO - [2021-05-12 07:59:15,739] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:59:15,752] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:59:15,767] {logging_mixin.py:104} INFO - [2021-05-12 07:59:15,767] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:59:15,779] {logging_mixin.py:104} INFO - [2021-05-12 07:59:15,779] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:59:15,902] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.170 seconds
+[2021-05-12 07:59:38,316] {scheduler_job.py:182} INFO - Started process (PID=2079444) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:59:38,318] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 07:59:38,318] {logging_mixin.py:104} INFO - [2021-05-12 07:59:38,318] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:59:38,328] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 07:59:38,343] {logging_mixin.py:104} INFO - [2021-05-12 07:59:38,343] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:59:38,354] {logging_mixin.py:104} INFO - [2021-05-12 07:59:38,354] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:59:38,755] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.442 seconds
+[2021-05-12 08:00:10,770] {scheduler_job.py:182} INFO - Started process (PID=2079936) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 08:00:10,771] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 08:00:10,772] {logging_mixin.py:104} INFO - [2021-05-12 08:00:10,772] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 08:00:10,782] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 08:00:10,796] {logging_mixin.py:104} INFO - [2021-05-12 08:00:10,796] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 08:00:10,807] {logging_mixin.py:104} INFO - [2021-05-12 08:00:10,807] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 08:00:10,972] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.206 seconds
+[2021-05-12 08:00:43,143] {scheduler_job.py:182} INFO - Started process (PID=2080286) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 08:00:43,146] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 08:00:43,146] {logging_mixin.py:104} INFO - [2021-05-12 08:00:43,146] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 08:00:43,157] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 08:00:43,171] {logging_mixin.py:104} INFO - [2021-05-12 08:00:43,171] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 08:00:43,182] {logging_mixin.py:104} INFO - [2021-05-12 08:00:43,182] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 08:00:43,337] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.197 seconds
+[2021-05-12 08:01:15,106] {scheduler_job.py:182} INFO - Started process (PID=2080722) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 08:01:15,107] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 08:01:15,108] {logging_mixin.py:104} INFO - [2021-05-12 08:01:15,108] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 08:01:15,119] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 08:01:15,136] {logging_mixin.py:104} INFO - [2021-05-12 08:01:15,136] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 08:01:15,147] {logging_mixin.py:104} INFO - [2021-05-12 08:01:15,147] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 08:01:15,284] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.181 seconds
+[2021-05-12 08:01:49,168] {scheduler_job.py:182} INFO - Started process (PID=2081071) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 08:01:49,169] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 08:01:49,170] {logging_mixin.py:104} INFO - [2021-05-12 08:01:49,169] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 08:01:49,180] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 08:01:49,195] {logging_mixin.py:104} INFO - [2021-05-12 08:01:49,195] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 08:01:49,207] {logging_mixin.py:104} INFO - [2021-05-12 08:01:49,207] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 08:01:49,308] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.144 seconds
+[2021-05-12 08:02:19,662] {scheduler_job.py:182} INFO - Started process (PID=2081362) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 08:02:19,663] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 08:02:19,664] {logging_mixin.py:104} INFO - [2021-05-12 08:02:19,664] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 08:02:19,674] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 08:02:19,688] {logging_mixin.py:104} INFO - [2021-05-12 08:02:19,688] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 08:02:19,699] {logging_mixin.py:104} INFO - [2021-05-12 08:02:19,699] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 08:02:19,800] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.141 seconds
+[2021-05-12 08:02:50,149] {scheduler_job.py:182} INFO - Started process (PID=2081646) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 08:02:50,150] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 08:02:50,151] {logging_mixin.py:104} INFO - [2021-05-12 08:02:50,151] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 08:02:50,163] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 08:02:50,179] {logging_mixin.py:104} INFO - [2021-05-12 08:02:50,178] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 08:02:50,189] {logging_mixin.py:104} INFO - [2021-05-12 08:02:50,189] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 08:02:50,301] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.155 seconds
+[2021-05-12 08:03:22,127] {scheduler_job.py:182} INFO - Started process (PID=2082095) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 08:03:22,128] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 08:03:22,130] {logging_mixin.py:104} INFO - [2021-05-12 08:03:22,130] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 08:03:22,140] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 08:03:22,155] {logging_mixin.py:104} INFO - [2021-05-12 08:03:22,154] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 08:03:22,167] {logging_mixin.py:104} INFO - [2021-05-12 08:03:22,167] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 08:03:22,265] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.142 seconds
+[2021-05-12 08:03:53,209] {scheduler_job.py:182} INFO - Started process (PID=2082451) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 08:03:53,210] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 08:03:53,211] {logging_mixin.py:104} INFO - [2021-05-12 08:03:53,211] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 08:03:53,223] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 08:03:53,238] {logging_mixin.py:104} INFO - [2021-05-12 08:03:53,237] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 08:03:53,249] {logging_mixin.py:104} INFO - [2021-05-12 08:03:53,248] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 08:03:53,390] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.185 seconds
+[2021-05-12 08:04:25,200] {scheduler_job.py:182} INFO - Started process (PID=2082750) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 08:04:25,202] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 08:04:25,202] {logging_mixin.py:104} INFO - [2021-05-12 08:04:25,202] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 08:04:25,213] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 08:04:25,227] {logging_mixin.py:104} INFO - [2021-05-12 08:04:25,227] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 08:04:25,238] {logging_mixin.py:104} INFO - [2021-05-12 08:04:25,238] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 08:04:25,331] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.134 seconds
+[2021-05-12 08:04:55,457] {scheduler_job.py:182} INFO - Started process (PID=2083037) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 08:04:55,458] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-05-12 08:04:55,459] {logging_mixin.py:104} INFO - [2021-05-12 08:04:55,459] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 08:04:55,469] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-05-12 08:04:55,483] {logging_mixin.py:104} INFO - [2021-05-12 08:04:55,483] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 08:04:55,494] {logging_mixin.py:104} INFO - [2021-05-12 08:04:55,494] {dag.py:2280} INFO - Setting next_dagrun for example_skip_dag to 2021-05-10 00:00:00+00:00
+[2021-05-12 08:04:55,639] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.186 seconds

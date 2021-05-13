@@ -1,0 +1,763 @@
+[2021-05-12 06:28:32,150] {scheduler_job.py:182} INFO - Started process (PID=2008521) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:28:32,151] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 06:28:32,152] {logging_mixin.py:104} INFO - [2021-05-12 06:28:32,152] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:28:32,167] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:28:32,196] {logging_mixin.py:104} INFO - [2021-05-12 06:28:32,196] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:28:32,208] {logging_mixin.py:104} INFO - [2021-05-12 06:28:32,208] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:28:32,340] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.194 seconds
+[2021-05-12 06:29:03,056] {scheduler_job.py:182} INFO - Started process (PID=2008966) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:29:03,058] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 06:29:03,058] {logging_mixin.py:104} INFO - [2021-05-12 06:29:03,058] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:29:03,067] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:29:03,083] {logging_mixin.py:104} INFO - [2021-05-12 06:29:03,083] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:29:03,094] {logging_mixin.py:104} INFO - [2021-05-12 06:29:03,094] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:29:03,225] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.174 seconds
+[2021-05-12 06:29:34,164] {scheduler_job.py:182} INFO - Started process (PID=2009274) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:29:34,166] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 06:29:34,166] {logging_mixin.py:104} INFO - [2021-05-12 06:29:34,166] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:29:34,181] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:29:34,195] {logging_mixin.py:104} INFO - [2021-05-12 06:29:34,195] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:29:34,206] {logging_mixin.py:104} INFO - [2021-05-12 06:29:34,205] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:29:34,331] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.171 seconds
+[2021-05-12 06:30:08,801] {scheduler_job.py:182} INFO - Started process (PID=2009773) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:30:08,802] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 06:30:08,803] {logging_mixin.py:104} INFO - [2021-05-12 06:30:08,803] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:30:08,816] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:30:08,829] {logging_mixin.py:104} INFO - [2021-05-12 06:30:08,829] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:30:08,840] {logging_mixin.py:104} INFO - [2021-05-12 06:30:08,840] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:30:08,964] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.167 seconds
+[2021-05-12 06:30:39,929] {scheduler_job.py:182} INFO - Started process (PID=2010093) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:30:39,931] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 06:30:39,931] {logging_mixin.py:104} INFO - [2021-05-12 06:30:39,931] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:30:39,945] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:30:39,961] {logging_mixin.py:104} INFO - [2021-05-12 06:30:39,960] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:30:39,974] {logging_mixin.py:104} INFO - [2021-05-12 06:30:39,974] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:30:40,191] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.265 seconds
+[2021-05-12 06:31:10,781] {scheduler_job.py:182} INFO - Started process (PID=2010384) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:31:10,783] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 06:31:10,783] {logging_mixin.py:104} INFO - [2021-05-12 06:31:10,783] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:31:10,796] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:31:10,809] {logging_mixin.py:104} INFO - [2021-05-12 06:31:10,809] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:31:10,820] {logging_mixin.py:104} INFO - [2021-05-12 06:31:10,820] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:31:10,913] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.136 seconds
+[2021-05-12 06:31:41,494] {scheduler_job.py:182} INFO - Started process (PID=2010680) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:31:41,495] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 06:31:41,496] {logging_mixin.py:104} INFO - [2021-05-12 06:31:41,496] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:31:41,509] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:31:41,522] {logging_mixin.py:104} INFO - [2021-05-12 06:31:41,522] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:31:41,533] {logging_mixin.py:104} INFO - [2021-05-12 06:31:41,533] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:31:41,629] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.139 seconds
+[2021-05-12 06:32:11,818] {scheduler_job.py:182} INFO - Started process (PID=2010973) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:32:11,819] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 06:32:11,823] {logging_mixin.py:104} INFO - [2021-05-12 06:32:11,823] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:32:11,832] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:32:11,845] {logging_mixin.py:104} INFO - [2021-05-12 06:32:11,845] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:32:11,856] {logging_mixin.py:104} INFO - [2021-05-12 06:32:11,856] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:32:11,954] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.140 seconds
+[2021-05-12 06:32:43,455] {scheduler_job.py:182} INFO - Started process (PID=2011356) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:32:43,456] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 06:32:43,457] {logging_mixin.py:104} INFO - [2021-05-12 06:32:43,457] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:32:43,469] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:32:43,484] {logging_mixin.py:104} INFO - [2021-05-12 06:32:43,484] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:32:43,497] {logging_mixin.py:104} INFO - [2021-05-12 06:32:43,497] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:32:43,646] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.195 seconds
+[2021-05-12 06:33:13,827] {scheduler_job.py:182} INFO - Started process (PID=2011699) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:33:13,828] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 06:33:13,829] {logging_mixin.py:104} INFO - [2021-05-12 06:33:13,829] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:33:13,839] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:33:13,853] {logging_mixin.py:104} INFO - [2021-05-12 06:33:13,853] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:33:13,864] {logging_mixin.py:104} INFO - [2021-05-12 06:33:13,864] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:33:13,995] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.171 seconds
+[2021-05-12 06:33:44,771] {scheduler_job.py:182} INFO - Started process (PID=2012011) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:33:44,772] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 06:33:44,773] {logging_mixin.py:104} INFO - [2021-05-12 06:33:44,773] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:33:44,783] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:33:44,797] {logging_mixin.py:104} INFO - [2021-05-12 06:33:44,797] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:33:44,808] {logging_mixin.py:104} INFO - [2021-05-12 06:33:44,808] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:33:44,903] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.135 seconds
+[2021-05-12 06:34:15,347] {scheduler_job.py:182} INFO - Started process (PID=2012298) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:34:15,348] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 06:34:15,349] {logging_mixin.py:104} INFO - [2021-05-12 06:34:15,349] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:34:15,360] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:34:15,375] {logging_mixin.py:104} INFO - [2021-05-12 06:34:15,374] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:34:15,386] {logging_mixin.py:104} INFO - [2021-05-12 06:34:15,385] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:34:15,478] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.134 seconds
+[2021-05-12 06:34:46,230] {scheduler_job.py:182} INFO - Started process (PID=2012744) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:34:46,232] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 06:34:46,232] {logging_mixin.py:104} INFO - [2021-05-12 06:34:46,232] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:34:46,243] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:34:46,256] {logging_mixin.py:104} INFO - [2021-05-12 06:34:46,256] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:34:46,268] {logging_mixin.py:104} INFO - [2021-05-12 06:34:46,268] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:34:46,352] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.125 seconds
+[2021-05-12 06:35:16,989] {scheduler_job.py:182} INFO - Started process (PID=2013066) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:35:16,990] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 06:35:16,991] {logging_mixin.py:104} INFO - [2021-05-12 06:35:16,991] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:35:17,001] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:35:17,015] {logging_mixin.py:104} INFO - [2021-05-12 06:35:17,015] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:35:17,027] {logging_mixin.py:104} INFO - [2021-05-12 06:35:17,027] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:35:17,181] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.196 seconds
+[2021-05-12 06:35:48,220] {scheduler_job.py:182} INFO - Started process (PID=2013545) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:35:48,221] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 06:35:48,222] {logging_mixin.py:104} INFO - [2021-05-12 06:35:48,222] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:35:48,232] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:35:48,245] {logging_mixin.py:104} INFO - [2021-05-12 06:35:48,245] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:35:48,256] {logging_mixin.py:104} INFO - [2021-05-12 06:35:48,256] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:35:48,367] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.151 seconds
+[2021-05-12 06:36:19,802] {scheduler_job.py:182} INFO - Started process (PID=2013858) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:36:19,803] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 06:36:19,804] {logging_mixin.py:104} INFO - [2021-05-12 06:36:19,804] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:36:19,814] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:36:19,828] {logging_mixin.py:104} INFO - [2021-05-12 06:36:19,828] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:36:19,839] {logging_mixin.py:104} INFO - [2021-05-12 06:36:19,839] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:36:19,967] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.168 seconds
+[2021-05-12 06:36:50,297] {scheduler_job.py:182} INFO - Started process (PID=2014145) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:36:50,298] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 06:36:50,299] {logging_mixin.py:104} INFO - [2021-05-12 06:36:50,299] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:36:50,309] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:36:50,322] {logging_mixin.py:104} INFO - [2021-05-12 06:36:50,322] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:36:50,333] {logging_mixin.py:104} INFO - [2021-05-12 06:36:50,333] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:36:50,503] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.209 seconds
+[2021-05-12 06:37:20,713] {scheduler_job.py:182} INFO - Started process (PID=2014437) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:37:20,714] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 06:37:20,715] {logging_mixin.py:104} INFO - [2021-05-12 06:37:20,715] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:37:20,726] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:37:20,739] {logging_mixin.py:104} INFO - [2021-05-12 06:37:20,739] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:37:20,752] {logging_mixin.py:104} INFO - [2021-05-12 06:37:20,752] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:37:20,933] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.224 seconds
+[2021-05-12 06:37:51,422] {scheduler_job.py:182} INFO - Started process (PID=2014726) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:37:51,424] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 06:37:51,424] {logging_mixin.py:104} INFO - [2021-05-12 06:37:51,424] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:37:51,434] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:37:51,448] {logging_mixin.py:104} INFO - [2021-05-12 06:37:51,447] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:37:51,459] {logging_mixin.py:104} INFO - [2021-05-12 06:37:51,459] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:37:51,568] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.149 seconds
+[2021-05-12 06:38:24,408] {scheduler_job.py:182} INFO - Started process (PID=2015172) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:38:24,409] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 06:38:24,410] {logging_mixin.py:104} INFO - [2021-05-12 06:38:24,410] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:38:24,420] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:38:24,433] {logging_mixin.py:104} INFO - [2021-05-12 06:38:24,433] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:38:24,444] {logging_mixin.py:104} INFO - [2021-05-12 06:38:24,444] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:38:24,548] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.144 seconds
+[2021-05-12 06:38:55,645] {scheduler_job.py:182} INFO - Started process (PID=2015481) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:38:55,646] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 06:38:55,647] {logging_mixin.py:104} INFO - [2021-05-12 06:38:55,647] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:38:55,657] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:38:55,672] {logging_mixin.py:104} INFO - [2021-05-12 06:38:55,671] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:38:55,684] {logging_mixin.py:104} INFO - [2021-05-12 06:38:55,684] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:38:55,875] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.234 seconds
+[2021-05-12 06:39:26,254] {scheduler_job.py:182} INFO - Started process (PID=2015776) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:39:26,255] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 06:39:26,256] {logging_mixin.py:104} INFO - [2021-05-12 06:39:26,256] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:39:26,267] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:39:26,281] {logging_mixin.py:104} INFO - [2021-05-12 06:39:26,281] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:39:26,293] {logging_mixin.py:104} INFO - [2021-05-12 06:39:26,293] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:39:26,500] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.249 seconds
+[2021-05-12 06:39:56,883] {scheduler_job.py:182} INFO - Started process (PID=2016071) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:39:56,884] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 06:39:56,885] {logging_mixin.py:104} INFO - [2021-05-12 06:39:56,885] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:39:56,894] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:39:56,908] {logging_mixin.py:104} INFO - [2021-05-12 06:39:56,908] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:39:56,920] {logging_mixin.py:104} INFO - [2021-05-12 06:39:56,919] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:39:57,084] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.204 seconds
+[2021-05-12 06:40:28,603] {scheduler_job.py:182} INFO - Started process (PID=2016519) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:40:28,604] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 06:40:28,605] {logging_mixin.py:104} INFO - [2021-05-12 06:40:28,605] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:40:28,614] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:40:28,628] {logging_mixin.py:104} INFO - [2021-05-12 06:40:28,628] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:40:28,639] {logging_mixin.py:104} INFO - [2021-05-12 06:40:28,639] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:40:28,730] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.131 seconds
+[2021-05-12 06:40:59,434] {scheduler_job.py:182} INFO - Started process (PID=2016856) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:40:59,435] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 06:40:59,436] {logging_mixin.py:104} INFO - [2021-05-12 06:40:59,436] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:40:59,446] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:40:59,460] {logging_mixin.py:104} INFO - [2021-05-12 06:40:59,459] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:40:59,471] {logging_mixin.py:104} INFO - [2021-05-12 06:40:59,470] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:40:59,596] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.166 seconds
+[2021-05-12 06:41:31,456] {scheduler_job.py:182} INFO - Started process (PID=2017329) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:41:31,457] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 06:41:31,458] {logging_mixin.py:104} INFO - [2021-05-12 06:41:31,458] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:41:31,468] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:41:31,482] {logging_mixin.py:104} INFO - [2021-05-12 06:41:31,482] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:41:31,493] {logging_mixin.py:104} INFO - [2021-05-12 06:41:31,493] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:41:31,649] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.198 seconds
+[2021-05-12 06:42:03,539] {scheduler_job.py:182} INFO - Started process (PID=2017650) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:42:03,540] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 06:42:03,541] {logging_mixin.py:104} INFO - [2021-05-12 06:42:03,541] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:42:03,551] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:42:03,565] {logging_mixin.py:104} INFO - [2021-05-12 06:42:03,565] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:42:03,576] {logging_mixin.py:104} INFO - [2021-05-12 06:42:03,576] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:42:03,708] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.173 seconds
+[2021-05-12 06:42:35,368] {scheduler_job.py:182} INFO - Started process (PID=2017951) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:42:35,369] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 06:42:35,370] {logging_mixin.py:104} INFO - [2021-05-12 06:42:35,370] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:42:35,380] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:42:35,394] {logging_mixin.py:104} INFO - [2021-05-12 06:42:35,394] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:42:35,405] {logging_mixin.py:104} INFO - [2021-05-12 06:42:35,405] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:42:35,555] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.191 seconds
+[2021-05-12 06:43:05,956] {scheduler_job.py:182} INFO - Started process (PID=2018236) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:43:05,958] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 06:43:05,958] {logging_mixin.py:104} INFO - [2021-05-12 06:43:05,958] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:43:05,968] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:43:05,982] {logging_mixin.py:104} INFO - [2021-05-12 06:43:05,982] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:43:05,994] {logging_mixin.py:104} INFO - [2021-05-12 06:43:05,994] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:43:06,094] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.143 seconds
+[2021-05-12 06:43:37,718] {scheduler_job.py:182} INFO - Started process (PID=2018537) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:43:37,720] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 06:43:37,721] {logging_mixin.py:104} INFO - [2021-05-12 06:43:37,721] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:43:37,731] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:43:37,745] {logging_mixin.py:104} INFO - [2021-05-12 06:43:37,744] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:43:37,756] {logging_mixin.py:104} INFO - [2021-05-12 06:43:37,756] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:43:37,869] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.154 seconds
+[2021-05-12 06:44:08,753] {scheduler_job.py:182} INFO - Started process (PID=2018954) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:44:08,754] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 06:44:08,755] {logging_mixin.py:104} INFO - [2021-05-12 06:44:08,755] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:44:08,765] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:44:08,779] {logging_mixin.py:104} INFO - [2021-05-12 06:44:08,779] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:44:08,790] {logging_mixin.py:104} INFO - [2021-05-12 06:44:08,790] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:44:08,877] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.129 seconds
+[2021-05-12 06:44:39,330] {scheduler_job.py:182} INFO - Started process (PID=2019275) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:44:39,332] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 06:44:39,332] {logging_mixin.py:104} INFO - [2021-05-12 06:44:39,332] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:44:39,342] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:44:39,356] {logging_mixin.py:104} INFO - [2021-05-12 06:44:39,356] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:44:39,367] {logging_mixin.py:104} INFO - [2021-05-12 06:44:39,367] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:44:39,470] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.143 seconds
+[2021-05-12 06:45:09,994] {scheduler_job.py:182} INFO - Started process (PID=2019576) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:45:09,996] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 06:45:09,997] {logging_mixin.py:104} INFO - [2021-05-12 06:45:09,996] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:45:10,008] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:45:10,023] {logging_mixin.py:104} INFO - [2021-05-12 06:45:10,023] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:45:10,034] {logging_mixin.py:104} INFO - [2021-05-12 06:45:10,034] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:45:10,231] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.241 seconds
+[2021-05-12 06:45:41,521] {scheduler_job.py:182} INFO - Started process (PID=2019894) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:45:41,522] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 06:45:41,523] {logging_mixin.py:104} INFO - [2021-05-12 06:45:41,523] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:45:41,533] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:45:41,547] {logging_mixin.py:104} INFO - [2021-05-12 06:45:41,547] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:45:41,558] {logging_mixin.py:104} INFO - [2021-05-12 06:45:41,558] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:45:41,650] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.134 seconds
+[2021-05-12 06:46:14,122] {scheduler_job.py:182} INFO - Started process (PID=2020403) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:46:14,123] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 06:46:14,124] {logging_mixin.py:104} INFO - [2021-05-12 06:46:14,124] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:46:14,134] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:46:14,148] {logging_mixin.py:104} INFO - [2021-05-12 06:46:14,148] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:46:14,163] {logging_mixin.py:104} INFO - [2021-05-12 06:46:14,163] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:46:14,323] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.204 seconds
+[2021-05-12 06:46:46,111] {scheduler_job.py:182} INFO - Started process (PID=2020729) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:46:46,112] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 06:46:46,113] {logging_mixin.py:104} INFO - [2021-05-12 06:46:46,112] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:46:46,123] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:46:46,137] {logging_mixin.py:104} INFO - [2021-05-12 06:46:46,137] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:46:46,148] {logging_mixin.py:104} INFO - [2021-05-12 06:46:46,148] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:46:46,358] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.250 seconds
+[2021-05-12 06:47:18,173] {scheduler_job.py:182} INFO - Started process (PID=2021172) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:47:18,174] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 06:47:18,175] {logging_mixin.py:104} INFO - [2021-05-12 06:47:18,175] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:47:18,185] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:47:18,199] {logging_mixin.py:104} INFO - [2021-05-12 06:47:18,199] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:47:18,210] {logging_mixin.py:104} INFO - [2021-05-12 06:47:18,210] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:47:18,301] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.132 seconds
+[2021-05-12 06:47:50,054] {scheduler_job.py:182} INFO - Started process (PID=2021489) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:47:50,056] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 06:47:50,056] {logging_mixin.py:104} INFO - [2021-05-12 06:47:50,056] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:47:50,066] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:47:50,080] {logging_mixin.py:104} INFO - [2021-05-12 06:47:50,080] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:47:50,093] {logging_mixin.py:104} INFO - [2021-05-12 06:47:50,093] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:47:50,260] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.210 seconds
+[2021-05-12 06:48:22,076] {scheduler_job.py:182} INFO - Started process (PID=2021791) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:48:22,077] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 06:48:22,078] {logging_mixin.py:104} INFO - [2021-05-12 06:48:22,078] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:48:22,088] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:48:22,101] {logging_mixin.py:104} INFO - [2021-05-12 06:48:22,101] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:48:22,113] {logging_mixin.py:104} INFO - [2021-05-12 06:48:22,112] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:48:22,257] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.185 seconds
+[2021-05-12 06:48:53,912] {scheduler_job.py:182} INFO - Started process (PID=2022092) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:48:53,913] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 06:48:53,914] {logging_mixin.py:104} INFO - [2021-05-12 06:48:53,914] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:48:53,924] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:48:53,938] {logging_mixin.py:104} INFO - [2021-05-12 06:48:53,938] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:48:53,950] {logging_mixin.py:104} INFO - [2021-05-12 06:48:53,949] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:48:54,048] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.140 seconds
+[2021-05-12 06:49:25,413] {scheduler_job.py:182} INFO - Started process (PID=2022434) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:49:25,414] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 06:49:25,415] {logging_mixin.py:104} INFO - [2021-05-12 06:49:25,414] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:49:25,425] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:49:25,440] {logging_mixin.py:104} INFO - [2021-05-12 06:49:25,440] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:49:25,452] {logging_mixin.py:104} INFO - [2021-05-12 06:49:25,452] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:49:25,539] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.130 seconds
+[2021-05-12 06:49:56,173] {scheduler_job.py:182} INFO - Started process (PID=2022862) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:49:56,174] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 06:49:56,175] {logging_mixin.py:104} INFO - [2021-05-12 06:49:56,175] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:49:56,184] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:49:56,199] {logging_mixin.py:104} INFO - [2021-05-12 06:49:56,198] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:49:56,211] {logging_mixin.py:104} INFO - [2021-05-12 06:49:56,211] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:49:56,357] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.188 seconds
+[2021-05-12 06:50:26,913] {scheduler_job.py:182} INFO - Started process (PID=2023188) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:50:26,915] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 06:50:26,915] {logging_mixin.py:104} INFO - [2021-05-12 06:50:26,915] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:50:26,926] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:50:26,940] {logging_mixin.py:104} INFO - [2021-05-12 06:50:26,940] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:50:26,952] {logging_mixin.py:104} INFO - [2021-05-12 06:50:26,952] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:50:27,057] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.147 seconds
+[2021-05-12 06:50:57,669] {scheduler_job.py:182} INFO - Started process (PID=2023494) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:50:57,671] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 06:50:57,672] {logging_mixin.py:104} INFO - [2021-05-12 06:50:57,671] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:50:57,681] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:50:57,695] {logging_mixin.py:104} INFO - [2021-05-12 06:50:57,694] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:50:57,706] {logging_mixin.py:104} INFO - [2021-05-12 06:50:57,706] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:50:57,804] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.139 seconds
+[2021-05-12 06:51:28,410] {scheduler_job.py:182} INFO - Started process (PID=2023786) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:51:28,411] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 06:51:28,412] {logging_mixin.py:104} INFO - [2021-05-12 06:51:28,412] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:51:28,422] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:51:28,436] {logging_mixin.py:104} INFO - [2021-05-12 06:51:28,436] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:51:28,447] {logging_mixin.py:104} INFO - [2021-05-12 06:51:28,447] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:51:28,587] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.181 seconds
+[2021-05-12 06:52:00,282] {scheduler_job.py:182} INFO - Started process (PID=2024224) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:52:00,283] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 06:52:00,284] {logging_mixin.py:104} INFO - [2021-05-12 06:52:00,284] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:52:00,293] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:52:00,307] {logging_mixin.py:104} INFO - [2021-05-12 06:52:00,307] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:52:00,318] {logging_mixin.py:104} INFO - [2021-05-12 06:52:00,318] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:52:00,437] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.158 seconds
+[2021-05-12 06:52:31,466] {scheduler_job.py:182} INFO - Started process (PID=2024686) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:52:31,467] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 06:52:31,467] {logging_mixin.py:104} INFO - [2021-05-12 06:52:31,467] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:52:31,477] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:52:31,491] {logging_mixin.py:104} INFO - [2021-05-12 06:52:31,491] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:52:31,502] {logging_mixin.py:104} INFO - [2021-05-12 06:52:31,502] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:52:31,603] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.141 seconds
+[2021-05-12 06:53:02,871] {scheduler_job.py:182} INFO - Started process (PID=2025009) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:53:02,872] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 06:53:02,873] {logging_mixin.py:104} INFO - [2021-05-12 06:53:02,873] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:53:02,883] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 06:53:02,897] {logging_mixin.py:104} INFO - [2021-05-12 06:53:02,896] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:53:02,908] {logging_mixin.py:104} INFO - [2021-05-12 06:53:02,908] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 06:53:03,036] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.168 seconds
+[2021-05-12 07:12:46,852] {scheduler_job.py:182} INFO - Started process (PID=2048372) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:12:46,853] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 07:12:46,854] {logging_mixin.py:104} INFO - [2021-05-12 07:12:46,854] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:12:46,863] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:12:46,880] {logging_mixin.py:104} INFO - [2021-05-12 07:12:46,880] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:12:46,891] {logging_mixin.py:104} INFO - [2021-05-12 07:12:46,891] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:12:46,997] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.147 seconds
+[2021-05-12 07:13:19,492] {scheduler_job.py:182} INFO - Started process (PID=2048831) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:13:19,494] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 07:13:19,494] {logging_mixin.py:104} INFO - [2021-05-12 07:13:19,494] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:13:19,503] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:13:19,519] {logging_mixin.py:104} INFO - [2021-05-12 07:13:19,519] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:13:19,530] {logging_mixin.py:104} INFO - [2021-05-12 07:13:19,530] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:13:19,660] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.171 seconds
+[2021-05-12 07:13:50,069] {scheduler_job.py:182} INFO - Started process (PID=2049120) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:13:50,070] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 07:13:50,071] {logging_mixin.py:104} INFO - [2021-05-12 07:13:50,070] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:13:50,083] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:13:50,097] {logging_mixin.py:104} INFO - [2021-05-12 07:13:50,097] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:13:50,109] {logging_mixin.py:104} INFO - [2021-05-12 07:13:50,109] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:13:50,254] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.188 seconds
+[2021-05-12 07:14:22,031] {scheduler_job.py:182} INFO - Started process (PID=2049429) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:14:22,032] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 07:14:22,033] {logging_mixin.py:104} INFO - [2021-05-12 07:14:22,033] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:14:22,046] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:14:22,059] {logging_mixin.py:104} INFO - [2021-05-12 07:14:22,059] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:14:22,070] {logging_mixin.py:104} INFO - [2021-05-12 07:14:22,070] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:14:22,169] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.142 seconds
+[2021-05-12 07:14:53,207] {scheduler_job.py:182} INFO - Started process (PID=2049871) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:14:53,208] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 07:14:53,209] {logging_mixin.py:104} INFO - [2021-05-12 07:14:53,209] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:14:53,221] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:14:53,235] {logging_mixin.py:104} INFO - [2021-05-12 07:14:53,234] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:14:53,245] {logging_mixin.py:104} INFO - [2021-05-12 07:14:53,245] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:14:53,386] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.183 seconds
+[2021-05-12 07:15:23,463] {scheduler_job.py:182} INFO - Started process (PID=2050186) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:15:23,464] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 07:15:23,465] {logging_mixin.py:104} INFO - [2021-05-12 07:15:23,465] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:15:23,477] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:15:23,490] {logging_mixin.py:104} INFO - [2021-05-12 07:15:23,490] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:15:23,501] {logging_mixin.py:104} INFO - [2021-05-12 07:15:23,501] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:15:23,602] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.143 seconds
+[2021-05-12 07:15:55,333] {scheduler_job.py:182} INFO - Started process (PID=2050631) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:15:55,334] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 07:15:55,335] {logging_mixin.py:104} INFO - [2021-05-12 07:15:55,335] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:15:55,347] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:15:55,361] {logging_mixin.py:104} INFO - [2021-05-12 07:15:55,361] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:15:55,372] {logging_mixin.py:104} INFO - [2021-05-12 07:15:55,372] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:15:55,466] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.137 seconds
+[2021-05-12 07:16:25,827] {scheduler_job.py:182} INFO - Started process (PID=2050953) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:16:25,828] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 07:16:25,833] {logging_mixin.py:104} INFO - [2021-05-12 07:16:25,833] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:16:25,842] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:16:25,855] {logging_mixin.py:104} INFO - [2021-05-12 07:16:25,855] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:16:25,866] {logging_mixin.py:104} INFO - [2021-05-12 07:16:25,866] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:16:25,958] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.135 seconds
+[2021-05-12 07:16:56,317] {scheduler_job.py:182} INFO - Started process (PID=2051240) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:16:56,318] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 07:16:56,319] {logging_mixin.py:104} INFO - [2021-05-12 07:16:56,319] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:16:56,329] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:16:56,342] {logging_mixin.py:104} INFO - [2021-05-12 07:16:56,342] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:16:56,355] {logging_mixin.py:104} INFO - [2021-05-12 07:16:56,355] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:16:56,449] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.136 seconds
+[2021-05-12 07:17:28,982] {scheduler_job.py:182} INFO - Started process (PID=2051565) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:17:28,984] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 07:17:28,984] {logging_mixin.py:104} INFO - [2021-05-12 07:17:28,984] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:17:28,995] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:17:29,009] {logging_mixin.py:104} INFO - [2021-05-12 07:17:29,009] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:17:29,020] {logging_mixin.py:104} INFO - [2021-05-12 07:17:29,020] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:17:29,140] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.161 seconds
+[2021-05-12 07:17:59,871] {scheduler_job.py:182} INFO - Started process (PID=2051996) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:17:59,873] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 07:17:59,873] {logging_mixin.py:104} INFO - [2021-05-12 07:17:59,873] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:17:59,883] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:17:59,897] {logging_mixin.py:104} INFO - [2021-05-12 07:17:59,897] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:17:59,908] {logging_mixin.py:104} INFO - [2021-05-12 07:17:59,908] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:18:00,014] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.146 seconds
+[2021-05-12 07:18:30,569] {scheduler_job.py:182} INFO - Started process (PID=2052349) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:18:30,570] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 07:18:30,571] {logging_mixin.py:104} INFO - [2021-05-12 07:18:30,571] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:18:30,580] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:18:30,594] {logging_mixin.py:104} INFO - [2021-05-12 07:18:30,594] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:18:30,605] {logging_mixin.py:104} INFO - [2021-05-12 07:18:30,605] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:18:30,772] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.207 seconds
+[2021-05-12 07:19:02,550] {scheduler_job.py:182} INFO - Started process (PID=2052637) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:19:02,551] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 07:19:02,552] {logging_mixin.py:104} INFO - [2021-05-12 07:19:02,552] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:19:02,562] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:19:02,576] {logging_mixin.py:104} INFO - [2021-05-12 07:19:02,576] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:19:02,587] {logging_mixin.py:104} INFO - [2021-05-12 07:19:02,587] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:19:02,688] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.142 seconds
+[2021-05-12 07:19:33,535] {scheduler_job.py:182} INFO - Started process (PID=2052932) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:19:33,536] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 07:19:33,537] {logging_mixin.py:104} INFO - [2021-05-12 07:19:33,537] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:19:33,547] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:19:33,561] {logging_mixin.py:104} INFO - [2021-05-12 07:19:33,561] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:19:33,572] {logging_mixin.py:104} INFO - [2021-05-12 07:19:33,572] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:19:33,671] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.139 seconds
+[2021-05-12 07:20:04,211] {scheduler_job.py:182} INFO - Started process (PID=2053217) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:20:04,212] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 07:20:04,213] {logging_mixin.py:104} INFO - [2021-05-12 07:20:04,213] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:20:04,223] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:20:04,237] {logging_mixin.py:104} INFO - [2021-05-12 07:20:04,236] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:20:04,248] {logging_mixin.py:104} INFO - [2021-05-12 07:20:04,247] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:20:04,337] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.130 seconds
+[2021-05-12 07:20:34,997] {scheduler_job.py:182} INFO - Started process (PID=2053682) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:20:34,998] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 07:20:34,999] {logging_mixin.py:104} INFO - [2021-05-12 07:20:34,999] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:20:35,011] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:20:35,025] {logging_mixin.py:104} INFO - [2021-05-12 07:20:35,025] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:20:35,036] {logging_mixin.py:104} INFO - [2021-05-12 07:20:35,036] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:20:35,164] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.171 seconds
+[2021-05-12 07:21:05,350] {scheduler_job.py:182} INFO - Started process (PID=2054004) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:21:05,352] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 07:21:05,352] {logging_mixin.py:104} INFO - [2021-05-12 07:21:05,352] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:21:05,362] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:21:05,376] {logging_mixin.py:104} INFO - [2021-05-12 07:21:05,376] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:21:05,387] {logging_mixin.py:104} INFO - [2021-05-12 07:21:05,387] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:21:05,486] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.139 seconds
+[2021-05-12 07:22:12,373] {scheduler_job.py:182} INFO - Started process (PID=2054795) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:22:12,374] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 07:22:12,375] {logging_mixin.py:104} INFO - [2021-05-12 07:22:12,375] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:22:12,384] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:22:12,401] {logging_mixin.py:104} INFO - [2021-05-12 07:22:12,401] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:22:12,414] {logging_mixin.py:104} INFO - [2021-05-12 07:22:12,414] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:22:12,546] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.176 seconds
+[2021-05-12 07:50:27,404] {scheduler_job.py:182} INFO - Started process (PID=2073057) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:50:27,405] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 07:50:27,406] {logging_mixin.py:104} INFO - [2021-05-12 07:50:27,406] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:50:27,416] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:50:27,431] {logging_mixin.py:104} INFO - [2021-05-12 07:50:27,430] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:50:27,441] {logging_mixin.py:104} INFO - [2021-05-12 07:50:27,441] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:50:27,554] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.153 seconds
+[2021-05-12 07:50:43,930] {scheduler_job.py:182} INFO - Started process (PID=2073209) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:50:43,932] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 07:50:43,933] {logging_mixin.py:104} INFO - [2021-05-12 07:50:43,932] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:50:43,943] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:50:43,956] {logging_mixin.py:104} INFO - [2021-05-12 07:50:43,956] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:50:43,972] {logging_mixin.py:104} INFO - [2021-05-12 07:50:43,972] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:50:44,077] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.150 seconds
+[2021-05-12 07:50:59,909] {scheduler_job.py:182} INFO - Started process (PID=2073390) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:50:59,911] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 07:50:59,912] {logging_mixin.py:104} INFO - [2021-05-12 07:50:59,911] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:50:59,922] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:50:59,938] {logging_mixin.py:104} INFO - [2021-05-12 07:50:59,938] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:51:00,074] {logging_mixin.py:104} INFO - [2021-05-12 07:51:00,073] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:51:00,170] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.265 seconds
+[2021-05-12 07:51:17,381] {scheduler_job.py:182} INFO - Started process (PID=2073588) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:51:17,383] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 07:51:17,384] {logging_mixin.py:104} INFO - [2021-05-12 07:51:17,384] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:51:17,395] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:51:17,513] {logging_mixin.py:104} INFO - [2021-05-12 07:51:17,513] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:51:17,527] {logging_mixin.py:104} INFO - [2021-05-12 07:51:17,527] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:51:17,643] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.266 seconds
+[2021-05-12 07:51:33,290] {scheduler_job.py:182} INFO - Started process (PID=2073721) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:51:33,291] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 07:51:33,291] {logging_mixin.py:104} INFO - [2021-05-12 07:51:33,291] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:51:33,301] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:51:33,314] {logging_mixin.py:104} INFO - [2021-05-12 07:51:33,314] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:51:33,329] {logging_mixin.py:104} INFO - [2021-05-12 07:51:33,329] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:51:33,495] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.208 seconds
+[2021-05-12 07:51:51,757] {scheduler_job.py:182} INFO - Started process (PID=2073991) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:51:51,758] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 07:51:51,759] {logging_mixin.py:104} INFO - [2021-05-12 07:51:51,759] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:51:51,769] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:51:51,784] {logging_mixin.py:104} INFO - [2021-05-12 07:51:51,784] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:51:51,798] {logging_mixin.py:104} INFO - [2021-05-12 07:51:51,798] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:51:51,918] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.165 seconds
+[2021-05-12 07:52:07,610] {scheduler_job.py:182} INFO - Started process (PID=2074246) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:52:07,611] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 07:52:07,612] {logging_mixin.py:104} INFO - [2021-05-12 07:52:07,612] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:52:07,623] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:52:07,637] {logging_mixin.py:104} INFO - [2021-05-12 07:52:07,637] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:52:07,648] {logging_mixin.py:104} INFO - [2021-05-12 07:52:07,648] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:52:07,811] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.204 seconds
+[2021-05-12 07:52:24,075] {scheduler_job.py:182} INFO - Started process (PID=2074430) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:52:24,076] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 07:52:24,076] {logging_mixin.py:104} INFO - [2021-05-12 07:52:24,076] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:52:24,086] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:52:24,100] {logging_mixin.py:104} INFO - [2021-05-12 07:52:24,100] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:52:24,112] {logging_mixin.py:104} INFO - [2021-05-12 07:52:24,112] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:52:24,387] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.315 seconds
+[2021-05-12 07:52:43,280] {scheduler_job.py:182} INFO - Started process (PID=2074628) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:52:43,281] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 07:52:43,282] {logging_mixin.py:104} INFO - [2021-05-12 07:52:43,282] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:52:43,293] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:52:43,439] {logging_mixin.py:104} INFO - [2021-05-12 07:52:43,439] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:52:43,452] {logging_mixin.py:104} INFO - [2021-05-12 07:52:43,451] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:52:43,565] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.288 seconds
+[2021-05-12 07:52:55,301] {scheduler_job.py:182} INFO - Started process (PID=2074743) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:52:55,302] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 07:52:55,303] {logging_mixin.py:104} INFO - [2021-05-12 07:52:55,303] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:52:55,313] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:52:55,327] {logging_mixin.py:104} INFO - [2021-05-12 07:52:55,327] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:52:55,338] {logging_mixin.py:104} INFO - [2021-05-12 07:52:55,338] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:52:55,434] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.137 seconds
+[2021-05-12 07:53:15,735] {scheduler_job.py:182} INFO - Started process (PID=2074956) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:53:15,737] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 07:53:15,737] {logging_mixin.py:104} INFO - [2021-05-12 07:53:15,737] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:53:15,748] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:53:15,763] {logging_mixin.py:104} INFO - [2021-05-12 07:53:15,762] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:53:15,774] {logging_mixin.py:104} INFO - [2021-05-12 07:53:15,774] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:53:15,929] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.197 seconds
+[2021-05-12 07:53:27,168] {scheduler_job.py:182} INFO - Started process (PID=2075089) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:53:27,169] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 07:53:27,170] {logging_mixin.py:104} INFO - [2021-05-12 07:53:27,170] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:53:27,179] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:53:27,193] {logging_mixin.py:104} INFO - [2021-05-12 07:53:27,193] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:53:27,204] {logging_mixin.py:104} INFO - [2021-05-12 07:53:27,204] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:53:27,325] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.161 seconds
+[2021-05-12 07:53:49,965] {scheduler_job.py:182} INFO - Started process (PID=2075332) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:53:49,967] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 07:53:49,967] {logging_mixin.py:104} INFO - [2021-05-12 07:53:49,967] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:53:49,977] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:53:49,991] {logging_mixin.py:104} INFO - [2021-05-12 07:53:49,991] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:53:50,003] {logging_mixin.py:104} INFO - [2021-05-12 07:53:50,002] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:53:50,167] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.205 seconds
+[2021-05-12 07:54:00,922] {scheduler_job.py:182} INFO - Started process (PID=2075434) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:54:00,923] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 07:54:00,924] {logging_mixin.py:104} INFO - [2021-05-12 07:54:00,924] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:54:00,934] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:54:00,947] {logging_mixin.py:104} INFO - [2021-05-12 07:54:00,947] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:54:00,959] {logging_mixin.py:104} INFO - [2021-05-12 07:54:00,959] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:54:01,091] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.172 seconds
+[2021-05-12 07:54:25,779] {scheduler_job.py:182} INFO - Started process (PID=2075827) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:54:25,780] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 07:54:25,781] {logging_mixin.py:104} INFO - [2021-05-12 07:54:25,781] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:54:25,790] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:54:25,804] {logging_mixin.py:104} INFO - [2021-05-12 07:54:25,804] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:54:25,815] {logging_mixin.py:104} INFO - [2021-05-12 07:54:25,815] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:54:25,915] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.140 seconds
+[2021-05-12 07:54:31,771] {scheduler_job.py:182} INFO - Started process (PID=2075901) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:54:31,773] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 07:54:31,774] {logging_mixin.py:104} INFO - [2021-05-12 07:54:31,774] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:54:31,783] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:54:31,796] {logging_mixin.py:104} INFO - [2021-05-12 07:54:31,796] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:54:31,807] {logging_mixin.py:104} INFO - [2021-05-12 07:54:31,807] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:54:31,907] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.139 seconds
+[2021-05-12 07:54:57,277] {scheduler_job.py:182} INFO - Started process (PID=2076190) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:54:57,278] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 07:54:57,278] {logging_mixin.py:104} INFO - [2021-05-12 07:54:57,278] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:54:57,295] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:54:57,313] {logging_mixin.py:104} INFO - [2021-05-12 07:54:57,313] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:54:57,327] {logging_mixin.py:104} INFO - [2021-05-12 07:54:57,326] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:54:57,448] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.175 seconds
+[2021-05-12 07:55:03,987] {scheduler_job.py:182} INFO - Started process (PID=2076250) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:55:03,988] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 07:55:03,989] {logging_mixin.py:104} INFO - [2021-05-12 07:55:03,989] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:55:03,999] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:55:04,013] {logging_mixin.py:104} INFO - [2021-05-12 07:55:04,013] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:55:04,024] {logging_mixin.py:104} INFO - [2021-05-12 07:55:04,024] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:55:04,115] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.131 seconds
+[2021-05-12 07:55:28,817] {scheduler_job.py:182} INFO - Started process (PID=2076543) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:55:28,819] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 07:55:28,819] {logging_mixin.py:104} INFO - [2021-05-12 07:55:28,819] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:55:28,829] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:55:28,843] {logging_mixin.py:104} INFO - [2021-05-12 07:55:28,843] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:55:28,854] {logging_mixin.py:104} INFO - [2021-05-12 07:55:28,854] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:55:28,963] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.150 seconds
+[2021-05-12 07:55:36,590] {scheduler_job.py:182} INFO - Started process (PID=2076720) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:55:36,591] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 07:55:36,592] {logging_mixin.py:104} INFO - [2021-05-12 07:55:36,592] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:55:36,602] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:55:36,616] {logging_mixin.py:104} INFO - [2021-05-12 07:55:36,616] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:55:36,627] {logging_mixin.py:104} INFO - [2021-05-12 07:55:36,627] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:55:36,733] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.146 seconds
+[2021-05-12 07:55:59,921] {scheduler_job.py:182} INFO - Started process (PID=2077001) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:55:59,923] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 07:55:59,923] {logging_mixin.py:104} INFO - [2021-05-12 07:55:59,923] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:55:59,934] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:55:59,947] {logging_mixin.py:104} INFO - [2021-05-12 07:55:59,947] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:55:59,959] {logging_mixin.py:104} INFO - [2021-05-12 07:55:59,959] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:56:00,089] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.171 seconds
+[2021-05-12 07:56:12,344] {scheduler_job.py:182} INFO - Started process (PID=2077164) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:56:12,345] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 07:56:12,346] {logging_mixin.py:104} INFO - [2021-05-12 07:56:12,346] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:56:12,358] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:56:12,372] {logging_mixin.py:104} INFO - [2021-05-12 07:56:12,372] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:56:12,383] {logging_mixin.py:104} INFO - [2021-05-12 07:56:12,383] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:56:12,499] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.159 seconds
+[2021-05-12 07:56:31,204] {scheduler_job.py:182} INFO - Started process (PID=2077356) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:56:31,205] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 07:56:31,205] {logging_mixin.py:104} INFO - [2021-05-12 07:56:31,205] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:56:31,215] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:56:31,228] {logging_mixin.py:104} INFO - [2021-05-12 07:56:31,228] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:56:31,241] {logging_mixin.py:104} INFO - [2021-05-12 07:56:31,241] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:56:31,357] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.157 seconds
+[2021-05-12 07:56:43,115] {scheduler_job.py:182} INFO - Started process (PID=2077473) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:56:43,116] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 07:56:43,117] {logging_mixin.py:104} INFO - [2021-05-12 07:56:43,117] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:56:43,127] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:56:43,142] {logging_mixin.py:104} INFO - [2021-05-12 07:56:43,142] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:56:43,157] {logging_mixin.py:104} INFO - [2021-05-12 07:56:43,157] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:56:43,273] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.162 seconds
+[2021-05-12 07:57:02,268] {scheduler_job.py:182} INFO - Started process (PID=2077674) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:57:02,270] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 07:57:02,271] {logging_mixin.py:104} INFO - [2021-05-12 07:57:02,270] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:57:02,280] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:57:02,294] {logging_mixin.py:104} INFO - [2021-05-12 07:57:02,293] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:57:02,306] {logging_mixin.py:104} INFO - [2021-05-12 07:57:02,306] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:57:02,397] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.132 seconds
+[2021-05-12 07:57:17,489] {scheduler_job.py:182} INFO - Started process (PID=2077822) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:57:17,491] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 07:57:17,492] {logging_mixin.py:104} INFO - [2021-05-12 07:57:17,492] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:57:17,502] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:57:17,515] {logging_mixin.py:104} INFO - [2021-05-12 07:57:17,515] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:57:17,528] {logging_mixin.py:104} INFO - [2021-05-12 07:57:17,527] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:57:17,638] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.152 seconds
+[2021-05-12 07:57:36,093] {scheduler_job.py:182} INFO - Started process (PID=2078148) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:57:36,094] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 07:57:36,095] {logging_mixin.py:104} INFO - [2021-05-12 07:57:36,095] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:57:36,105] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:57:36,119] {logging_mixin.py:104} INFO - [2021-05-12 07:57:36,119] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:57:36,131] {logging_mixin.py:104} INFO - [2021-05-12 07:57:36,131] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:57:36,229] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.140 seconds
+[2021-05-12 07:57:51,659] {scheduler_job.py:182} INFO - Started process (PID=2078325) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:57:51,661] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 07:57:51,661] {logging_mixin.py:104} INFO - [2021-05-12 07:57:51,661] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:57:51,672] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:57:51,686] {logging_mixin.py:104} INFO - [2021-05-12 07:57:51,686] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:57:51,699] {logging_mixin.py:104} INFO - [2021-05-12 07:57:51,699] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:57:51,866] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.210 seconds
+[2021-05-12 07:58:07,716] {scheduler_job.py:182} INFO - Started process (PID=2078503) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:58:07,717] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 07:58:07,718] {logging_mixin.py:104} INFO - [2021-05-12 07:58:07,718] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:58:07,727] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:58:07,741] {logging_mixin.py:104} INFO - [2021-05-12 07:58:07,741] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:58:07,754] {logging_mixin.py:104} INFO - [2021-05-12 07:58:07,754] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:58:07,872] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.160 seconds
+[2021-05-12 07:58:23,281] {scheduler_job.py:182} INFO - Started process (PID=2078692) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:58:23,282] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 07:58:23,283] {logging_mixin.py:104} INFO - [2021-05-12 07:58:23,282] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:58:23,293] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:58:23,307] {logging_mixin.py:104} INFO - [2021-05-12 07:58:23,307] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:58:23,319] {logging_mixin.py:104} INFO - [2021-05-12 07:58:23,319] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:58:23,412] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.135 seconds
+[2021-05-12 07:58:39,384] {scheduler_job.py:182} INFO - Started process (PID=2078845) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:58:39,385] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 07:58:39,386] {logging_mixin.py:104} INFO - [2021-05-12 07:58:39,386] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:58:39,397] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:58:39,411] {logging_mixin.py:104} INFO - [2021-05-12 07:58:39,411] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:58:39,423] {logging_mixin.py:104} INFO - [2021-05-12 07:58:39,423] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:58:39,511] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.130 seconds
+[2021-05-12 07:58:55,049] {scheduler_job.py:182} INFO - Started process (PID=2079013) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:58:55,051] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 07:58:55,052] {logging_mixin.py:104} INFO - [2021-05-12 07:58:55,052] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:58:55,062] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:58:55,076] {logging_mixin.py:104} INFO - [2021-05-12 07:58:55,075] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:58:55,088] {logging_mixin.py:104} INFO - [2021-05-12 07:58:55,088] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:58:55,203] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.157 seconds
+[2021-05-12 07:59:09,796] {scheduler_job.py:182} INFO - Started process (PID=2079166) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:59:09,797] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 07:59:09,798] {logging_mixin.py:104} INFO - [2021-05-12 07:59:09,798] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:59:09,808] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:59:09,822] {logging_mixin.py:104} INFO - [2021-05-12 07:59:09,822] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:59:09,834] {logging_mixin.py:104} INFO - [2021-05-12 07:59:09,834] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:59:09,971] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.179 seconds
+[2021-05-12 07:59:48,012] {scheduler_job.py:182} INFO - Started process (PID=2079545) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:59:48,013] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 07:59:48,014] {logging_mixin.py:104} INFO - [2021-05-12 07:59:48,014] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:59:48,024] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 07:59:48,038] {logging_mixin.py:104} INFO - [2021-05-12 07:59:48,038] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:59:48,049] {logging_mixin.py:104} INFO - [2021-05-12 07:59:48,049] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 07:59:48,212] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.204 seconds
+[2021-05-12 08:00:20,196] {scheduler_job.py:182} INFO - Started process (PID=2080025) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 08:00:20,198] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 08:00:20,199] {logging_mixin.py:104} INFO - [2021-05-12 08:00:20,198] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 08:00:20,208] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 08:00:20,222] {logging_mixin.py:104} INFO - [2021-05-12 08:00:20,222] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 08:00:20,233] {logging_mixin.py:104} INFO - [2021-05-12 08:00:20,232] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 08:00:20,379] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.186 seconds
+[2021-05-12 08:00:52,530] {scheduler_job.py:182} INFO - Started process (PID=2080369) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 08:00:52,531] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 08:00:52,532] {logging_mixin.py:104} INFO - [2021-05-12 08:00:52,532] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 08:00:52,542] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 08:00:52,555] {logging_mixin.py:104} INFO - [2021-05-12 08:00:52,555] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 08:00:52,566] {logging_mixin.py:104} INFO - [2021-05-12 08:00:52,566] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 08:00:52,668] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.140 seconds
+[2021-05-12 08:01:25,903] {scheduler_job.py:182} INFO - Started process (PID=2080839) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 08:01:25,904] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 08:01:25,905] {logging_mixin.py:104} INFO - [2021-05-12 08:01:25,905] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 08:01:25,924] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 08:01:25,938] {logging_mixin.py:104} INFO - [2021-05-12 08:01:25,938] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 08:01:25,949] {logging_mixin.py:104} INFO - [2021-05-12 08:01:25,949] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 08:01:26,119] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.220 seconds
+[2021-05-12 08:01:59,066] {scheduler_job.py:182} INFO - Started process (PID=2081165) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 08:01:59,067] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 08:01:59,068] {logging_mixin.py:104} INFO - [2021-05-12 08:01:59,068] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 08:01:59,077] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 08:01:59,090] {logging_mixin.py:104} INFO - [2021-05-12 08:01:59,090] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 08:01:59,101] {logging_mixin.py:104} INFO - [2021-05-12 08:01:59,101] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 08:01:59,200] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.137 seconds
+[2021-05-12 08:02:32,501] {scheduler_job.py:182} INFO - Started process (PID=2081511) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 08:02:32,503] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 08:02:32,503] {logging_mixin.py:104} INFO - [2021-05-12 08:02:32,503] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 08:02:32,514] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 08:02:32,527] {logging_mixin.py:104} INFO - [2021-05-12 08:02:32,527] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 08:02:32,538] {logging_mixin.py:104} INFO - [2021-05-12 08:02:32,538] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 08:02:32,633] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.135 seconds
+[2021-05-12 08:03:04,116] {scheduler_job.py:182} INFO - Started process (PID=2081807) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 08:03:04,117] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 08:03:04,118] {logging_mixin.py:104} INFO - [2021-05-12 08:03:04,118] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 08:03:04,127] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 08:03:04,141] {logging_mixin.py:104} INFO - [2021-05-12 08:03:04,141] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 08:03:04,152] {logging_mixin.py:104} INFO - [2021-05-12 08:03:04,152] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 08:03:04,249] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.137 seconds
+[2021-05-12 08:03:34,485] {scheduler_job.py:182} INFO - Started process (PID=2082228) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 08:03:34,487] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 08:03:34,487] {logging_mixin.py:104} INFO - [2021-05-12 08:03:34,487] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 08:03:34,497] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 08:03:34,511] {logging_mixin.py:104} INFO - [2021-05-12 08:03:34,511] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 08:03:34,522] {logging_mixin.py:104} INFO - [2021-05-12 08:03:34,522] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 08:03:34,667] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.186 seconds
+[2021-05-12 08:04:07,373] {scheduler_job.py:182} INFO - Started process (PID=2082559) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 08:04:07,375] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 08:04:07,376] {logging_mixin.py:104} INFO - [2021-05-12 08:04:07,376] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 08:04:07,385] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 08:04:07,399] {logging_mixin.py:104} INFO - [2021-05-12 08:04:07,399] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 08:04:07,410] {logging_mixin.py:104} INFO - [2021-05-12 08:04:07,410] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 08:04:07,540] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.170 seconds
+[2021-05-12 08:04:39,511] {scheduler_job.py:182} INFO - Started process (PID=2082867) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 08:04:39,513] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-05-12 08:04:39,513] {logging_mixin.py:104} INFO - [2021-05-12 08:04:39,513] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 08:04:39,524] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-05-12 08:04:39,538] {logging_mixin.py:104} INFO - [2021-05-12 08:04:39,538] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 08:04:39,549] {logging_mixin.py:104} INFO - [2021-05-12 08:04:39,548] {dag.py:2280} INFO - Setting next_dagrun for latest_only to 2021-05-10 00:00:00+00:00
+[2021-05-12 08:04:39,648] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.140 seconds

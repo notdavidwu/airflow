@@ -1,0 +1,55 @@
+[2021-05-12 11:20:24,610] {taskinstance.py:877} INFO - Dependencies all met for <TaskInstance: status_test.task4 2021-05-12T10:39:48.267484+00:00 [queued]>
+[2021-05-12 11:20:24,618] {taskinstance.py:877} INFO - Dependencies all met for <TaskInstance: status_test.task4 2021-05-12T10:39:48.267484+00:00 [queued]>
+[2021-05-12 11:20:24,618] {taskinstance.py:1068} INFO - 
+--------------------------------------------------------------------------------
+[2021-05-12 11:20:24,618] {taskinstance.py:1069} INFO - Starting attempt 10 of 10
+[2021-05-12 11:20:24,618] {taskinstance.py:1070} INFO - 
+--------------------------------------------------------------------------------
+[2021-05-12 11:20:24,785] {taskinstance.py:1089} INFO - Executing <Task(BashOperator): task4> on 2021-05-12T10:39:48.267484+00:00
+[2021-05-12 11:20:24,787] {standard_task_runner.py:52} INFO - Started process 2206595 to run task
+[2021-05-12 11:20:24,792] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'status_test', 'task4', '2021-05-12T10:39:48.267484+00:00', '--job-id', '105', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/task_status.py', '--cfg-path', '/tmp/tmpyjzupu5s', '--error-file', '/tmp/tmpi6ohuzm4']
+[2021-05-12 11:20:24,793] {standard_task_runner.py:77} INFO - Job 105: Subtask task4
+[2021-05-12 11:20:25,005] {logging_mixin.py:104} INFO - Running <TaskInstance: status_test.task4 2021-05-12T10:39:48.267484+00:00 [running]> on host sdn-k8s-b2-3-3.maas
+[2021-05-12 11:20:25,206] {taskinstance.py:1281} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=davidwu5858@gmail.com
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=status_test
+AIRFLOW_CTX_TASK_ID=task4
+AIRFLOW_CTX_EXECUTION_DATE=2021-05-12T10:39:48.267484+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2021-05-12T10:39:48.267484+00:00
+[2021-05-12 11:20:25,206] {bash.py:135} INFO - Tmp dir root location: 
+ /tmp
+[2021-05-12 11:20:25,207] {bash.py:158} INFO - Running command: airflow tasks clear -f status_testsleep7yes
+[2021-05-12 11:20:25,213] {bash.py:169} INFO - Output:
+[2021-05-12 11:20:26,210] {bash.py:173} INFO - [2021-05-12 11:20:26,210] {dagbag.py:451} INFO - Filling up the DagBag from /root/airflow/dags
+[2021-05-12 11:20:26,223] {bash.py:173} INFO - /home/ubuntu/venv/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-05-12 11:20:26,229] {bash.py:173} INFO - Traceback (most recent call last):
+[2021-05-12 11:20:26,229] {bash.py:173} INFO -   File "/home/ubuntu/venv/bin/airflow", line 8, in <module>
+[2021-05-12 11:20:26,229] {bash.py:173} INFO -     sys.exit(main())
+[2021-05-12 11:20:26,229] {bash.py:173} INFO -   File "/home/ubuntu/venv/lib/python3.8/site-packages/airflow/__main__.py", line 40, in main
+[2021-05-12 11:20:26,229] {bash.py:173} INFO -     args.func(args)
+[2021-05-12 11:20:26,229] {bash.py:173} INFO -   File "/home/ubuntu/venv/lib/python3.8/site-packages/airflow/cli/cli_parser.py", line 48, in command
+[2021-05-12 11:20:26,229] {bash.py:173} INFO -     return func(*args, **kwargs)
+[2021-05-12 11:20:26,229] {bash.py:173} INFO -   File "/home/ubuntu/venv/lib/python3.8/site-packages/airflow/utils/cli.py", line 89, in wrapper
+[2021-05-12 11:20:26,229] {bash.py:173} INFO -     return f(*args, **kwargs)
+[2021-05-12 11:20:26,229] {bash.py:173} INFO -   File "/home/ubuntu/venv/lib/python3.8/site-packages/airflow/cli/commands/task_command.py", line 430, in task_clear
+[2021-05-12 11:20:26,229] {bash.py:173} INFO -     dags = get_dags(args.subdir, args.dag_id, use_regex=args.dag_regex)
+[2021-05-12 11:20:26,229] {bash.py:173} INFO -   File "/home/ubuntu/venv/lib/python3.8/site-packages/airflow/utils/cli.py", line 201, in get_dags
+[2021-05-12 11:20:26,229] {bash.py:173} INFO -     return [get_dag(subdir, dag_id)]
+[2021-05-12 11:20:26,229] {bash.py:173} INFO -   File "/home/ubuntu/venv/lib/python3.8/site-packages/airflow/utils/cli.py", line 189, in get_dag
+[2021-05-12 11:20:26,230] {bash.py:173} INFO -     raise AirflowException(
+[2021-05-12 11:20:26,230] {bash.py:173} INFO - airflow.exceptions.AirflowException: dag_id could not be found: status_testsleep7yes. Either the dag did not exist or it failed to parse.
+[2021-05-12 11:20:26,395] {bash.py:177} INFO - Command exited with return code 1
+[2021-05-12 11:20:26,401] {taskinstance.py:1482} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/ubuntu/venv/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1138, in _run_raw_task
+    self._prepare_and_execute_task_with_callbacks(context, task)
+  File "/home/ubuntu/venv/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1311, in _prepare_and_execute_task_with_callbacks
+    result = self._execute_task(context, task_copy)
+  File "/home/ubuntu/venv/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1341, in _execute_task
+    result = task_copy.execute(context=context)
+  File "/home/ubuntu/venv/lib/python3.8/site-packages/airflow/operators/bash.py", line 180, in execute
+    raise AirflowException('Bash command failed. The command returned a non-zero exit code.')
+airflow.exceptions.AirflowException: Bash command failed. The command returned a non-zero exit code.
+[2021-05-12 11:20:26,403] {taskinstance.py:1525} INFO - Marking task as FAILED. dag_id=status_test, task_id=task4, execution_date=20210512T103948, start_date=20210512T112024, end_date=20210512T112026
+[2021-05-12 11:20:26,648] {local_task_job.py:146} INFO - Task exited with return code 1

@@ -1,0 +1,27 @@
+[2021-05-12 09:48:01,359] {taskinstance.py:877} INFO - Dependencies all met for <TaskInstance: tutorial.sleep 2021-05-10T00:00:00+00:00 [queued]>
+[2021-05-12 09:48:01,366] {taskinstance.py:877} INFO - Dependencies all met for <TaskInstance: tutorial.sleep 2021-05-10T00:00:00+00:00 [queued]>
+[2021-05-12 09:48:01,366] {taskinstance.py:1068} INFO - 
+--------------------------------------------------------------------------------
+[2021-05-12 09:48:01,366] {taskinstance.py:1069} INFO - Starting attempt 2 of 5
+[2021-05-12 09:48:01,367] {taskinstance.py:1070} INFO - 
+--------------------------------------------------------------------------------
+[2021-05-12 09:48:01,482] {taskinstance.py:1089} INFO - Executing <Task(BashOperator): sleep> on 2021-05-10T00:00:00+00:00
+[2021-05-12 09:48:01,485] {standard_task_runner.py:52} INFO - Started process 2147975 to run task
+[2021-05-12 09:48:01,490] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'tutorial', 'sleep', '2021-05-10T00:00:00+00:00', '--job-id', '33', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/test-dag.py', '--cfg-path', '/tmp/tmp91_glteg', '--error-file', '/tmp/tmpwt7h02za']
+[2021-05-12 09:48:01,490] {standard_task_runner.py:77} INFO - Job 33: Subtask sleep
+[2021-05-12 09:48:01,752] {logging_mixin.py:104} INFO - Running <TaskInstance: tutorial.sleep 2021-05-10T00:00:00+00:00 [running]> on host sdn-k8s-b2-3-3.maas
+[2021-05-12 09:48:02,053] {taskinstance.py:1281} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=davidwu5858@gmail.com
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=tutorial
+AIRFLOW_CTX_TASK_ID=sleep
+AIRFLOW_CTX_EXECUTION_DATE=2021-05-10T00:00:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2021-05-10T00:00:00+00:00
+[2021-05-12 09:48:02,053] {bash.py:135} INFO - Tmp dir root location: 
+ /tmp
+[2021-05-12 09:48:02,053] {bash.py:158} INFO - Running command: sleep 5
+[2021-05-12 09:48:02,060] {bash.py:169} INFO - Output:
+[2021-05-12 09:48:07,062] {bash.py:177} INFO - Command exited with return code 0
+[2021-05-12 09:48:07,168] {taskinstance.py:1185} INFO - Marking task as SUCCESS. dag_id=tutorial, task_id=sleep, execution_date=20210510T000000, start_date=20210512T094801, end_date=20210512T094807
+[2021-05-12 09:48:07,346] {taskinstance.py:1246} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2021-05-12 09:48:07,358] {local_task_job.py:146} INFO - Task exited with return code 0

@@ -1,0 +1,770 @@
+[2021-05-12 06:28:28,437] {scheduler_job.py:182} INFO - Started process (PID=2008497) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:28:28,438] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 06:28:28,439] {logging_mixin.py:104} INFO - [2021-05-12 06:28:28,439] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:28:28,448] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:28:28,462] {logging_mixin.py:104} INFO - [2021-05-12 06:28:28,462] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:28:28,473] {logging_mixin.py:104} INFO - [2021-05-12 06:28:28,473] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 06:28:28,658] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.224 seconds
+[2021-05-12 06:28:59,008] {scheduler_job.py:182} INFO - Started process (PID=2008940) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:28:59,009] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 06:28:59,010] {logging_mixin.py:104} INFO - [2021-05-12 06:28:59,010] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:28:59,019] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:28:59,035] {logging_mixin.py:104} INFO - [2021-05-12 06:28:59,034] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:28:59,045] {logging_mixin.py:104} INFO - [2021-05-12 06:28:59,045] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 06:28:59,157] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.152 seconds
+[2021-05-12 06:29:30,587] {scheduler_job.py:182} INFO - Started process (PID=2009252) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:29:30,588] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 06:29:30,588] {logging_mixin.py:104} INFO - [2021-05-12 06:29:30,588] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:29:30,598] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:29:30,613] {logging_mixin.py:104} INFO - [2021-05-12 06:29:30,613] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:29:30,624] {logging_mixin.py:104} INFO - [2021-05-12 06:29:30,624] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 06:29:30,715] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.132 seconds
+[2021-05-12 06:30:05,193] {scheduler_job.py:182} INFO - Started process (PID=2009732) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:30:05,202] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 06:30:05,203] {logging_mixin.py:104} INFO - [2021-05-12 06:30:05,203] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:30:05,217] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:30:05,231] {logging_mixin.py:104} INFO - [2021-05-12 06:30:05,231] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:30:05,242] {logging_mixin.py:104} INFO - [2021-05-12 06:30:05,242] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 06:30:05,381] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.192 seconds
+[2021-05-12 06:30:36,077] {scheduler_job.py:182} INFO - Started process (PID=2010076) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:30:36,078] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 06:30:36,079] {logging_mixin.py:104} INFO - [2021-05-12 06:30:36,079] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:30:36,092] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:30:36,104] {logging_mixin.py:104} INFO - [2021-05-12 06:30:36,104] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:30:36,115] {logging_mixin.py:104} INFO - [2021-05-12 06:30:36,115] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 06:30:36,205] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.132 seconds
+[2021-05-12 06:31:07,992] {scheduler_job.py:182} INFO - Started process (PID=2010373) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:31:07,993] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 06:31:07,994] {logging_mixin.py:104} INFO - [2021-05-12 06:31:07,994] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:31:08,006] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:31:08,019] {logging_mixin.py:104} INFO - [2021-05-12 06:31:08,019] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:31:08,030] {logging_mixin.py:104} INFO - [2021-05-12 06:31:08,030] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 06:31:08,138] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.150 seconds
+[2021-05-12 06:31:38,594] {scheduler_job.py:182} INFO - Started process (PID=2010663) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:31:38,595] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 06:31:38,595] {logging_mixin.py:104} INFO - [2021-05-12 06:31:38,595] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:31:38,607] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:31:38,619] {logging_mixin.py:104} INFO - [2021-05-12 06:31:38,619] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:31:38,630] {logging_mixin.py:104} INFO - [2021-05-12 06:31:38,630] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 06:31:38,729] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.139 seconds
+[2021-05-12 06:32:09,052] {scheduler_job.py:182} INFO - Started process (PID=2010956) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:32:09,053] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 06:32:09,058] {logging_mixin.py:104} INFO - [2021-05-12 06:32:09,058] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:32:09,067] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:32:09,080] {logging_mixin.py:104} INFO - [2021-05-12 06:32:09,080] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:32:09,091] {logging_mixin.py:104} INFO - [2021-05-12 06:32:09,091] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 06:32:09,196] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.147 seconds
+[2021-05-12 06:32:40,695] {scheduler_job.py:182} INFO - Started process (PID=2011245) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:32:40,697] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 06:32:40,697] {logging_mixin.py:104} INFO - [2021-05-12 06:32:40,697] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:32:40,706] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:32:40,719] {logging_mixin.py:104} INFO - [2021-05-12 06:32:40,719] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:32:40,730] {logging_mixin.py:104} INFO - [2021-05-12 06:32:40,730] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 06:32:40,845] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.154 seconds
+[2021-05-12 06:33:11,445] {scheduler_job.py:182} INFO - Started process (PID=2011690) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:33:11,447] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 06:33:11,447] {logging_mixin.py:104} INFO - [2021-05-12 06:33:11,447] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:33:11,457] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:33:11,471] {logging_mixin.py:104} INFO - [2021-05-12 06:33:11,470] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:33:11,483] {logging_mixin.py:104} INFO - [2021-05-12 06:33:11,483] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 06:33:11,639] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.196 seconds
+[2021-05-12 06:33:42,231] {scheduler_job.py:182} INFO - Started process (PID=2012000) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:33:42,232] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 06:33:42,233] {logging_mixin.py:104} INFO - [2021-05-12 06:33:42,233] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:33:42,242] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:33:42,255] {logging_mixin.py:104} INFO - [2021-05-12 06:33:42,255] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:33:42,266] {logging_mixin.py:104} INFO - [2021-05-12 06:33:42,266] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 06:33:42,371] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.143 seconds
+[2021-05-12 06:34:12,648] {scheduler_job.py:182} INFO - Started process (PID=2012296) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:34:12,649] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 06:34:12,651] {logging_mixin.py:104} INFO - [2021-05-12 06:34:12,650] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:34:12,660] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:34:12,673] {logging_mixin.py:104} INFO - [2021-05-12 06:34:12,673] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:34:12,683] {logging_mixin.py:104} INFO - [2021-05-12 06:34:12,683] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 06:34:12,802] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.158 seconds
+[2021-05-12 06:34:43,753] {scheduler_job.py:182} INFO - Started process (PID=2012730) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:34:43,755] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 06:34:43,755] {logging_mixin.py:104} INFO - [2021-05-12 06:34:43,755] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:34:43,764] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:34:43,778] {logging_mixin.py:104} INFO - [2021-05-12 06:34:43,778] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:34:43,789] {logging_mixin.py:104} INFO - [2021-05-12 06:34:43,788] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 06:34:43,887] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.137 seconds
+[2021-05-12 06:35:14,507] {scheduler_job.py:182} INFO - Started process (PID=2013048) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:35:14,508] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 06:35:14,509] {logging_mixin.py:104} INFO - [2021-05-12 06:35:14,509] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:35:14,518] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:35:14,531] {logging_mixin.py:104} INFO - [2021-05-12 06:35:14,531] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:35:14,542] {logging_mixin.py:104} INFO - [2021-05-12 06:35:14,542] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 06:35:14,643] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.140 seconds
+[2021-05-12 06:35:45,547] {scheduler_job.py:182} INFO - Started process (PID=2013479) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:35:45,548] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 06:35:45,549] {logging_mixin.py:104} INFO - [2021-05-12 06:35:45,549] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:35:45,559] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:35:45,572] {logging_mixin.py:104} INFO - [2021-05-12 06:35:45,572] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:35:45,583] {logging_mixin.py:104} INFO - [2021-05-12 06:35:45,583] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 06:35:45,676] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.133 seconds
+[2021-05-12 06:36:17,263] {scheduler_job.py:182} INFO - Started process (PID=2013807) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:36:17,264] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 06:36:17,265] {logging_mixin.py:104} INFO - [2021-05-12 06:36:17,265] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:36:17,275] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:36:17,289] {logging_mixin.py:104} INFO - [2021-05-12 06:36:17,288] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:36:17,300] {logging_mixin.py:104} INFO - [2021-05-12 06:36:17,300] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 06:36:17,400] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.141 seconds
+[2021-05-12 06:36:47,663] {scheduler_job.py:182} INFO - Started process (PID=2014089) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:36:47,664] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 06:36:47,665] {logging_mixin.py:104} INFO - [2021-05-12 06:36:47,665] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:36:47,674] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:36:47,687] {logging_mixin.py:104} INFO - [2021-05-12 06:36:47,687] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:36:47,698] {logging_mixin.py:104} INFO - [2021-05-12 06:36:47,698] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 06:36:47,825] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.166 seconds
+[2021-05-12 06:37:19,088] {scheduler_job.py:182} INFO - Started process (PID=2014433) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:37:19,089] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 06:37:19,090] {logging_mixin.py:104} INFO - [2021-05-12 06:37:19,090] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:37:19,100] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:37:19,113] {logging_mixin.py:104} INFO - [2021-05-12 06:37:19,113] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:37:19,124] {logging_mixin.py:104} INFO - [2021-05-12 06:37:19,124] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 06:37:19,216] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.132 seconds
+[2021-05-12 06:37:49,640] {scheduler_job.py:182} INFO - Started process (PID=2014714) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:37:49,641] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 06:37:49,642] {logging_mixin.py:104} INFO - [2021-05-12 06:37:49,642] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:37:49,652] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:37:49,665] {logging_mixin.py:104} INFO - [2021-05-12 06:37:49,665] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:37:49,676] {logging_mixin.py:104} INFO - [2021-05-12 06:37:49,676] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 06:37:49,776] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.139 seconds
+[2021-05-12 06:38:20,822] {scheduler_job.py:182} INFO - Started process (PID=2015151) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:38:20,824] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 06:38:20,824] {logging_mixin.py:104} INFO - [2021-05-12 06:38:20,824] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:38:20,834] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:38:20,847] {logging_mixin.py:104} INFO - [2021-05-12 06:38:20,847] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:38:20,858] {logging_mixin.py:104} INFO - [2021-05-12 06:38:20,858] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 06:38:20,957] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.138 seconds
+[2021-05-12 06:38:51,331] {scheduler_job.py:182} INFO - Started process (PID=2015455) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:38:51,332] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 06:38:51,332] {logging_mixin.py:104} INFO - [2021-05-12 06:38:51,332] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:38:51,341] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:38:51,355] {logging_mixin.py:104} INFO - [2021-05-12 06:38:51,355] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:38:51,366] {logging_mixin.py:104} INFO - [2021-05-12 06:38:51,366] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 06:38:51,650] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.322 seconds
+[2021-05-12 06:39:23,699] {scheduler_job.py:182} INFO - Started process (PID=2015772) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:39:23,700] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 06:39:23,701] {logging_mixin.py:104} INFO - [2021-05-12 06:39:23,701] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:39:23,710] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:39:23,723] {logging_mixin.py:104} INFO - [2021-05-12 06:39:23,723] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:39:23,734] {logging_mixin.py:104} INFO - [2021-05-12 06:39:23,734] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 06:39:23,848] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.152 seconds
+[2021-05-12 06:39:54,190] {scheduler_job.py:182} INFO - Started process (PID=2016055) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:39:54,191] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 06:39:54,192] {logging_mixin.py:104} INFO - [2021-05-12 06:39:54,191] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:39:54,201] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:39:54,214] {logging_mixin.py:104} INFO - [2021-05-12 06:39:54,214] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:39:54,225] {logging_mixin.py:104} INFO - [2021-05-12 06:39:54,225] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 06:39:54,314] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.128 seconds
+[2021-05-12 06:40:25,844] {scheduler_job.py:182} INFO - Started process (PID=2016504) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:40:25,845] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 06:40:25,846] {logging_mixin.py:104} INFO - [2021-05-12 06:40:25,846] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:40:25,856] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:40:25,869] {logging_mixin.py:104} INFO - [2021-05-12 06:40:25,869] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:40:25,879] {logging_mixin.py:104} INFO - [2021-05-12 06:40:25,879] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 06:40:25,997] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.156 seconds
+[2021-05-12 06:40:56,687] {scheduler_job.py:182} INFO - Started process (PID=2016842) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:40:56,688] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 06:40:56,689] {logging_mixin.py:104} INFO - [2021-05-12 06:40:56,689] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:40:56,698] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:40:56,712] {logging_mixin.py:104} INFO - [2021-05-12 06:40:56,711] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:40:56,722] {logging_mixin.py:104} INFO - [2021-05-12 06:40:56,722] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 06:40:56,821] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.138 seconds
+[2021-05-12 06:41:27,841] {scheduler_job.py:182} INFO - Started process (PID=2017274) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:41:27,843] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 06:41:27,843] {logging_mixin.py:104} INFO - [2021-05-12 06:41:27,843] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:41:27,852] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:41:27,865] {logging_mixin.py:104} INFO - [2021-05-12 06:41:27,865] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:41:27,876] {logging_mixin.py:104} INFO - [2021-05-12 06:41:27,876] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 06:41:28,022] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.184 seconds
+[2021-05-12 06:41:58,368] {scheduler_job.py:182} INFO - Started process (PID=2017582) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:41:58,369] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 06:41:58,370] {logging_mixin.py:104} INFO - [2021-05-12 06:41:58,370] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:41:58,380] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:41:58,394] {logging_mixin.py:104} INFO - [2021-05-12 06:41:58,393] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:41:58,405] {logging_mixin.py:104} INFO - [2021-05-12 06:41:58,405] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 06:41:58,506] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.141 seconds
+[2021-05-12 06:42:30,144] {scheduler_job.py:182} INFO - Started process (PID=2017882) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:42:30,145] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 06:42:30,146] {logging_mixin.py:104} INFO - [2021-05-12 06:42:30,146] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:42:30,157] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:42:30,181] {logging_mixin.py:104} INFO - [2021-05-12 06:42:30,181] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:42:30,192] {logging_mixin.py:104} INFO - [2021-05-12 06:42:30,192] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 06:42:30,371] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.230 seconds
+[2021-05-12 06:43:00,770] {scheduler_job.py:182} INFO - Started process (PID=2018164) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:43:00,772] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 06:43:00,772] {logging_mixin.py:104} INFO - [2021-05-12 06:43:00,772] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:43:00,781] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:43:00,794] {logging_mixin.py:104} INFO - [2021-05-12 06:43:00,794] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:43:00,805] {logging_mixin.py:104} INFO - [2021-05-12 06:43:00,805] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 06:43:00,903] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.137 seconds
+[2021-05-12 06:43:31,395] {scheduler_job.py:182} INFO - Started process (PID=2018454) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:43:31,396] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 06:43:31,397] {logging_mixin.py:104} INFO - [2021-05-12 06:43:31,397] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:43:31,406] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:43:31,419] {logging_mixin.py:104} INFO - [2021-05-12 06:43:31,419] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:43:31,430] {logging_mixin.py:104} INFO - [2021-05-12 06:43:31,430] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 06:43:31,529] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.138 seconds
+[2021-05-12 06:44:02,420] {scheduler_job.py:182} INFO - Started process (PID=2018927) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:44:02,421] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 06:44:02,422] {logging_mixin.py:104} INFO - [2021-05-12 06:44:02,421] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:44:02,431] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:44:02,445] {logging_mixin.py:104} INFO - [2021-05-12 06:44:02,445] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:44:02,456] {logging_mixin.py:104} INFO - [2021-05-12 06:44:02,456] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 06:44:02,569] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.152 seconds
+[2021-05-12 06:44:34,021] {scheduler_job.py:182} INFO - Started process (PID=2019247) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:44:34,022] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 06:44:34,023] {logging_mixin.py:104} INFO - [2021-05-12 06:44:34,023] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:44:34,032] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:44:34,045] {logging_mixin.py:104} INFO - [2021-05-12 06:44:34,045] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:44:34,056] {logging_mixin.py:104} INFO - [2021-05-12 06:44:34,056] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 06:44:34,170] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.152 seconds
+[2021-05-12 06:45:04,518] {scheduler_job.py:182} INFO - Started process (PID=2019538) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:45:04,520] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 06:45:04,520] {logging_mixin.py:104} INFO - [2021-05-12 06:45:04,520] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:45:04,529] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:45:04,543] {logging_mixin.py:104} INFO - [2021-05-12 06:45:04,543] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:45:04,554] {logging_mixin.py:104} INFO - [2021-05-12 06:45:04,553] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 06:45:04,668] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.154 seconds
+[2021-05-12 06:45:35,206] {scheduler_job.py:182} INFO - Started process (PID=2019859) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:45:35,207] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 06:45:35,208] {logging_mixin.py:104} INFO - [2021-05-12 06:45:35,208] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:45:35,217] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:45:35,232] {logging_mixin.py:104} INFO - [2021-05-12 06:45:35,231] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:45:35,245] {logging_mixin.py:104} INFO - [2021-05-12 06:45:35,245] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 06:45:35,367] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.165 seconds
+[2021-05-12 06:46:07,375] {scheduler_job.py:182} INFO - Started process (PID=2020324) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:46:07,377] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 06:46:07,380] {logging_mixin.py:104} INFO - [2021-05-12 06:46:07,378] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:46:07,389] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:46:07,403] {logging_mixin.py:104} INFO - [2021-05-12 06:46:07,403] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:46:07,414] {logging_mixin.py:104} INFO - [2021-05-12 06:46:07,414] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 06:46:07,584] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.212 seconds
+[2021-05-12 06:46:40,475] {scheduler_job.py:182} INFO - Started process (PID=2020656) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:46:40,476] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 06:46:40,477] {logging_mixin.py:104} INFO - [2021-05-12 06:46:40,477] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:46:40,486] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:46:40,499] {logging_mixin.py:104} INFO - [2021-05-12 06:46:40,499] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:46:40,510] {logging_mixin.py:104} INFO - [2021-05-12 06:46:40,510] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 06:46:40,650] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.178 seconds
+[2021-05-12 06:47:11,540] {scheduler_job.py:182} INFO - Started process (PID=2021086) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:47:11,542] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 06:47:11,543] {logging_mixin.py:104} INFO - [2021-05-12 06:47:11,542] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:47:11,552] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:47:11,565] {logging_mixin.py:104} INFO - [2021-05-12 06:47:11,565] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:47:11,576] {logging_mixin.py:104} INFO - [2021-05-12 06:47:11,576] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 06:47:11,684] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.147 seconds
+[2021-05-12 06:47:42,467] {scheduler_job.py:182} INFO - Started process (PID=2021416) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:47:42,468] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 06:47:42,469] {logging_mixin.py:104} INFO - [2021-05-12 06:47:42,469] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:47:42,478] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:47:42,492] {logging_mixin.py:104} INFO - [2021-05-12 06:47:42,491] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:47:42,503] {logging_mixin.py:104} INFO - [2021-05-12 06:47:42,502] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 06:47:42,599] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.135 seconds
+[2021-05-12 06:48:13,214] {scheduler_job.py:182} INFO - Started process (PID=2021709) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:48:13,215] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 06:48:13,216] {logging_mixin.py:104} INFO - [2021-05-12 06:48:13,216] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:48:13,225] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:48:13,238] {logging_mixin.py:104} INFO - [2021-05-12 06:48:13,238] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:48:13,249] {logging_mixin.py:104} INFO - [2021-05-12 06:48:13,249] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 06:48:13,382] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.171 seconds
+[2021-05-12 06:48:44,928] {scheduler_job.py:182} INFO - Started process (PID=2022042) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:48:44,929] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 06:48:44,930] {logging_mixin.py:104} INFO - [2021-05-12 06:48:44,930] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:48:44,939] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:48:44,953] {logging_mixin.py:104} INFO - [2021-05-12 06:48:44,953] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:48:44,965] {logging_mixin.py:104} INFO - [2021-05-12 06:48:44,965] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 06:48:45,081] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.156 seconds
+[2021-05-12 06:49:15,254] {scheduler_job.py:182} INFO - Started process (PID=2022333) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:49:15,255] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 06:49:15,256] {logging_mixin.py:104} INFO - [2021-05-12 06:49:15,256] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:49:15,265] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:49:15,279] {logging_mixin.py:104} INFO - [2021-05-12 06:49:15,279] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:49:15,290] {logging_mixin.py:104} INFO - [2021-05-12 06:49:15,290] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 06:49:15,389] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.138 seconds
+[2021-05-12 06:49:45,738] {scheduler_job.py:182} INFO - Started process (PID=2022762) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:49:45,739] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 06:49:45,740] {logging_mixin.py:104} INFO - [2021-05-12 06:49:45,740] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:49:45,754] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:49:45,768] {logging_mixin.py:104} INFO - [2021-05-12 06:49:45,768] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:49:45,779] {logging_mixin.py:104} INFO - [2021-05-12 06:49:45,779] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 06:49:45,897] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.168 seconds
+[2021-05-12 06:50:16,252] {scheduler_job.py:182} INFO - Started process (PID=2023091) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:50:16,254] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 06:50:16,255] {logging_mixin.py:104} INFO - [2021-05-12 06:50:16,255] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:50:16,265] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:50:16,279] {logging_mixin.py:104} INFO - [2021-05-12 06:50:16,278] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:50:16,291] {logging_mixin.py:104} INFO - [2021-05-12 06:50:16,291] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 06:50:16,433] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.184 seconds
+[2021-05-12 06:50:47,152] {scheduler_job.py:182} INFO - Started process (PID=2023386) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:50:47,154] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 06:50:47,154] {logging_mixin.py:104} INFO - [2021-05-12 06:50:47,154] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:50:47,164] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:50:47,178] {logging_mixin.py:104} INFO - [2021-05-12 06:50:47,178] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:50:47,189] {logging_mixin.py:104} INFO - [2021-05-12 06:50:47,189] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 06:50:47,279] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.131 seconds
+[2021-05-12 06:51:18,497] {scheduler_job.py:182} INFO - Started process (PID=2023691) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:51:18,498] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 06:51:18,499] {logging_mixin.py:104} INFO - [2021-05-12 06:51:18,499] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:51:18,509] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:51:18,523] {logging_mixin.py:104} INFO - [2021-05-12 06:51:18,523] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:51:18,534] {logging_mixin.py:104} INFO - [2021-05-12 06:51:18,534] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 06:51:18,629] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.136 seconds
+[2021-05-12 06:51:49,334] {scheduler_job.py:182} INFO - Started process (PID=2024127) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:51:49,335] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 06:51:49,336] {logging_mixin.py:104} INFO - [2021-05-12 06:51:49,336] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:51:49,345] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:51:49,359] {logging_mixin.py:104} INFO - [2021-05-12 06:51:49,358] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:51:49,369] {logging_mixin.py:104} INFO - [2021-05-12 06:51:49,369] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 06:51:49,549] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.218 seconds
+[2021-05-12 06:52:19,971] {scheduler_job.py:182} INFO - Started process (PID=2024449) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:52:19,972] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 06:52:19,972] {logging_mixin.py:104} INFO - [2021-05-12 06:52:19,972] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:52:19,981] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:52:19,995] {logging_mixin.py:104} INFO - [2021-05-12 06:52:19,994] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:52:20,006] {logging_mixin.py:104} INFO - [2021-05-12 06:52:20,006] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 06:52:20,120] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.153 seconds
+[2021-05-12 06:52:51,715] {scheduler_job.py:182} INFO - Started process (PID=2024875) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:52:51,716] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 06:52:51,717] {logging_mixin.py:104} INFO - [2021-05-12 06:52:51,717] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:52:51,727] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 06:52:51,740] {logging_mixin.py:104} INFO - [2021-05-12 06:52:51,740] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:52:51,751] {logging_mixin.py:104} INFO - [2021-05-12 06:52:51,751] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 06:52:51,861] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.150 seconds
+[2021-05-12 07:12:58,695] {scheduler_job.py:182} INFO - Started process (PID=2048496) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:12:58,696] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 07:12:58,696] {logging_mixin.py:104} INFO - [2021-05-12 07:12:58,696] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:12:58,706] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:12:58,720] {logging_mixin.py:104} INFO - [2021-05-12 07:12:58,720] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:12:58,731] {logging_mixin.py:104} INFO - [2021-05-12 07:12:58,731] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 07:12:58,852] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.160 seconds
+[2021-05-12 07:13:31,260] {scheduler_job.py:182} INFO - Started process (PID=2048930) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:13:31,262] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 07:13:31,263] {logging_mixin.py:104} INFO - [2021-05-12 07:13:31,263] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:13:31,272] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:13:31,288] {logging_mixin.py:104} INFO - [2021-05-12 07:13:31,288] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:13:31,300] {logging_mixin.py:104} INFO - [2021-05-12 07:13:31,299] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 07:13:31,394] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.137 seconds
+[2021-05-12 07:14:01,997] {scheduler_job.py:182} INFO - Started process (PID=2049232) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:14:01,998] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 07:14:01,999] {logging_mixin.py:104} INFO - [2021-05-12 07:14:01,999] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:14:02,011] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:14:02,024] {logging_mixin.py:104} INFO - [2021-05-12 07:14:02,024] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:14:02,035] {logging_mixin.py:104} INFO - [2021-05-12 07:14:02,035] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 07:14:02,161] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.167 seconds
+[2021-05-12 07:14:32,947] {scheduler_job.py:182} INFO - Started process (PID=2049527) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:14:32,948] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 07:14:32,949] {logging_mixin.py:104} INFO - [2021-05-12 07:14:32,949] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:14:32,965] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:14:32,979] {logging_mixin.py:104} INFO - [2021-05-12 07:14:32,978] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:14:32,990] {logging_mixin.py:104} INFO - [2021-05-12 07:14:32,990] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 07:14:33,093] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.149 seconds
+[2021-05-12 07:15:07,466] {scheduler_job.py:182} INFO - Started process (PID=2049994) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:15:07,467] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 07:15:07,468] {logging_mixin.py:104} INFO - [2021-05-12 07:15:07,468] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:15:07,480] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:15:07,493] {logging_mixin.py:104} INFO - [2021-05-12 07:15:07,493] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:15:07,503] {logging_mixin.py:104} INFO - [2021-05-12 07:15:07,503] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 07:15:07,603] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.141 seconds
+[2021-05-12 07:15:39,398] {scheduler_job.py:182} INFO - Started process (PID=2050367) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:15:39,399] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 07:15:39,400] {logging_mixin.py:104} INFO - [2021-05-12 07:15:39,400] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:15:39,412] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:15:39,426] {logging_mixin.py:104} INFO - [2021-05-12 07:15:39,426] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:15:39,436] {logging_mixin.py:104} INFO - [2021-05-12 07:15:39,436] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 07:15:39,533] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.139 seconds
+[2021-05-12 07:16:10,129] {scheduler_job.py:182} INFO - Started process (PID=2050802) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:16:10,131] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 07:16:10,132] {logging_mixin.py:104} INFO - [2021-05-12 07:16:10,131] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:16:10,143] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:16:10,156] {logging_mixin.py:104} INFO - [2021-05-12 07:16:10,156] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:16:10,169] {logging_mixin.py:104} INFO - [2021-05-12 07:16:10,169] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 07:16:10,386] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.259 seconds
+[2021-05-12 07:16:40,754] {scheduler_job.py:182} INFO - Started process (PID=2051119) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:16:40,760] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 07:16:40,761] {logging_mixin.py:104} INFO - [2021-05-12 07:16:40,760] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:16:40,768] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:16:40,781] {logging_mixin.py:104} INFO - [2021-05-12 07:16:40,781] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:16:40,792] {logging_mixin.py:104} INFO - [2021-05-12 07:16:40,792] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 07:16:40,907] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.157 seconds
+[2021-05-12 07:17:14,123] {scheduler_job.py:182} INFO - Started process (PID=2051422) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:17:14,124] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 07:17:14,125] {logging_mixin.py:104} INFO - [2021-05-12 07:17:14,125] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:17:14,135] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:17:14,147] {logging_mixin.py:104} INFO - [2021-05-12 07:17:14,147] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:17:14,158] {logging_mixin.py:104} INFO - [2021-05-12 07:17:14,157] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 07:17:14,265] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.145 seconds
+[2021-05-12 07:17:44,920] {scheduler_job.py:182} INFO - Started process (PID=2051720) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:17:44,921] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 07:17:44,922] {logging_mixin.py:104} INFO - [2021-05-12 07:17:44,922] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:17:44,931] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:17:44,945] {logging_mixin.py:104} INFO - [2021-05-12 07:17:44,945] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:17:44,956] {logging_mixin.py:104} INFO - [2021-05-12 07:17:44,956] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 07:17:45,056] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.140 seconds
+[2021-05-12 07:18:15,903] {scheduler_job.py:182} INFO - Started process (PID=2052154) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:18:15,905] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 07:18:15,905] {logging_mixin.py:104} INFO - [2021-05-12 07:18:15,905] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:18:15,914] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:18:15,928] {logging_mixin.py:104} INFO - [2021-05-12 07:18:15,928] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:18:15,938] {logging_mixin.py:104} INFO - [2021-05-12 07:18:15,938] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 07:18:16,039] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.140 seconds
+[2021-05-12 07:18:47,141] {scheduler_job.py:182} INFO - Started process (PID=2052476) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:18:47,143] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 07:18:47,143] {logging_mixin.py:104} INFO - [2021-05-12 07:18:47,143] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:18:47,152] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:18:47,166] {logging_mixin.py:104} INFO - [2021-05-12 07:18:47,165] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:18:47,176] {logging_mixin.py:104} INFO - [2021-05-12 07:18:47,176] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 07:18:47,297] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.160 seconds
+[2021-05-12 07:19:18,863] {scheduler_job.py:182} INFO - Started process (PID=2052770) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:19:18,865] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 07:19:18,865] {logging_mixin.py:104} INFO - [2021-05-12 07:19:18,865] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:19:18,874] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:19:18,887] {logging_mixin.py:104} INFO - [2021-05-12 07:19:18,887] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:19:18,898] {logging_mixin.py:104} INFO - [2021-05-12 07:19:18,898] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 07:19:19,030] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.170 seconds
+[2021-05-12 07:19:50,808] {scheduler_job.py:182} INFO - Started process (PID=2053087) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:19:50,809] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 07:19:50,810] {logging_mixin.py:104} INFO - [2021-05-12 07:19:50,810] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:19:50,820] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:19:50,833] {logging_mixin.py:104} INFO - [2021-05-12 07:19:50,832] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:19:50,843] {logging_mixin.py:104} INFO - [2021-05-12 07:19:50,843] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 07:19:50,990] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.186 seconds
+[2021-05-12 07:20:23,934] {scheduler_job.py:182} INFO - Started process (PID=2053573) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:20:23,935] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 07:20:23,936] {logging_mixin.py:104} INFO - [2021-05-12 07:20:23,936] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:20:23,945] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:20:23,959] {logging_mixin.py:104} INFO - [2021-05-12 07:20:23,959] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:20:23,971] {logging_mixin.py:104} INFO - [2021-05-12 07:20:23,970] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 07:20:24,070] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.139 seconds
+[2021-05-12 07:20:54,871] {scheduler_job.py:182} INFO - Started process (PID=2053903) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:20:54,872] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 07:20:54,873] {logging_mixin.py:104} INFO - [2021-05-12 07:20:54,873] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:20:54,883] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:20:54,897] {logging_mixin.py:104} INFO - [2021-05-12 07:20:54,896] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:20:54,908] {logging_mixin.py:104} INFO - [2021-05-12 07:20:54,908] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 07:20:55,014] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.146 seconds
+[2021-05-12 07:22:19,242] {scheduler_job.py:182} INFO - Started process (PID=2054857) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:22:19,243] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 07:22:19,244] {logging_mixin.py:104} INFO - [2021-05-12 07:22:19,243] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:22:19,253] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:22:19,269] {logging_mixin.py:104} INFO - [2021-05-12 07:22:19,269] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:22:19,279] {logging_mixin.py:104} INFO - [2021-05-12 07:22:19,279] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 07:22:19,369] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.131 seconds
+[2021-05-12 07:49:58,232] {scheduler_job.py:182} INFO - Started process (PID=2072739) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:49:58,233] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 07:49:58,234] {logging_mixin.py:104} INFO - [2021-05-12 07:49:58,234] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:49:58,243] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:49:58,257] {logging_mixin.py:104} INFO - [2021-05-12 07:49:58,257] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:49:58,268] {logging_mixin.py:104} INFO - [2021-05-12 07:49:58,268] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 07:49:58,361] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.133 seconds
+[2021-05-12 07:50:23,844] {scheduler_job.py:182} INFO - Started process (PID=2072996) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:50:23,845] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 07:50:23,846] {logging_mixin.py:104} INFO - [2021-05-12 07:50:23,846] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:50:23,854] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:50:23,887] {logging_mixin.py:104} INFO - [2021-05-12 07:50:23,887] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:50:23,899] {logging_mixin.py:104} INFO - [2021-05-12 07:50:23,899] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 07:50:24,029] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.189 seconds
+[2021-05-12 07:50:30,350] {scheduler_job.py:182} INFO - Started process (PID=2073070) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:50:30,351] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 07:50:30,352] {logging_mixin.py:104} INFO - [2021-05-12 07:50:30,351] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:50:30,361] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:50:30,374] {logging_mixin.py:104} INFO - [2021-05-12 07:50:30,374] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:50:30,386] {logging_mixin.py:104} INFO - [2021-05-12 07:50:30,386] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 07:50:30,588] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.241 seconds
+[2021-05-12 07:50:57,426] {scheduler_job.py:182} INFO - Started process (PID=2073376) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:50:57,427] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 07:50:57,428] {logging_mixin.py:104} INFO - [2021-05-12 07:50:57,428] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:50:57,436] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:50:57,450] {logging_mixin.py:104} INFO - [2021-05-12 07:50:57,450] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:50:57,461] {logging_mixin.py:104} INFO - [2021-05-12 07:50:57,460] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 07:50:57,560] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.138 seconds
+[2021-05-12 07:51:04,044] {scheduler_job.py:182} INFO - Started process (PID=2073416) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:51:04,045] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 07:51:04,046] {logging_mixin.py:104} INFO - [2021-05-12 07:51:04,046] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:51:04,056] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:51:04,073] {logging_mixin.py:104} INFO - [2021-05-12 07:51:04,073] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:51:04,086] {logging_mixin.py:104} INFO - [2021-05-12 07:51:04,086] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 07:51:04,185] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.146 seconds
+[2021-05-12 07:51:29,687] {scheduler_job.py:182} INFO - Started process (PID=2073703) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:51:29,688] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 07:51:29,689] {logging_mixin.py:104} INFO - [2021-05-12 07:51:29,689] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:51:29,698] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:51:29,712] {logging_mixin.py:104} INFO - [2021-05-12 07:51:29,712] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:51:29,723] {logging_mixin.py:104} INFO - [2021-05-12 07:51:29,722] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 07:51:29,843] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.160 seconds
+[2021-05-12 07:51:36,093] {scheduler_job.py:182} INFO - Started process (PID=2073754) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:51:36,094] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 07:51:36,095] {logging_mixin.py:104} INFO - [2021-05-12 07:51:36,095] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:51:36,105] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:51:36,118] {logging_mixin.py:104} INFO - [2021-05-12 07:51:36,118] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:51:36,129] {logging_mixin.py:104} INFO - [2021-05-12 07:51:36,128] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 07:51:36,293] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.203 seconds
+[2021-05-12 07:52:02,287] {scheduler_job.py:182} INFO - Started process (PID=2074173) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:52:02,288] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 07:52:02,289] {logging_mixin.py:104} INFO - [2021-05-12 07:52:02,289] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:52:02,299] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:52:02,312] {logging_mixin.py:104} INFO - [2021-05-12 07:52:02,312] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:52:02,323] {logging_mixin.py:104} INFO - [2021-05-12 07:52:02,322] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 07:52:02,430] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.147 seconds
+[2021-05-12 07:52:10,257] {scheduler_job.py:182} INFO - Started process (PID=2074267) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:52:10,258] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 07:52:10,259] {logging_mixin.py:104} INFO - [2021-05-12 07:52:10,259] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:52:10,269] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:52:10,283] {logging_mixin.py:104} INFO - [2021-05-12 07:52:10,283] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:52:10,294] {logging_mixin.py:104} INFO - [2021-05-12 07:52:10,293] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 07:52:10,479] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.226 seconds
+[2021-05-12 07:52:36,348] {scheduler_job.py:182} INFO - Started process (PID=2074560) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:52:36,349] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 07:52:36,350] {logging_mixin.py:104} INFO - [2021-05-12 07:52:36,350] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:52:36,359] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:52:36,371] {logging_mixin.py:104} INFO - [2021-05-12 07:52:36,371] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:52:36,382] {logging_mixin.py:104} INFO - [2021-05-12 07:52:36,382] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 07:52:36,527] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.182 seconds
+[2021-05-12 07:52:44,784] {scheduler_job.py:182} INFO - Started process (PID=2074639) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:52:44,785] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 07:52:44,785] {logging_mixin.py:104} INFO - [2021-05-12 07:52:44,785] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:52:44,794] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:52:44,843] {logging_mixin.py:104} INFO - [2021-05-12 07:52:44,842] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:52:44,854] {logging_mixin.py:104} INFO - [2021-05-12 07:52:44,854] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 07:52:44,959] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.178 seconds
+[2021-05-12 07:53:09,761] {scheduler_job.py:182} INFO - Started process (PID=2074920) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:53:09,762] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 07:53:09,763] {logging_mixin.py:104} INFO - [2021-05-12 07:53:09,762] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:53:09,773] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:53:09,787] {logging_mixin.py:104} INFO - [2021-05-12 07:53:09,787] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:53:09,798] {logging_mixin.py:104} INFO - [2021-05-12 07:53:09,798] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 07:53:09,900] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.143 seconds
+[2021-05-12 07:53:17,244] {scheduler_job.py:182} INFO - Started process (PID=2074990) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:53:17,245] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 07:53:17,246] {logging_mixin.py:104} INFO - [2021-05-12 07:53:17,245] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:53:17,256] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:53:17,269] {logging_mixin.py:104} INFO - [2021-05-12 07:53:17,269] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:53:17,280] {logging_mixin.py:104} INFO - [2021-05-12 07:53:17,280] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 07:53:17,383] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.143 seconds
+[2021-05-12 07:53:40,683] {scheduler_job.py:182} INFO - Started process (PID=2075229) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:53:40,684] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 07:53:40,684] {logging_mixin.py:104} INFO - [2021-05-12 07:53:40,684] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:53:40,694] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:53:40,707] {logging_mixin.py:104} INFO - [2021-05-12 07:53:40,707] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:53:40,718] {logging_mixin.py:104} INFO - [2021-05-12 07:53:40,718] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 07:53:40,824] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.145 seconds
+[2021-05-12 07:53:48,618] {scheduler_job.py:182} INFO - Started process (PID=2075322) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:53:48,619] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 07:53:48,620] {logging_mixin.py:104} INFO - [2021-05-12 07:53:48,620] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:53:48,629] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:53:48,642] {logging_mixin.py:104} INFO - [2021-05-12 07:53:48,642] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:53:48,654] {logging_mixin.py:104} INFO - [2021-05-12 07:53:48,654] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 07:53:48,774] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.160 seconds
+[2021-05-12 07:54:11,813] {scheduler_job.py:182} INFO - Started process (PID=2075549) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:54:11,815] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 07:54:11,815] {logging_mixin.py:104} INFO - [2021-05-12 07:54:11,815] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:54:11,825] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:54:11,838] {logging_mixin.py:104} INFO - [2021-05-12 07:54:11,838] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:54:11,850] {logging_mixin.py:104} INFO - [2021-05-12 07:54:11,850] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 07:54:11,974] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.164 seconds
+[2021-05-12 07:54:21,776] {scheduler_job.py:182} INFO - Started process (PID=2075661) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:54:21,778] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 07:54:21,778] {logging_mixin.py:104} INFO - [2021-05-12 07:54:21,778] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:54:21,787] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:54:21,904] {logging_mixin.py:104} INFO - [2021-05-12 07:54:21,904] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:54:21,915] {logging_mixin.py:104} INFO - [2021-05-12 07:54:21,915] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 07:54:22,266] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.492 seconds
+[2021-05-12 07:54:45,238] {scheduler_job.py:182} INFO - Started process (PID=2076031) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:54:45,240] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 07:54:45,240] {logging_mixin.py:104} INFO - [2021-05-12 07:54:45,240] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:54:45,249] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:54:45,261] {logging_mixin.py:104} INFO - [2021-05-12 07:54:45,261] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:54:45,272] {logging_mixin.py:104} INFO - [2021-05-12 07:54:45,272] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 07:54:45,373] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.138 seconds
+[2021-05-12 07:54:52,549] {scheduler_job.py:182} INFO - Started process (PID=2076123) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:54:52,551] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 07:54:52,551] {logging_mixin.py:104} INFO - [2021-05-12 07:54:52,551] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:54:52,560] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:54:52,573] {logging_mixin.py:104} INFO - [2021-05-12 07:54:52,573] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:54:52,584] {logging_mixin.py:104} INFO - [2021-05-12 07:54:52,584] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 07:54:52,723] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.178 seconds
+[2021-05-12 07:55:18,875] {scheduler_job.py:182} INFO - Started process (PID=2076437) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:55:18,876] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 07:55:18,877] {logging_mixin.py:104} INFO - [2021-05-12 07:55:18,877] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:55:18,887] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:55:18,902] {logging_mixin.py:104} INFO - [2021-05-12 07:55:18,902] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:55:18,912] {logging_mixin.py:104} INFO - [2021-05-12 07:55:18,912] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 07:55:19,050] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.178 seconds
+[2021-05-12 07:55:24,533] {scheduler_job.py:182} INFO - Started process (PID=2076477) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:55:24,534] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 07:55:24,535] {logging_mixin.py:104} INFO - [2021-05-12 07:55:24,535] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:55:24,544] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:55:24,557] {logging_mixin.py:104} INFO - [2021-05-12 07:55:24,557] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:55:24,568] {logging_mixin.py:104} INFO - [2021-05-12 07:55:24,568] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 07:55:24,689] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.160 seconds
+[2021-05-12 07:55:53,697] {scheduler_job.py:182} INFO - Started process (PID=2076919) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:55:53,698] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 07:55:53,699] {logging_mixin.py:104} INFO - [2021-05-12 07:55:53,699] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:55:53,709] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:55:53,723] {logging_mixin.py:104} INFO - [2021-05-12 07:55:53,723] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:55:53,735] {logging_mixin.py:104} INFO - [2021-05-12 07:55:53,735] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 07:55:53,864] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.170 seconds
+[2021-05-12 07:55:58,683] {scheduler_job.py:182} INFO - Started process (PID=2076967) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:55:58,684] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 07:55:58,685] {logging_mixin.py:104} INFO - [2021-05-12 07:55:58,685] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:55:58,694] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:55:58,707] {logging_mixin.py:104} INFO - [2021-05-12 07:55:58,707] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:55:58,718] {logging_mixin.py:104} INFO - [2021-05-12 07:55:58,718] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 07:55:58,816] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.136 seconds
+[2021-05-12 07:56:24,866] {scheduler_job.py:182} INFO - Started process (PID=2077282) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:56:24,868] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 07:56:24,869] {logging_mixin.py:104} INFO - [2021-05-12 07:56:24,868] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:56:24,878] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:56:24,891] {logging_mixin.py:104} INFO - [2021-05-12 07:56:24,890] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:56:24,902] {logging_mixin.py:104} INFO - [2021-05-12 07:56:24,901] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 07:56:25,005] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.142 seconds
+[2021-05-12 07:56:29,688] {scheduler_job.py:182} INFO - Started process (PID=2077354) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:56:29,690] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 07:56:29,690] {logging_mixin.py:104} INFO - [2021-05-12 07:56:29,690] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:56:29,699] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:56:29,714] {logging_mixin.py:104} INFO - [2021-05-12 07:56:29,714] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:56:29,727] {logging_mixin.py:104} INFO - [2021-05-12 07:56:29,727] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 07:56:29,888] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.203 seconds
+[2021-05-12 07:56:56,838] {scheduler_job.py:182} INFO - Started process (PID=2077597) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:56:56,839] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 07:56:56,840] {logging_mixin.py:104} INFO - [2021-05-12 07:56:56,840] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:56:56,849] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:56:56,864] {logging_mixin.py:104} INFO - [2021-05-12 07:56:56,864] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:56:56,876] {logging_mixin.py:104} INFO - [2021-05-12 07:56:56,876] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 07:56:57,090] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.255 seconds
+[2021-05-12 07:57:01,888] {scheduler_job.py:182} INFO - Started process (PID=2077671) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:57:01,890] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 07:57:01,890] {logging_mixin.py:104} INFO - [2021-05-12 07:57:01,890] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:57:01,900] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:57:01,917] {logging_mixin.py:104} INFO - [2021-05-12 07:57:01,916] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:57:01,927] {logging_mixin.py:104} INFO - [2021-05-12 07:57:01,927] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 07:57:02,046] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.161 seconds
+[2021-05-12 07:57:29,933] {scheduler_job.py:182} INFO - Started process (PID=2077988) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:57:29,934] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 07:57:29,934] {logging_mixin.py:104} INFO - [2021-05-12 07:57:29,934] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:57:29,944] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:57:29,958] {logging_mixin.py:104} INFO - [2021-05-12 07:57:29,958] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:57:29,971] {logging_mixin.py:104} INFO - [2021-05-12 07:57:29,971] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 07:57:30,332] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.402 seconds
+[2021-05-12 07:57:34,848] {scheduler_job.py:182} INFO - Started process (PID=2078146) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:57:34,849] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 07:57:34,850] {logging_mixin.py:104} INFO - [2021-05-12 07:57:34,849] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:57:34,859] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:57:34,872] {logging_mixin.py:104} INFO - [2021-05-12 07:57:34,872] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:57:34,883] {logging_mixin.py:104} INFO - [2021-05-12 07:57:34,883] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 07:57:34,979] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.135 seconds
+[2021-05-12 07:58:05,825] {scheduler_job.py:182} INFO - Started process (PID=2078484) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:58:05,826] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 07:58:05,827] {logging_mixin.py:104} INFO - [2021-05-12 07:58:05,827] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:58:05,838] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:58:05,853] {logging_mixin.py:104} INFO - [2021-05-12 07:58:05,853] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:58:05,866] {logging_mixin.py:104} INFO - [2021-05-12 07:58:05,866] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 07:58:06,147] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.326 seconds
+[2021-05-12 07:58:06,477] {scheduler_job.py:182} INFO - Started process (PID=2078487) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:58:06,478] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 07:58:06,479] {logging_mixin.py:104} INFO - [2021-05-12 07:58:06,479] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:58:06,489] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:58:06,502] {logging_mixin.py:104} INFO - [2021-05-12 07:58:06,502] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:58:06,514] {logging_mixin.py:104} INFO - [2021-05-12 07:58:06,514] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 07:58:06,612] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.138 seconds
+[2021-05-12 07:58:37,730] {scheduler_job.py:182} INFO - Started process (PID=2078821) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:58:37,731] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 07:58:37,732] {logging_mixin.py:104} INFO - [2021-05-12 07:58:37,732] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:58:37,741] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:58:37,756] {logging_mixin.py:104} INFO - [2021-05-12 07:58:37,755] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:58:37,769] {logging_mixin.py:104} INFO - [2021-05-12 07:58:37,769] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 07:58:37,974] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.247 seconds
+[2021-05-12 07:58:38,149] {scheduler_job.py:182} INFO - Started process (PID=2078822) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:58:38,150] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 07:58:38,151] {logging_mixin.py:104} INFO - [2021-05-12 07:58:38,151] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:58:38,161] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:58:38,175] {logging_mixin.py:104} INFO - [2021-05-12 07:58:38,175] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:58:38,188] {logging_mixin.py:104} INFO - [2021-05-12 07:58:38,188] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 07:58:38,286] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.140 seconds
+[2021-05-12 07:59:08,397] {scheduler_job.py:182} INFO - Started process (PID=2079137) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:59:08,398] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 07:59:08,399] {logging_mixin.py:104} INFO - [2021-05-12 07:59:08,399] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:59:08,409] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:59:08,422] {logging_mixin.py:104} INFO - [2021-05-12 07:59:08,422] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:59:08,434] {logging_mixin.py:104} INFO - [2021-05-12 07:59:08,434] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 07:59:08,561] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.167 seconds
+[2021-05-12 07:59:12,902] {scheduler_job.py:182} INFO - Started process (PID=2079214) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:59:12,903] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 07:59:12,904] {logging_mixin.py:104} INFO - [2021-05-12 07:59:12,904] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:59:12,913] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:59:12,925] {logging_mixin.py:104} INFO - [2021-05-12 07:59:12,925] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:59:12,937] {logging_mixin.py:104} INFO - [2021-05-12 07:59:12,937] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 07:59:13,036] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.136 seconds
+[2021-05-12 07:59:42,481] {scheduler_job.py:182} INFO - Started process (PID=2079502) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:59:42,483] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 07:59:42,483] {logging_mixin.py:104} INFO - [2021-05-12 07:59:42,483] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:59:42,492] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 07:59:42,507] {logging_mixin.py:104} INFO - [2021-05-12 07:59:42,507] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:59:42,697] {logging_mixin.py:104} INFO - [2021-05-12 07:59:42,697] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 07:59:42,902] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.424 seconds
+[2021-05-12 08:00:14,705] {scheduler_job.py:182} INFO - Started process (PID=2079977) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 08:00:14,707] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 08:00:14,708] {logging_mixin.py:104} INFO - [2021-05-12 08:00:14,708] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 08:00:14,717] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 08:00:14,731] {logging_mixin.py:104} INFO - [2021-05-12 08:00:14,731] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 08:00:14,742] {logging_mixin.py:104} INFO - [2021-05-12 08:00:14,742] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 08:00:14,835] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.133 seconds
+[2021-05-12 08:00:46,836] {scheduler_job.py:182} INFO - Started process (PID=2080300) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 08:00:46,838] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 08:00:46,838] {logging_mixin.py:104} INFO - [2021-05-12 08:00:46,838] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 08:00:46,847] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 08:00:46,860] {logging_mixin.py:104} INFO - [2021-05-12 08:00:46,860] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 08:00:46,871] {logging_mixin.py:104} INFO - [2021-05-12 08:00:46,871] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 08:00:46,993] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.160 seconds
+[2021-05-12 08:01:17,766] {scheduler_job.py:182} INFO - Started process (PID=2080755) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 08:01:17,767] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 08:01:17,767] {logging_mixin.py:104} INFO - [2021-05-12 08:01:17,767] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 08:01:17,776] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 08:01:17,789] {logging_mixin.py:104} INFO - [2021-05-12 08:01:17,789] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 08:01:17,800] {logging_mixin.py:104} INFO - [2021-05-12 08:01:17,800] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 08:01:17,970] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.207 seconds
+[2021-05-12 08:01:53,702] {scheduler_job.py:182} INFO - Started process (PID=2081139) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 08:01:53,704] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 08:01:53,705] {logging_mixin.py:104} INFO - [2021-05-12 08:01:53,704] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 08:01:53,715] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 08:01:53,728] {logging_mixin.py:104} INFO - [2021-05-12 08:01:53,728] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 08:01:53,739] {logging_mixin.py:104} INFO - [2021-05-12 08:01:53,739] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 08:01:53,867] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.168 seconds
+[2021-05-12 08:02:25,889] {scheduler_job.py:182} INFO - Started process (PID=2081437) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 08:02:25,890] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 08:02:25,891] {logging_mixin.py:104} INFO - [2021-05-12 08:02:25,891] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 08:02:25,902] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 08:02:25,915] {logging_mixin.py:104} INFO - [2021-05-12 08:02:25,915] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 08:02:25,926] {logging_mixin.py:104} INFO - [2021-05-12 08:02:25,926] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 08:02:26,052] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.167 seconds
+[2021-05-12 08:02:58,735] {scheduler_job.py:182} INFO - Started process (PID=2081737) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 08:02:58,736] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 08:02:58,737] {logging_mixin.py:104} INFO - [2021-05-12 08:02:58,737] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 08:02:58,746] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 08:02:58,759] {logging_mixin.py:104} INFO - [2021-05-12 08:02:58,759] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 08:02:58,770] {logging_mixin.py:104} INFO - [2021-05-12 08:02:58,769] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 08:02:58,884] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.153 seconds
+[2021-05-12 08:03:31,212] {scheduler_job.py:182} INFO - Started process (PID=2082170) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 08:03:31,214] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 08:03:31,215] {logging_mixin.py:104} INFO - [2021-05-12 08:03:31,215] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 08:03:31,223] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 08:03:31,237] {logging_mixin.py:104} INFO - [2021-05-12 08:03:31,237] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 08:03:31,247] {logging_mixin.py:104} INFO - [2021-05-12 08:03:31,247] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 08:03:31,396] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.187 seconds
+[2021-05-12 08:04:03,822] {scheduler_job.py:182} INFO - Started process (PID=2082548) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 08:04:03,824] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 08:04:03,824] {logging_mixin.py:104} INFO - [2021-05-12 08:04:03,824] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 08:04:03,833] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 08:04:03,846] {logging_mixin.py:104} INFO - [2021-05-12 08:04:03,846] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 08:04:03,857] {logging_mixin.py:104} INFO - [2021-05-12 08:04:03,857] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 08:04:03,965] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.146 seconds
+[2021-05-12 08:04:37,131] {scheduler_job.py:182} INFO - Started process (PID=2082853) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 08:04:37,133] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py for tasks to queue
+[2021-05-12 08:04:37,133] {logging_mixin.py:104} INFO - [2021-05-12 08:04:37,133] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 08:04:37,143] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['test_utils']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py
+[2021-05-12 08:04:37,157] {logging_mixin.py:104} INFO - [2021-05-12 08:04:37,157] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 08:04:37,167] {logging_mixin.py:104} INFO - [2021-05-12 08:04:37,167] {dag.py:2280} INFO - Setting next_dagrun for test_utils to None
+[2021-05-12 08:04:37,256] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/test_utils.py took 0.128 seconds

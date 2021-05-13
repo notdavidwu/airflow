@@ -1,0 +1,49 @@
+[2021-05-12 11:00:05,170] {taskinstance.py:877} INFO - Dependencies all met for <TaskInstance: status_test.task4 2021-05-12T10:39:48.267484+00:00 [queued]>
+[2021-05-12 11:00:05,178] {taskinstance.py:877} INFO - Dependencies all met for <TaskInstance: status_test.task4 2021-05-12T10:39:48.267484+00:00 [queued]>
+[2021-05-12 11:00:05,178] {taskinstance.py:1068} INFO - 
+--------------------------------------------------------------------------------
+[2021-05-12 11:00:05,178] {taskinstance.py:1069} INFO - Starting attempt 5 of 6
+[2021-05-12 11:00:05,178] {taskinstance.py:1070} INFO - 
+--------------------------------------------------------------------------------
+[2021-05-12 11:00:05,295] {taskinstance.py:1089} INFO - Executing <Task(BashOperator): task4> on 2021-05-12T10:39:48.267484+00:00
+[2021-05-12 11:00:05,298] {standard_task_runner.py:52} INFO - Started process 2193593 to run task
+[2021-05-12 11:00:05,306] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'status_test', 'task4', '2021-05-12T10:39:48.267484+00:00', '--job-id', '83', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/task_status.py', '--cfg-path', '/tmp/tmph23p5590', '--error-file', '/tmp/tmpqbtv31pg']
+[2021-05-12 11:00:05,307] {standard_task_runner.py:77} INFO - Job 83: Subtask task4
+[2021-05-12 11:00:05,450] {logging_mixin.py:104} INFO - Running <TaskInstance: status_test.task4 2021-05-12T10:39:48.267484+00:00 [running]> on host sdn-k8s-b2-3-3.maas
+[2021-05-12 11:00:05,706] {taskinstance.py:1281} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=davidwu5858@gmail.com
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=status_test
+AIRFLOW_CTX_TASK_ID=task4
+AIRFLOW_CTX_EXECUTION_DATE=2021-05-12T10:39:48.267484+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2021-05-12T10:39:48.267484+00:00
+[2021-05-12 11:00:05,707] {bash.py:135} INFO - Tmp dir root location: 
+ /tmp
+[2021-05-12 11:00:05,707] {bash.py:158} INFO - Running command: airflow tasks clear -f status_test
+[2021-05-12 11:00:05,714] {bash.py:169} INFO - Output:
+[2021-05-12 11:00:06,779] {bash.py:173} INFO - [2021-05-12 11:00:06,779] {dagbag.py:451} INFO - Filling up the DagBag from /root/airflow/dags
+[2021-05-12 11:00:06,793] {bash.py:173} INFO - /home/ubuntu/venv/lib/python3.8/site-packages/airflow/utils/decorators.py:94 DeprecationWarning: provide_context is deprecated as of 2.0 and is no longer required
+[2021-05-12 11:00:06,807] {bash.py:173} INFO - You are about to delete these 1 tasks:
+[2021-05-12 11:00:06,807] {bash.py:173} INFO - <TaskInstance: status_test.task2 2021-05-12 10:39:48.267484+00:00 [failed]>
+[2021-05-12 11:00:06,807] {bash.py:173} INFO - 
+[2021-05-12 11:00:06,807] {bash.py:173} INFO - Are you sure? (yes/no):
+[2021-05-12 11:02:04,735] {local_task_job.py:187} WARNING - State of this instance has been externally set to shutdown. Terminating instance.
+[2021-05-12 11:02:04,744] {process_utils.py:100} INFO - Sending Signals.SIGTERM to GPID 2193593
+[2021-05-12 11:02:04,744] {taskinstance.py:1265} ERROR - Received SIGTERM. Terminating subprocesses.
+[2021-05-12 11:02:04,744] {bash.py:185} INFO - Sending SIGTERM signal to bash process group
+[2021-05-12 11:02:04,751] {taskinstance.py:1482} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/ubuntu/venv/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1138, in _run_raw_task
+    self._prepare_and_execute_task_with_callbacks(context, task)
+  File "/home/ubuntu/venv/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1311, in _prepare_and_execute_task_with_callbacks
+    result = self._execute_task(context, task_copy)
+  File "/home/ubuntu/venv/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1341, in _execute_task
+    result = task_copy.execute(context=context)
+  File "/home/ubuntu/venv/lib/python3.8/site-packages/airflow/operators/bash.py", line 171, in execute
+    for raw_line in iter(self.sub_process.stdout.readline, b''):
+  File "/home/ubuntu/venv/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1267, in signal_handler
+    raise AirflowException("Task received SIGTERM signal")
+airflow.exceptions.AirflowException: Task received SIGTERM signal
+[2021-05-12 11:02:04,753] {taskinstance.py:1525} INFO - Marking task as FAILED. dag_id=status_test, task_id=task4, execution_date=20210512T103948, start_date=20210512T110005, end_date=20210512T110204
+[2021-05-12 11:02:04,962] {process_utils.py:66} INFO - Process psutil.Process(pid=2193593, status='terminated', exitcode=1, started='11:00:04') (2193593) terminated with exit code 1
+[2021-05-12 11:02:04,963] {process_utils.py:66} INFO - Process psutil.Process(pid=2193594, status='terminated', started='11:00:05') (2193594) terminated with exit code None

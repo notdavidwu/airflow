@@ -1,0 +1,784 @@
+[2021-05-12 06:28:51,307] {scheduler_job.py:182} INFO - Started process (PID=2008862) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:28:51,309] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 06:28:51,310] {logging_mixin.py:104} INFO - [2021-05-12 06:28:51,309] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:28:51,329] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:28:51,348] {logging_mixin.py:104} INFO - [2021-05-12 06:28:51,348] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:28:51,359] {logging_mixin.py:104} INFO - [2021-05-12 06:28:51,359] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 06:28:51,457] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.153 seconds
+[2021-05-12 06:29:23,530] {scheduler_job.py:182} INFO - Started process (PID=2009179) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:29:23,531] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 06:29:23,532] {logging_mixin.py:104} INFO - [2021-05-12 06:29:23,532] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:29:23,551] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:29:23,570] {logging_mixin.py:104} INFO - [2021-05-12 06:29:23,570] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:29:23,580] {logging_mixin.py:104} INFO - [2021-05-12 06:29:23,580] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 06:29:23,681] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.156 seconds
+[2021-05-12 06:29:54,702] {scheduler_job.py:182} INFO - Started process (PID=2009604) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:29:54,704] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 06:29:54,704] {logging_mixin.py:104} INFO - [2021-05-12 06:29:54,704] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:29:54,724] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:29:54,743] {logging_mixin.py:104} INFO - [2021-05-12 06:29:54,743] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:29:54,763] {logging_mixin.py:104} INFO - [2021-05-12 06:29:54,763] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 06:29:54,929] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.229 seconds
+[2021-05-12 06:30:25,487] {scheduler_job.py:182} INFO - Started process (PID=2009968) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:30:25,488] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 06:30:25,489] {logging_mixin.py:104} INFO - [2021-05-12 06:30:25,489] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:30:25,508] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:30:25,527] {logging_mixin.py:104} INFO - [2021-05-12 06:30:25,527] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:30:25,538] {logging_mixin.py:104} INFO - [2021-05-12 06:30:25,538] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 06:30:25,655] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.171 seconds
+[2021-05-12 06:30:57,537] {scheduler_job.py:182} INFO - Started process (PID=2010278) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:30:57,538] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 06:30:57,539] {logging_mixin.py:104} INFO - [2021-05-12 06:30:57,539] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:30:57,558] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:30:57,577] {logging_mixin.py:104} INFO - [2021-05-12 06:30:57,577] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:30:57,588] {logging_mixin.py:104} INFO - [2021-05-12 06:30:57,588] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 06:30:57,680] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.147 seconds
+[2021-05-12 06:31:27,938] {scheduler_job.py:182} INFO - Started process (PID=2010567) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:31:27,939] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 06:31:27,940] {logging_mixin.py:104} INFO - [2021-05-12 06:31:27,940] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:31:27,959] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:31:27,979] {logging_mixin.py:104} INFO - [2021-05-12 06:31:27,979] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:31:27,989] {logging_mixin.py:104} INFO - [2021-05-12 06:31:27,989] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 06:31:28,132] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.198 seconds
+[2021-05-12 06:31:58,439] {scheduler_job.py:182} INFO - Started process (PID=2010853) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:31:58,440] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 06:31:58,441] {logging_mixin.py:104} INFO - [2021-05-12 06:31:58,441] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:31:58,460] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:31:58,479] {logging_mixin.py:104} INFO - [2021-05-12 06:31:58,479] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:31:58,489] {logging_mixin.py:104} INFO - [2021-05-12 06:31:58,489] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 06:31:58,629] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.193 seconds
+[2021-05-12 06:32:28,930] {scheduler_job.py:182} INFO - Started process (PID=2011146) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:32:28,932] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 06:32:28,933] {logging_mixin.py:104} INFO - [2021-05-12 06:32:28,932] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:32:28,951] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:32:28,972] {logging_mixin.py:104} INFO - [2021-05-12 06:32:28,972] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:32:28,983] {logging_mixin.py:104} INFO - [2021-05-12 06:32:28,983] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 06:32:29,137] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.211 seconds
+[2021-05-12 06:33:00,660] {scheduler_job.py:182} INFO - Started process (PID=2011571) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:33:00,661] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 06:33:00,662] {logging_mixin.py:104} INFO - [2021-05-12 06:33:00,662] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:33:00,679] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:33:00,698] {logging_mixin.py:104} INFO - [2021-05-12 06:33:00,698] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:33:00,709] {logging_mixin.py:104} INFO - [2021-05-12 06:33:00,709] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 06:33:00,828] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.172 seconds
+[2021-05-12 06:33:31,401] {scheduler_job.py:182} INFO - Started process (PID=2011902) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:33:31,402] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 06:33:31,403] {logging_mixin.py:104} INFO - [2021-05-12 06:33:31,403] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:33:31,419] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:33:31,439] {logging_mixin.py:104} INFO - [2021-05-12 06:33:31,439] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:33:31,452] {logging_mixin.py:104} INFO - [2021-05-12 06:33:31,452] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 06:33:31,670] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.272 seconds
+[2021-05-12 06:34:01,962] {scheduler_job.py:182} INFO - Started process (PID=2012188) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:34:01,963] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 06:34:01,964] {logging_mixin.py:104} INFO - [2021-05-12 06:34:01,964] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:34:01,981] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:34:02,000] {logging_mixin.py:104} INFO - [2021-05-12 06:34:02,000] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:34:02,011] {logging_mixin.py:104} INFO - [2021-05-12 06:34:02,011] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 06:34:02,173] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.215 seconds
+[2021-05-12 06:34:32,971] {scheduler_job.py:182} INFO - Started process (PID=2012634) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:34:32,972] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 06:34:32,973] {logging_mixin.py:104} INFO - [2021-05-12 06:34:32,973] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:34:32,990] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:34:33,010] {logging_mixin.py:104} INFO - [2021-05-12 06:34:33,009] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:34:33,021] {logging_mixin.py:104} INFO - [2021-05-12 06:34:33,020] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 06:34:33,152] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.184 seconds
+[2021-05-12 06:35:03,467] {scheduler_job.py:182} INFO - Started process (PID=2012947) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:35:03,469] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 06:35:03,469] {logging_mixin.py:104} INFO - [2021-05-12 06:35:03,469] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:35:03,487] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:35:03,506] {logging_mixin.py:104} INFO - [2021-05-12 06:35:03,506] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:35:03,516] {logging_mixin.py:104} INFO - [2021-05-12 06:35:03,516] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 06:35:03,610] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.145 seconds
+[2021-05-12 06:35:33,872] {scheduler_job.py:182} INFO - Started process (PID=2013372) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:35:33,873] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 06:35:33,874] {logging_mixin.py:104} INFO - [2021-05-12 06:35:33,874] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:35:33,891] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:35:33,910] {logging_mixin.py:104} INFO - [2021-05-12 06:35:33,910] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:35:33,921] {logging_mixin.py:104} INFO - [2021-05-12 06:35:33,921] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 06:35:34,068] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.199 seconds
+[2021-05-12 06:36:04,557] {scheduler_job.py:182} INFO - Started process (PID=2013690) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:36:04,558] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 06:36:04,559] {logging_mixin.py:104} INFO - [2021-05-12 06:36:04,559] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:36:04,576] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:36:04,595] {logging_mixin.py:104} INFO - [2021-05-12 06:36:04,595] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:36:04,606] {logging_mixin.py:104} INFO - [2021-05-12 06:36:04,606] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 06:36:04,719] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.166 seconds
+[2021-05-12 06:36:36,292] {scheduler_job.py:182} INFO - Started process (PID=2013983) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:36:36,293] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 06:36:36,293] {logging_mixin.py:104} INFO - [2021-05-12 06:36:36,293] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:36:36,310] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:36:36,329] {logging_mixin.py:104} INFO - [2021-05-12 06:36:36,329] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:36:36,340] {logging_mixin.py:104} INFO - [2021-05-12 06:36:36,340] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 06:36:36,442] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.153 seconds
+[2021-05-12 06:37:08,126] {scheduler_job.py:182} INFO - Started process (PID=2014287) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:37:08,127] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 06:37:08,128] {logging_mixin.py:104} INFO - [2021-05-12 06:37:08,128] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:37:08,145] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:37:08,165] {logging_mixin.py:104} INFO - [2021-05-12 06:37:08,165] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:37:08,177] {logging_mixin.py:104} INFO - [2021-05-12 06:37:08,177] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 06:37:08,301] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.179 seconds
+[2021-05-12 06:37:39,139] {scheduler_job.py:182} INFO - Started process (PID=2014620) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:37:39,141] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 06:37:39,142] {logging_mixin.py:104} INFO - [2021-05-12 06:37:39,142] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:37:39,159] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:37:39,178] {logging_mixin.py:104} INFO - [2021-05-12 06:37:39,178] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:37:39,189] {logging_mixin.py:104} INFO - [2021-05-12 06:37:39,189] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 06:37:39,282] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.147 seconds
+[2021-05-12 06:38:10,062] {scheduler_job.py:182} INFO - Started process (PID=2014910) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:38:10,063] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 06:38:10,064] {logging_mixin.py:104} INFO - [2021-05-12 06:38:10,064] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:38:10,081] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:38:10,100] {logging_mixin.py:104} INFO - [2021-05-12 06:38:10,100] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:38:10,111] {logging_mixin.py:104} INFO - [2021-05-12 06:38:10,111] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 06:38:10,215] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.157 seconds
+[2021-05-12 06:38:42,142] {scheduler_job.py:182} INFO - Started process (PID=2015354) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:38:42,143] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 06:38:42,143] {logging_mixin.py:104} INFO - [2021-05-12 06:38:42,143] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:38:42,163] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:38:42,183] {logging_mixin.py:104} INFO - [2021-05-12 06:38:42,183] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:38:42,194] {logging_mixin.py:104} INFO - [2021-05-12 06:38:42,194] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 06:38:42,290] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.152 seconds
+[2021-05-12 06:39:13,244] {scheduler_job.py:182} INFO - Started process (PID=2015670) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:39:13,246] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 06:39:13,246] {logging_mixin.py:104} INFO - [2021-05-12 06:39:13,246] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:39:13,263] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:39:13,283] {logging_mixin.py:104} INFO - [2021-05-12 06:39:13,283] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:39:13,294] {logging_mixin.py:104} INFO - [2021-05-12 06:39:13,294] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 06:39:13,414] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.173 seconds
+[2021-05-12 06:39:43,824] {scheduler_job.py:182} INFO - Started process (PID=2015959) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:39:43,826] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 06:39:43,826] {logging_mixin.py:104} INFO - [2021-05-12 06:39:43,826] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:39:43,842] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:39:43,861] {logging_mixin.py:104} INFO - [2021-05-12 06:39:43,861] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:39:43,872] {logging_mixin.py:104} INFO - [2021-05-12 06:39:43,872] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 06:39:43,964] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.144 seconds
+[2021-05-12 06:40:18,184] {scheduler_job.py:182} INFO - Started process (PID=2016422) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:40:18,185] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 06:40:18,186] {logging_mixin.py:104} INFO - [2021-05-12 06:40:18,186] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:40:18,202] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:40:18,221] {logging_mixin.py:104} INFO - [2021-05-12 06:40:18,221] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:40:18,232] {logging_mixin.py:104} INFO - [2021-05-12 06:40:18,232] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 06:40:18,382] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.202 seconds
+[2021-05-12 06:40:48,836] {scheduler_job.py:182} INFO - Started process (PID=2016749) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:40:48,837] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 06:40:48,838] {logging_mixin.py:104} INFO - [2021-05-12 06:40:48,838] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:40:48,857] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:40:48,877] {logging_mixin.py:104} INFO - [2021-05-12 06:40:48,876] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:40:48,887] {logging_mixin.py:104} INFO - [2021-05-12 06:40:48,887] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 06:40:49,013] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.181 seconds
+[2021-05-12 06:41:21,052] {scheduler_job.py:182} INFO - Started process (PID=2017235) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:41:21,053] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 06:41:21,054] {logging_mixin.py:104} INFO - [2021-05-12 06:41:21,054] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:41:21,071] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:41:21,090] {logging_mixin.py:104} INFO - [2021-05-12 06:41:21,090] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:41:21,101] {logging_mixin.py:104} INFO - [2021-05-12 06:41:21,101] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 06:41:21,196] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.148 seconds
+[2021-05-12 06:41:52,713] {scheduler_job.py:182} INFO - Started process (PID=2017556) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:41:52,715] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 06:41:52,715] {logging_mixin.py:104} INFO - [2021-05-12 06:41:52,715] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:41:52,733] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:41:52,752] {logging_mixin.py:104} INFO - [2021-05-12 06:41:52,752] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:41:52,763] {logging_mixin.py:104} INFO - [2021-05-12 06:41:52,763] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 06:41:52,895] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.185 seconds
+[2021-05-12 06:42:23,441] {scheduler_job.py:182} INFO - Started process (PID=2017850) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:42:23,442] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 06:42:23,443] {logging_mixin.py:104} INFO - [2021-05-12 06:42:23,443] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:42:23,460] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:42:23,479] {logging_mixin.py:104} INFO - [2021-05-12 06:42:23,479] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:42:23,490] {logging_mixin.py:104} INFO - [2021-05-12 06:42:23,490] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 06:42:23,647] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.209 seconds
+[2021-05-12 06:42:54,171] {scheduler_job.py:182} INFO - Started process (PID=2018131) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:42:54,173] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 06:42:54,174] {logging_mixin.py:104} INFO - [2021-05-12 06:42:54,174] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:42:54,190] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:42:54,209] {logging_mixin.py:104} INFO - [2021-05-12 06:42:54,209] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:42:54,220] {logging_mixin.py:104} INFO - [2021-05-12 06:42:54,220] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 06:42:54,391] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.223 seconds
+[2021-05-12 06:43:24,955] {scheduler_job.py:182} INFO - Started process (PID=2018425) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:43:24,956] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 06:43:24,957] {logging_mixin.py:104} INFO - [2021-05-12 06:43:24,957] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:43:24,974] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:43:24,992] {logging_mixin.py:104} INFO - [2021-05-12 06:43:24,992] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:43:25,004] {logging_mixin.py:104} INFO - [2021-05-12 06:43:25,004] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 06:43:25,119] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.171 seconds
+[2021-05-12 06:43:56,603] {scheduler_job.py:182} INFO - Started process (PID=2018842) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:43:56,604] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 06:43:56,605] {logging_mixin.py:104} INFO - [2021-05-12 06:43:56,605] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:43:56,621] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:43:56,640] {logging_mixin.py:104} INFO - [2021-05-12 06:43:56,639] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:43:56,650] {logging_mixin.py:104} INFO - [2021-05-12 06:43:56,650] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 06:43:56,744] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.144 seconds
+[2021-05-12 06:44:27,061] {scheduler_job.py:182} INFO - Started process (PID=2019169) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:44:27,062] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 06:44:27,063] {logging_mixin.py:104} INFO - [2021-05-12 06:44:27,063] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:44:27,082] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:44:27,101] {logging_mixin.py:104} INFO - [2021-05-12 06:44:27,101] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:44:27,111] {logging_mixin.py:104} INFO - [2021-05-12 06:44:27,111] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 06:44:27,270] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.213 seconds
+[2021-05-12 06:44:58,897] {scheduler_job.py:182} INFO - Started process (PID=2019464) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:44:58,899] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 06:44:58,899] {logging_mixin.py:104} INFO - [2021-05-12 06:44:58,899] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:44:58,916] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:44:58,936] {logging_mixin.py:104} INFO - [2021-05-12 06:44:58,936] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:44:58,946] {logging_mixin.py:104} INFO - [2021-05-12 06:44:58,946] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 06:44:59,078] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.185 seconds
+[2021-05-12 06:45:29,185] {scheduler_job.py:182} INFO - Started process (PID=2019782) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:45:29,187] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 06:45:29,187] {logging_mixin.py:104} INFO - [2021-05-12 06:45:29,187] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:45:29,204] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:45:29,223] {logging_mixin.py:104} INFO - [2021-05-12 06:45:29,223] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:45:29,234] {logging_mixin.py:104} INFO - [2021-05-12 06:45:29,234] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 06:45:29,334] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.152 seconds
+[2021-05-12 06:46:02,050] {scheduler_job.py:182} INFO - Started process (PID=2020249) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:46:02,051] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 06:46:02,051] {logging_mixin.py:104} INFO - [2021-05-12 06:46:02,051] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:46:02,068] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:46:02,090] {logging_mixin.py:104} INFO - [2021-05-12 06:46:02,090] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:46:02,101] {logging_mixin.py:104} INFO - [2021-05-12 06:46:02,101] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 06:46:02,242] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.196 seconds
+[2021-05-12 06:46:36,766] {scheduler_job.py:182} INFO - Started process (PID=2020635) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:46:36,767] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 06:46:36,768] {logging_mixin.py:104} INFO - [2021-05-12 06:46:36,768] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:46:36,785] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:46:36,803] {logging_mixin.py:104} INFO - [2021-05-12 06:46:36,803] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:46:36,813] {logging_mixin.py:104} INFO - [2021-05-12 06:46:36,813] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 06:46:36,908] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.145 seconds
+[2021-05-12 06:47:07,520] {scheduler_job.py:182} INFO - Started process (PID=2021069) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:47:07,522] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 06:47:07,523] {logging_mixin.py:104} INFO - [2021-05-12 06:47:07,522] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:47:07,540] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:47:07,559] {logging_mixin.py:104} INFO - [2021-05-12 06:47:07,559] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:47:07,570] {logging_mixin.py:104} INFO - [2021-05-12 06:47:07,570] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 06:47:07,666] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.150 seconds
+[2021-05-12 06:47:39,485] {scheduler_job.py:182} INFO - Started process (PID=2021393) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:47:39,486] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 06:47:39,487] {logging_mixin.py:104} INFO - [2021-05-12 06:47:39,487] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:47:39,504] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:47:39,523] {logging_mixin.py:104} INFO - [2021-05-12 06:47:39,523] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:47:39,534] {logging_mixin.py:104} INFO - [2021-05-12 06:47:39,533] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 06:47:39,632] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.151 seconds
+[2021-05-12 06:48:10,264] {scheduler_job.py:182} INFO - Started process (PID=2021685) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:48:10,265] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 06:48:10,267] {logging_mixin.py:104} INFO - [2021-05-12 06:48:10,267] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:48:10,284] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:48:10,303] {logging_mixin.py:104} INFO - [2021-05-12 06:48:10,303] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:48:10,314] {logging_mixin.py:104} INFO - [2021-05-12 06:48:10,314] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 06:48:10,407] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.147 seconds
+[2021-05-12 06:48:40,978] {scheduler_job.py:182} INFO - Started process (PID=2021979) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:48:40,979] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 06:48:40,979] {logging_mixin.py:104} INFO - [2021-05-12 06:48:40,979] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:48:40,996] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:48:41,016] {logging_mixin.py:104} INFO - [2021-05-12 06:48:41,016] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:48:41,027] {logging_mixin.py:104} INFO - [2021-05-12 06:48:41,026] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 06:48:41,142] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.170 seconds
+[2021-05-12 06:49:13,730] {scheduler_job.py:182} INFO - Started process (PID=2022287) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:49:13,731] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 06:49:13,732] {logging_mixin.py:104} INFO - [2021-05-12 06:49:13,732] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:49:13,749] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:49:13,771] {logging_mixin.py:104} INFO - [2021-05-12 06:49:13,771] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:49:13,782] {logging_mixin.py:104} INFO - [2021-05-12 06:49:13,782] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 06:49:13,900] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.173 seconds
+[2021-05-12 06:49:44,488] {scheduler_job.py:182} INFO - Started process (PID=2022711) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:49:44,489] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 06:49:44,490] {logging_mixin.py:104} INFO - [2021-05-12 06:49:44,490] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:49:44,507] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:49:44,527] {logging_mixin.py:104} INFO - [2021-05-12 06:49:44,527] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:49:44,537] {logging_mixin.py:104} INFO - [2021-05-12 06:49:44,537] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 06:49:44,639] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.155 seconds
+[2021-05-12 06:50:15,017] {scheduler_job.py:182} INFO - Started process (PID=2023068) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:50:15,018] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 06:50:15,019] {logging_mixin.py:104} INFO - [2021-05-12 06:50:15,019] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:50:15,040] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:50:15,060] {logging_mixin.py:104} INFO - [2021-05-12 06:50:15,060] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:50:15,072] {logging_mixin.py:104} INFO - [2021-05-12 06:50:15,072] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 06:50:15,174] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.162 seconds
+[2021-05-12 06:50:45,798] {scheduler_job.py:182} INFO - Started process (PID=2023377) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:50:45,799] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 06:50:45,800] {logging_mixin.py:104} INFO - [2021-05-12 06:50:45,800] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:50:45,817] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:50:45,836] {logging_mixin.py:104} INFO - [2021-05-12 06:50:45,836] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:50:45,847] {logging_mixin.py:104} INFO - [2021-05-12 06:50:45,847] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 06:50:45,948] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.154 seconds
+[2021-05-12 06:51:16,266] {scheduler_job.py:182} INFO - Started process (PID=2023675) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:51:16,267] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 06:51:16,269] {logging_mixin.py:104} INFO - [2021-05-12 06:51:16,268] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:51:16,286] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:51:16,307] {logging_mixin.py:104} INFO - [2021-05-12 06:51:16,306] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:51:16,317] {logging_mixin.py:104} INFO - [2021-05-12 06:51:16,317] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 06:51:16,413] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.150 seconds
+[2021-05-12 06:51:47,206] {scheduler_job.py:182} INFO - Started process (PID=2024113) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:51:47,208] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 06:51:47,208] {logging_mixin.py:104} INFO - [2021-05-12 06:51:47,208] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:51:47,226] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:51:47,245] {logging_mixin.py:104} INFO - [2021-05-12 06:51:47,245] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:51:47,256] {logging_mixin.py:104} INFO - [2021-05-12 06:51:47,256] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 06:51:47,354] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.151 seconds
+[2021-05-12 06:52:17,942] {scheduler_job.py:182} INFO - Started process (PID=2024447) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:52:17,943] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 06:52:17,944] {logging_mixin.py:104} INFO - [2021-05-12 06:52:17,944] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:52:17,962] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:52:17,982] {logging_mixin.py:104} INFO - [2021-05-12 06:52:17,982] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:52:17,993] {logging_mixin.py:104} INFO - [2021-05-12 06:52:17,992] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 06:52:18,095] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.156 seconds
+[2021-05-12 06:52:49,946] {scheduler_job.py:182} INFO - Started process (PID=2024865) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:52:49,947] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 06:52:49,949] {logging_mixin.py:104} INFO - [2021-05-12 06:52:49,948] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:52:49,973] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 06:52:49,992] {logging_mixin.py:104} INFO - [2021-05-12 06:52:49,992] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 06:52:50,004] {logging_mixin.py:104} INFO - [2021-05-12 06:52:50,003] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 06:52:50,178] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.235 seconds
+[2021-05-12 07:12:48,087] {scheduler_job.py:182} INFO - Started process (PID=2048399) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:12:48,088] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 07:12:48,089] {logging_mixin.py:104} INFO - [2021-05-12 07:12:48,089] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:12:48,108] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:12:48,127] {logging_mixin.py:104} INFO - [2021-05-12 07:12:48,126] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:12:48,137] {logging_mixin.py:104} INFO - [2021-05-12 07:12:48,137] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 07:12:48,262] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.179 seconds
+[2021-05-12 07:13:20,731] {scheduler_job.py:182} INFO - Started process (PID=2048838) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:13:20,733] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 07:13:20,733] {logging_mixin.py:104} INFO - [2021-05-12 07:13:20,733] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:13:20,752] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:13:20,772] {logging_mixin.py:104} INFO - [2021-05-12 07:13:20,772] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:13:20,782] {logging_mixin.py:104} INFO - [2021-05-12 07:13:20,782] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 07:13:20,893] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.166 seconds
+[2021-05-12 07:13:51,314] {scheduler_job.py:182} INFO - Started process (PID=2049127) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:13:51,315] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 07:13:51,315] {logging_mixin.py:104} INFO - [2021-05-12 07:13:51,315] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:13:51,334] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:13:51,353] {logging_mixin.py:104} INFO - [2021-05-12 07:13:51,353] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:13:51,364] {logging_mixin.py:104} INFO - [2021-05-12 07:13:51,363] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 07:13:51,534] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.224 seconds
+[2021-05-12 07:14:23,279] {scheduler_job.py:182} INFO - Started process (PID=2049432) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:14:23,280] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 07:14:23,281] {logging_mixin.py:104} INFO - [2021-05-12 07:14:23,280] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:14:23,301] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:14:23,319] {logging_mixin.py:104} INFO - [2021-05-12 07:14:23,319] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:14:23,330] {logging_mixin.py:104} INFO - [2021-05-12 07:14:23,330] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 07:14:23,425] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.150 seconds
+[2021-05-12 07:14:54,494] {scheduler_job.py:182} INFO - Started process (PID=2049884) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:14:54,495] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 07:14:54,496] {logging_mixin.py:104} INFO - [2021-05-12 07:14:54,495] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:14:54,515] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:14:54,535] {logging_mixin.py:104} INFO - [2021-05-12 07:14:54,535] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:14:54,546] {logging_mixin.py:104} INFO - [2021-05-12 07:14:54,546] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 07:14:54,717] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.226 seconds
+[2021-05-12 07:15:27,505] {scheduler_job.py:182} INFO - Started process (PID=2050209) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:15:27,507] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 07:15:27,507] {logging_mixin.py:104} INFO - [2021-05-12 07:15:27,507] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:15:27,526] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:15:27,546] {logging_mixin.py:104} INFO - [2021-05-12 07:15:27,546] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:15:27,557] {logging_mixin.py:104} INFO - [2021-05-12 07:15:27,557] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 07:15:27,650] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.148 seconds
+[2021-05-12 07:15:58,118] {scheduler_job.py:182} INFO - Started process (PID=2050663) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:15:58,119] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 07:15:58,121] {logging_mixin.py:104} INFO - [2021-05-12 07:15:58,121] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:15:58,145] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:15:58,165] {logging_mixin.py:104} INFO - [2021-05-12 07:15:58,165] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:15:58,176] {logging_mixin.py:104} INFO - [2021-05-12 07:15:58,176] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 07:15:58,283] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.168 seconds
+[2021-05-12 07:16:28,506] {scheduler_job.py:182} INFO - Started process (PID=2050985) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:16:28,507] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 07:16:28,511] {logging_mixin.py:104} INFO - [2021-05-12 07:16:28,511] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:16:28,527] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:16:28,546] {logging_mixin.py:104} INFO - [2021-05-12 07:16:28,546] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:16:28,556] {logging_mixin.py:104} INFO - [2021-05-12 07:16:28,556] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 07:16:28,682] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.179 seconds
+[2021-05-12 07:16:58,998] {scheduler_job.py:182} INFO - Started process (PID=2051270) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:16:58,999] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 07:16:59,000] {logging_mixin.py:104} INFO - [2021-05-12 07:16:59,000] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:16:59,017] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:16:59,037] {logging_mixin.py:104} INFO - [2021-05-12 07:16:59,037] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:16:59,048] {logging_mixin.py:104} INFO - [2021-05-12 07:16:59,047] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 07:16:59,165] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.171 seconds
+[2021-05-12 07:17:31,760] {scheduler_job.py:182} INFO - Started process (PID=2051610) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:17:31,762] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 07:17:31,763] {logging_mixin.py:104} INFO - [2021-05-12 07:17:31,763] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:17:31,780] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:17:31,799] {logging_mixin.py:104} INFO - [2021-05-12 07:17:31,799] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:17:31,810] {logging_mixin.py:104} INFO - [2021-05-12 07:17:31,810] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 07:17:32,059] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.303 seconds
+[2021-05-12 07:18:02,752] {scheduler_job.py:182} INFO - Started process (PID=2052033) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:18:02,754] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 07:18:02,756] {logging_mixin.py:104} INFO - [2021-05-12 07:18:02,756] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:18:02,772] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:18:02,792] {logging_mixin.py:104} INFO - [2021-05-12 07:18:02,792] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:18:02,803] {logging_mixin.py:104} INFO - [2021-05-12 07:18:02,803] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 07:18:02,947] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.199 seconds
+[2021-05-12 07:18:33,712] {scheduler_job.py:182} INFO - Started process (PID=2052360) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:18:33,713] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 07:18:33,714] {logging_mixin.py:104} INFO - [2021-05-12 07:18:33,713] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:18:33,730] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:18:33,749] {logging_mixin.py:104} INFO - [2021-05-12 07:18:33,749] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:18:33,760] {logging_mixin.py:104} INFO - [2021-05-12 07:18:33,760] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 07:18:33,864] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.155 seconds
+[2021-05-12 07:19:05,709] {scheduler_job.py:182} INFO - Started process (PID=2052654) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:19:05,710] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 07:19:05,711] {logging_mixin.py:104} INFO - [2021-05-12 07:19:05,710] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:19:05,728] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:19:05,747] {logging_mixin.py:104} INFO - [2021-05-12 07:19:05,747] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:19:05,759] {logging_mixin.py:104} INFO - [2021-05-12 07:19:05,759] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 07:19:05,880] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.175 seconds
+[2021-05-12 07:19:37,584] {scheduler_job.py:182} INFO - Started process (PID=2052955) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:19:37,586] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 07:19:37,586] {logging_mixin.py:104} INFO - [2021-05-12 07:19:37,586] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:19:37,603] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:19:37,622] {logging_mixin.py:104} INFO - [2021-05-12 07:19:37,622] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:19:37,633] {logging_mixin.py:104} INFO - [2021-05-12 07:19:37,633] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 07:19:37,738] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.157 seconds
+[2021-05-12 07:20:08,138] {scheduler_job.py:182} INFO - Started process (PID=2053243) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:20:08,139] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 07:20:08,140] {logging_mixin.py:104} INFO - [2021-05-12 07:20:08,140] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:20:08,173] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:20:08,206] {logging_mixin.py:104} INFO - [2021-05-12 07:20:08,205] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:20:08,218] {logging_mixin.py:104} INFO - [2021-05-12 07:20:08,218] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 07:20:08,373] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.238 seconds
+[2021-05-12 07:20:38,999] {scheduler_job.py:182} INFO - Started process (PID=2053693) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:20:39,001] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 07:20:39,001] {logging_mixin.py:104} INFO - [2021-05-12 07:20:39,001] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:20:39,019] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:20:39,042] {logging_mixin.py:104} INFO - [2021-05-12 07:20:39,042] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:20:39,053] {logging_mixin.py:104} INFO - [2021-05-12 07:20:39,053] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 07:20:39,164] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.172 seconds
+[2021-05-12 07:21:10,835] {scheduler_job.py:182} INFO - Started process (PID=2054055) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:21:10,836] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 07:21:10,837] {logging_mixin.py:104} INFO - [2021-05-12 07:21:10,837] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:21:10,854] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:21:10,874] {logging_mixin.py:104} INFO - [2021-05-12 07:21:10,874] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:21:10,884] {logging_mixin.py:104} INFO - [2021-05-12 07:21:10,884] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 07:21:11,003] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.172 seconds
+[2021-05-12 07:22:00,873] {scheduler_job.py:182} INFO - Started process (PID=2054684) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:22:00,874] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 07:22:00,875] {logging_mixin.py:104} INFO - [2021-05-12 07:22:00,875] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:22:00,894] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:22:01,060] {logging_mixin.py:104} INFO - [2021-05-12 07:22:01,060] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:22:01,081] {logging_mixin.py:104} INFO - [2021-05-12 07:22:01,080] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 07:22:01,345] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.474 seconds
+[2021-05-12 07:22:32,491] {scheduler_job.py:182} INFO - Started process (PID=2054984) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:22:32,492] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 07:22:32,493] {logging_mixin.py:104} INFO - [2021-05-12 07:22:32,493] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:22:32,512] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:22:32,532] {logging_mixin.py:104} INFO - [2021-05-12 07:22:32,531] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:22:32,542] {logging_mixin.py:104} INFO - [2021-05-12 07:22:32,542] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 07:22:32,644] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.157 seconds
+[2021-05-12 07:50:05,783] {scheduler_job.py:182} INFO - Started process (PID=2072791) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:50:05,785] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 07:50:05,785] {logging_mixin.py:104} INFO - [2021-05-12 07:50:05,785] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:50:05,801] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:50:05,820] {logging_mixin.py:104} INFO - [2021-05-12 07:50:05,820] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:50:05,831] {logging_mixin.py:104} INFO - [2021-05-12 07:50:05,831] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 07:50:06,028] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.247 seconds
+[2021-05-12 07:50:29,103] {scheduler_job.py:182} INFO - Started process (PID=2073068) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:50:29,105] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 07:50:29,105] {logging_mixin.py:104} INFO - [2021-05-12 07:50:29,105] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:50:29,125] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:50:29,146] {logging_mixin.py:104} INFO - [2021-05-12 07:50:29,146] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:50:29,161] {logging_mixin.py:104} INFO - [2021-05-12 07:50:29,161] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 07:50:29,454] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.356 seconds
+[2021-05-12 07:50:38,343] {scheduler_job.py:182} INFO - Started process (PID=2073171) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:50:38,344] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 07:50:38,345] {logging_mixin.py:104} INFO - [2021-05-12 07:50:38,345] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:50:38,361] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:50:38,381] {logging_mixin.py:104} INFO - [2021-05-12 07:50:38,381] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:50:38,391] {logging_mixin.py:104} INFO - [2021-05-12 07:50:38,391] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 07:50:38,496] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.156 seconds
+[2021-05-12 07:51:02,636] {scheduler_job.py:182} INFO - Started process (PID=2073407) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:51:02,638] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 07:51:02,638] {logging_mixin.py:104} INFO - [2021-05-12 07:51:02,638] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:51:02,655] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:51:02,674] {logging_mixin.py:104} INFO - [2021-05-12 07:51:02,674] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:51:02,685] {logging_mixin.py:104} INFO - [2021-05-12 07:51:02,685] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 07:51:02,854] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.221 seconds
+[2021-05-12 07:51:11,831] {scheduler_job.py:182} INFO - Started process (PID=2073501) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:51:11,832] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 07:51:11,832] {logging_mixin.py:104} INFO - [2021-05-12 07:51:11,832] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:51:11,849] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:51:11,867] {logging_mixin.py:104} INFO - [2021-05-12 07:51:11,867] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:51:11,877] {logging_mixin.py:104} INFO - [2021-05-12 07:51:11,877] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 07:51:12,002] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.174 seconds
+[2021-05-12 07:51:34,833] {scheduler_job.py:182} INFO - Started process (PID=2073733) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:51:34,835] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 07:51:34,835] {logging_mixin.py:104} INFO - [2021-05-12 07:51:34,835] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:51:34,852] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:51:34,881] {logging_mixin.py:104} INFO - [2021-05-12 07:51:34,881] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:51:34,892] {logging_mixin.py:104} INFO - [2021-05-12 07:51:34,892] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 07:51:35,047] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.217 seconds
+[2021-05-12 07:51:42,890] {scheduler_job.py:182} INFO - Started process (PID=2073822) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:51:42,891] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 07:51:42,892] {logging_mixin.py:104} INFO - [2021-05-12 07:51:42,892] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:51:42,909] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:51:42,928] {logging_mixin.py:104} INFO - [2021-05-12 07:51:42,928] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:51:42,939] {logging_mixin.py:104} INFO - [2021-05-12 07:51:42,939] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 07:51:43,104] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.218 seconds
+[2021-05-12 07:52:10,437] {scheduler_job.py:182} INFO - Started process (PID=2074268) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:52:10,438] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 07:52:10,439] {logging_mixin.py:104} INFO - [2021-05-12 07:52:10,439] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:52:10,455] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:52:10,495] {logging_mixin.py:104} INFO - [2021-05-12 07:52:10,495] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:52:10,506] {logging_mixin.py:104} INFO - [2021-05-12 07:52:10,506] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 07:52:10,637] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.203 seconds
+[2021-05-12 07:52:14,080] {scheduler_job.py:182} INFO - Started process (PID=2074294) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:52:14,081] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 07:52:14,082] {logging_mixin.py:104} INFO - [2021-05-12 07:52:14,082] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:52:14,099] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:52:14,119] {logging_mixin.py:104} INFO - [2021-05-12 07:52:14,119] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:52:14,132] {logging_mixin.py:104} INFO - [2021-05-12 07:52:14,132] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 07:52:14,234] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.158 seconds
+[2021-05-12 07:52:45,852] {scheduler_job.py:182} INFO - Started process (PID=2074642) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:52:45,853] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 07:52:45,854] {logging_mixin.py:104} INFO - [2021-05-12 07:52:45,854] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:52:45,870] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:52:45,890] {logging_mixin.py:104} INFO - [2021-05-12 07:52:45,890] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:52:45,901] {logging_mixin.py:104} INFO - [2021-05-12 07:52:45,901] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 07:52:46,076] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.227 seconds
+[2021-05-12 07:52:50,337] {scheduler_job.py:182} INFO - Started process (PID=2074713) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:52:50,338] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 07:52:50,339] {logging_mixin.py:104} INFO - [2021-05-12 07:52:50,339] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:52:50,356] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:52:50,378] {logging_mixin.py:104} INFO - [2021-05-12 07:52:50,378] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:52:50,389] {logging_mixin.py:104} INFO - [2021-05-12 07:52:50,389] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 07:52:50,564] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.230 seconds
+[2021-05-12 07:53:18,084] {scheduler_job.py:182} INFO - Started process (PID=2075015) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:53:18,085] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 07:53:18,085] {logging_mixin.py:104} INFO - [2021-05-12 07:53:18,085] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:53:18,102] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:53:18,121] {logging_mixin.py:104} INFO - [2021-05-12 07:53:18,121] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:53:18,131] {logging_mixin.py:104} INFO - [2021-05-12 07:53:18,131] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 07:53:18,233] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.153 seconds
+[2021-05-12 07:53:21,058] {scheduler_job.py:182} INFO - Started process (PID=2075028) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:53:21,059] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 07:53:21,060] {logging_mixin.py:104} INFO - [2021-05-12 07:53:21,059] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:53:21,077] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:53:21,098] {logging_mixin.py:104} INFO - [2021-05-12 07:53:21,098] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:53:21,109] {logging_mixin.py:104} INFO - [2021-05-12 07:53:21,108] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 07:53:21,201] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.147 seconds
+[2021-05-12 07:53:48,660] {scheduler_job.py:182} INFO - Started process (PID=2075323) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:53:48,661] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 07:53:48,662] {logging_mixin.py:104} INFO - [2021-05-12 07:53:48,662] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:53:48,680] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:53:48,806] {logging_mixin.py:104} INFO - [2021-05-12 07:53:48,806] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:53:48,818] {logging_mixin.py:104} INFO - [2021-05-12 07:53:48,818] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 07:53:48,917] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.261 seconds
+[2021-05-12 07:53:54,289] {scheduler_job.py:182} INFO - Started process (PID=2075360) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:53:54,290] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 07:53:54,292] {logging_mixin.py:104} INFO - [2021-05-12 07:53:54,292] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:53:54,307] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:53:54,328] {logging_mixin.py:104} INFO - [2021-05-12 07:53:54,328] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:53:54,340] {logging_mixin.py:104} INFO - [2021-05-12 07:53:54,340] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 07:53:54,467] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.180 seconds
+[2021-05-12 07:54:19,649] {scheduler_job.py:182} INFO - Started process (PID=2075650) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:54:19,650] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 07:54:19,652] {logging_mixin.py:104} INFO - [2021-05-12 07:54:19,651] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:54:19,668] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:54:19,687] {logging_mixin.py:104} INFO - [2021-05-12 07:54:19,687] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:54:19,697] {logging_mixin.py:104} INFO - [2021-05-12 07:54:19,697] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 07:54:19,799] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.153 seconds
+[2021-05-12 07:54:28,533] {scheduler_job.py:182} INFO - Started process (PID=2075886) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:54:28,534] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 07:54:28,535] {logging_mixin.py:104} INFO - [2021-05-12 07:54:28,535] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:54:28,552] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:54:28,571] {logging_mixin.py:104} INFO - [2021-05-12 07:54:28,571] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:54:28,583] {logging_mixin.py:104} INFO - [2021-05-12 07:54:28,583] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 07:54:28,682] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.154 seconds
+[2021-05-12 07:54:51,744] {scheduler_job.py:182} INFO - Started process (PID=2076110) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:54:51,745] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 07:54:51,746] {logging_mixin.py:104} INFO - [2021-05-12 07:54:51,746] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:54:51,762] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:54:51,781] {logging_mixin.py:104} INFO - [2021-05-12 07:54:51,781] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:54:51,794] {logging_mixin.py:104} INFO - [2021-05-12 07:54:51,793] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 07:54:51,898] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.157 seconds
+[2021-05-12 07:54:59,670] {scheduler_job.py:182} INFO - Started process (PID=2076228) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:54:59,671] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 07:54:59,671] {logging_mixin.py:104} INFO - [2021-05-12 07:54:59,671] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:54:59,688] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:54:59,707] {logging_mixin.py:104} INFO - [2021-05-12 07:54:59,707] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:54:59,719] {logging_mixin.py:104} INFO - [2021-05-12 07:54:59,719] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 07:54:59,858] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.192 seconds
+[2021-05-12 07:55:24,006] {scheduler_job.py:182} INFO - Started process (PID=2076468) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:55:24,008] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 07:55:24,008] {logging_mixin.py:104} INFO - [2021-05-12 07:55:24,008] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:55:24,025] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:55:24,045] {logging_mixin.py:104} INFO - [2021-05-12 07:55:24,044] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:55:24,057] {logging_mixin.py:104} INFO - [2021-05-12 07:55:24,057] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 07:55:24,166] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.163 seconds
+[2021-05-12 07:55:31,802] {scheduler_job.py:182} INFO - Started process (PID=2076564) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:55:31,803] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 07:55:31,805] {logging_mixin.py:104} INFO - [2021-05-12 07:55:31,805] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:55:31,822] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:55:31,842] {logging_mixin.py:104} INFO - [2021-05-12 07:55:31,842] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:55:31,858] {logging_mixin.py:104} INFO - [2021-05-12 07:55:31,858] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 07:55:32,058] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.260 seconds
+[2021-05-12 07:55:57,697] {scheduler_job.py:182} INFO - Started process (PID=2076946) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:55:57,699] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 07:55:57,701] {logging_mixin.py:104} INFO - [2021-05-12 07:55:57,700] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:55:57,731] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:55:57,759] {logging_mixin.py:104} INFO - [2021-05-12 07:55:57,759] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:55:57,771] {logging_mixin.py:104} INFO - [2021-05-12 07:55:57,771] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 07:55:57,941] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.246 seconds
+[2021-05-12 07:56:02,391] {scheduler_job.py:182} INFO - Started process (PID=2077019) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:56:02,392] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 07:56:02,392] {logging_mixin.py:104} INFO - [2021-05-12 07:56:02,392] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:56:02,412] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:56:02,433] {logging_mixin.py:104} INFO - [2021-05-12 07:56:02,433] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:56:02,445] {logging_mixin.py:104} INFO - [2021-05-12 07:56:02,445] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 07:56:02,799] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.412 seconds
+[2021-05-12 07:56:30,176] {scheduler_job.py:182} INFO - Started process (PID=2077355) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:56:30,179] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 07:56:30,180] {logging_mixin.py:104} INFO - [2021-05-12 07:56:30,180] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:56:30,200] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:56:30,219] {logging_mixin.py:104} INFO - [2021-05-12 07:56:30,219] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:56:30,231] {logging_mixin.py:104} INFO - [2021-05-12 07:56:30,231] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 07:56:30,355] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.186 seconds
+[2021-05-12 07:56:33,578] {scheduler_job.py:182} INFO - Started process (PID=2077372) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:56:33,579] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 07:56:33,580] {logging_mixin.py:104} INFO - [2021-05-12 07:56:33,580] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:56:33,596] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:56:33,617] {logging_mixin.py:104} INFO - [2021-05-12 07:56:33,617] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:56:33,628] {logging_mixin.py:104} INFO - [2021-05-12 07:56:33,628] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 07:56:33,721] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.147 seconds
+[2021-05-12 07:57:02,439] {scheduler_job.py:182} INFO - Started process (PID=2077687) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:57:02,441] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 07:57:02,441] {logging_mixin.py:104} INFO - [2021-05-12 07:57:02,441] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:57:02,458] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:57:02,480] {logging_mixin.py:104} INFO - [2021-05-12 07:57:02,480] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:57:02,491] {logging_mixin.py:104} INFO - [2021-05-12 07:57:02,491] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 07:57:02,829] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.393 seconds
+[2021-05-12 07:57:04,247] {scheduler_job.py:182} INFO - Started process (PID=2077690) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:57:04,248] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 07:57:04,249] {logging_mixin.py:104} INFO - [2021-05-12 07:57:04,249] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:57:04,265] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:57:04,367] {logging_mixin.py:104} INFO - [2021-05-12 07:57:04,367] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:57:04,379] {logging_mixin.py:104} INFO - [2021-05-12 07:57:04,379] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 07:57:04,479] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.235 seconds
+[2021-05-12 07:57:36,548] {scheduler_job.py:182} INFO - Started process (PID=2078149) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:57:36,550] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 07:57:36,550] {logging_mixin.py:104} INFO - [2021-05-12 07:57:36,550] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:57:36,567] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:57:36,582] {scheduler_job.py:182} INFO - Started process (PID=2078150) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:57:36,583] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 07:57:36,584] {logging_mixin.py:104} INFO - [2021-05-12 07:57:36,584] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:57:36,591] {logging_mixin.py:104} INFO - [2021-05-12 07:57:36,591] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:57:36,602] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:57:36,603] {logging_mixin.py:104} INFO - [2021-05-12 07:57:36,603] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 07:57:36,704] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.159 seconds
+[2021-05-12 07:57:36,727] {logging_mixin.py:104} INFO - [2021-05-12 07:57:36,727] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:57:36,738] {logging_mixin.py:104} INFO - [2021-05-12 07:57:36,738] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 07:57:36,837] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.258 seconds
+[2021-05-12 07:58:08,785] {scheduler_job.py:182} INFO - Started process (PID=2078507) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:58:08,786] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 07:58:08,787] {logging_mixin.py:104} INFO - [2021-05-12 07:58:08,786] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:58:08,803] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:58:08,849] {logging_mixin.py:104} INFO - [2021-05-12 07:58:08,849] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:58:08,864] {logging_mixin.py:104} INFO - [2021-05-12 07:58:08,863] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 07:58:08,995] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.214 seconds
+[2021-05-12 07:58:09,830] {scheduler_job.py:182} INFO - Started process (PID=2078535) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:58:09,833] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 07:58:09,834] {logging_mixin.py:104} INFO - [2021-05-12 07:58:09,833] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:58:09,854] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:58:09,880] {logging_mixin.py:104} INFO - [2021-05-12 07:58:09,880] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:58:09,901] {logging_mixin.py:104} INFO - [2021-05-12 07:58:09,901] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 07:58:10,014] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.192 seconds
+[2021-05-12 07:58:40,623] {scheduler_job.py:182} INFO - Started process (PID=2078879) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:58:40,624] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 07:58:40,625] {logging_mixin.py:104} INFO - [2021-05-12 07:58:40,624] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:58:40,641] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:58:40,767] {logging_mixin.py:104} INFO - [2021-05-12 07:58:40,767] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:58:40,779] {logging_mixin.py:104} INFO - [2021-05-12 07:58:40,779] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 07:58:40,903] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.283 seconds
+[2021-05-12 07:58:43,192] {scheduler_job.py:182} INFO - Started process (PID=2078895) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:58:43,193] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 07:58:43,194] {logging_mixin.py:104} INFO - [2021-05-12 07:58:43,194] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:58:43,210] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:58:43,231] {logging_mixin.py:104} INFO - [2021-05-12 07:58:43,231] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:58:43,241] {logging_mixin.py:104} INFO - [2021-05-12 07:58:43,241] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 07:58:43,355] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.167 seconds
+[2021-05-12 07:59:11,035] {scheduler_job.py:182} INFO - Started process (PID=2079199) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:59:11,036] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 07:59:11,037] {logging_mixin.py:104} INFO - [2021-05-12 07:59:11,037] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:59:11,054] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:59:11,074] {logging_mixin.py:104} INFO - [2021-05-12 07:59:11,074] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:59:11,085] {logging_mixin.py:104} INFO - [2021-05-12 07:59:11,085] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 07:59:11,186] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.154 seconds
+[2021-05-12 07:59:18,213] {scheduler_job.py:182} INFO - Started process (PID=2079244) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:59:18,214] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 07:59:18,214] {logging_mixin.py:104} INFO - [2021-05-12 07:59:18,214] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:59:18,231] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:59:18,252] {logging_mixin.py:104} INFO - [2021-05-12 07:59:18,252] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:59:18,262] {logging_mixin.py:104} INFO - [2021-05-12 07:59:18,262] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 07:59:18,387] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.177 seconds
+[2021-05-12 07:59:44,023] {scheduler_job.py:182} INFO - Started process (PID=2079515) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:59:44,024] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 07:59:44,025] {logging_mixin.py:104} INFO - [2021-05-12 07:59:44,024] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:59:44,043] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 07:59:44,064] {logging_mixin.py:104} INFO - [2021-05-12 07:59:44,064] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 07:59:44,086] {logging_mixin.py:104} INFO - [2021-05-12 07:59:44,086] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 07:59:44,329] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.310 seconds
+[2021-05-12 08:00:15,947] {scheduler_job.py:182} INFO - Started process (PID=2079987) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 08:00:15,949] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 08:00:15,949] {logging_mixin.py:104} INFO - [2021-05-12 08:00:15,949] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 08:00:15,967] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 08:00:15,987] {logging_mixin.py:104} INFO - [2021-05-12 08:00:15,987] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 08:00:15,997] {logging_mixin.py:104} INFO - [2021-05-12 08:00:15,997] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 08:00:16,093] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.149 seconds
+[2021-05-12 08:00:48,078] {scheduler_job.py:182} INFO - Started process (PID=2080313) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 08:00:48,080] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 08:00:48,080] {logging_mixin.py:104} INFO - [2021-05-12 08:00:48,080] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 08:00:48,097] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 08:00:48,116] {logging_mixin.py:104} INFO - [2021-05-12 08:00:48,116] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 08:00:48,127] {logging_mixin.py:104} INFO - [2021-05-12 08:00:48,126] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 08:00:48,253] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.177 seconds
+[2021-05-12 08:01:19,239] {scheduler_job.py:182} INFO - Started process (PID=2080756) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 08:01:19,240] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 08:01:19,241] {logging_mixin.py:104} INFO - [2021-05-12 08:01:19,241] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 08:01:19,259] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 08:01:19,278] {logging_mixin.py:104} INFO - [2021-05-12 08:01:19,278] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 08:01:19,289] {logging_mixin.py:104} INFO - [2021-05-12 08:01:19,289] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 08:01:19,384] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.148 seconds
+[2021-05-12 08:01:51,225] {scheduler_job.py:182} INFO - Started process (PID=2081101) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 08:01:51,226] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 08:01:51,227] {logging_mixin.py:104} INFO - [2021-05-12 08:01:51,227] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 08:01:51,244] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 08:01:51,265] {logging_mixin.py:104} INFO - [2021-05-12 08:01:51,265] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 08:01:51,276] {logging_mixin.py:104} INFO - [2021-05-12 08:01:51,276] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 08:01:51,375] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.154 seconds
+[2021-05-12 08:02:21,766] {scheduler_job.py:182} INFO - Started process (PID=2081390) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 08:02:21,767] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 08:02:21,768] {logging_mixin.py:104} INFO - [2021-05-12 08:02:21,768] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 08:02:21,785] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 08:02:21,804] {logging_mixin.py:104} INFO - [2021-05-12 08:02:21,804] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 08:02:21,815] {logging_mixin.py:104} INFO - [2021-05-12 08:02:21,815] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 08:02:21,919] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.156 seconds
+[2021-05-12 08:02:52,635] {scheduler_job.py:182} INFO - Started process (PID=2081698) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 08:02:52,636] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 08:02:52,637] {logging_mixin.py:104} INFO - [2021-05-12 08:02:52,637] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 08:02:52,653] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 08:02:52,673] {logging_mixin.py:104} INFO - [2021-05-12 08:02:52,673] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 08:02:52,684] {logging_mixin.py:104} INFO - [2021-05-12 08:02:52,683] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 08:02:52,782] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.150 seconds
+[2021-05-12 08:03:24,615] {scheduler_job.py:182} INFO - Started process (PID=2082133) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 08:03:24,617] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 08:03:24,617] {logging_mixin.py:104} INFO - [2021-05-12 08:03:24,617] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 08:03:24,634] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 08:03:24,653] {logging_mixin.py:104} INFO - [2021-05-12 08:03:24,653] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 08:03:24,664] {logging_mixin.py:104} INFO - [2021-05-12 08:03:24,664] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 08:03:24,765] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.154 seconds
+[2021-05-12 08:03:55,880] {scheduler_job.py:182} INFO - Started process (PID=2082455) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 08:03:55,881] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 08:03:55,882] {logging_mixin.py:104} INFO - [2021-05-12 08:03:55,882] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 08:03:55,899] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 08:03:55,918] {logging_mixin.py:104} INFO - [2021-05-12 08:03:55,918] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 08:03:55,930] {logging_mixin.py:104} INFO - [2021-05-12 08:03:55,930] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 08:03:56,023] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.146 seconds
+[2021-05-12 08:04:27,815] {scheduler_job.py:182} INFO - Started process (PID=2082758) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 08:04:27,817] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 08:04:27,817] {logging_mixin.py:104} INFO - [2021-05-12 08:04:27,817] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 08:04:27,833] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 08:04:27,853] {logging_mixin.py:104} INFO - [2021-05-12 08:04:27,853] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 08:04:27,866] {logging_mixin.py:104} INFO - [2021-05-12 08:04:27,865] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 08:04:27,986] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.174 seconds
+[2021-05-12 08:04:58,345] {scheduler_job.py:182} INFO - Started process (PID=2083059) to work on /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 08:04:58,346] {scheduler_job.py:629} INFO - Processing file /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-05-12 08:04:58,346] {logging_mixin.py:104} INFO - [2021-05-12 08:04:58,346] {dagbag.py:451} INFO - Filling up the DagBag from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 08:04:58,363] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-05-12 08:04:58,383] {logging_mixin.py:104} INFO - [2021-05-12 08:04:58,383] {dag.py:1824} INFO - Sync 1 DAGs
+[2021-05-12 08:04:58,395] {logging_mixin.py:104} INFO - [2021-05-12 08:04:58,395] {dag.py:2280} INFO - Setting next_dagrun for example_complex to None
+[2021-05-12 08:04:58,514] {scheduler_job.py:190} INFO - Processing /home/ubuntu/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.172 seconds
